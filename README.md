@@ -1,4 +1,4 @@
-## Astrum Cultio
+![Astrum Cultio](Logo.png)
 
 Progress through the different ages with this quest driven pack.  Follow the quest-lines to become master of each age to progress towards the stars.  This pack contains vein driving ore generation and a heavy influence on aesthetics.  This pack is meant to be light in mods but heavy in immersion. 
 
