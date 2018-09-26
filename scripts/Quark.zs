@@ -1,0 +1,33 @@
+recipes.remove(<quark:quilted_wool:*>);
+recipes.addShaped(<quark:quilted_wool:0>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:0>,<minecraft:wool:0>,<minecraft:wool:0>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:1>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:1>,<minecraft:wool:1>,<minecraft:wool:1>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:2>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:2>,<minecraft:wool:2>,<minecraft:wool:2>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:3>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:3>,<minecraft:wool:3>,<minecraft:wool:3>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:4>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:4>,<minecraft:wool:4>,<minecraft:wool:4>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:5>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:5>,<minecraft:wool:5>,<minecraft:wool:5>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:6>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:6>,<minecraft:wool:6>,<minecraft:wool:6>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:7>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:7>,<minecraft:wool:7>,<minecraft:wool:7>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:8>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:8>,<minecraft:wool:8>,<minecraft:wool:8>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:9>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:9>,<minecraft:wool:9>,<minecraft:wool:9>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:10>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:10>,<minecraft:wool:10>,<minecraft:wool:10>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:11>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:11>,<minecraft:wool:11>,<minecraft:wool:11>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:12>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:12>,<minecraft:wool:12>,<minecraft:wool:12>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:13>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:13>,<minecraft:wool:13>,<minecraft:wool:13>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:14>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:14>,<minecraft:wool:14>,<minecraft:wool:14>],[<ore:string>,<ore:string>,<ore:string>]]);
+recipes.addShaped(<quark:quilted_wool:15>,
+  [[<ore:string>,<ore:string>,<ore:string>],[<minecraft:wool:15>,<minecraft:wool:15>,<minecraft:wool:15>],[<ore:string>,<ore:string>,<ore:string>]]);
