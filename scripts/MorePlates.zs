@@ -21,7 +21,20 @@ recipes.remove(<moreplates:cobalt_plate>);
 recipes.remove(<moreplates:knightslime_plate>);
 recipes.remove(<moreplates:manyullyn_plate>);
 recipes.remove(<moreplates:pig_iron_plate>);
-//recipes.remove(<moreplates:silicon_plate>);
+recipes.remove(<moreplates:ironwood_plate>);
+recipes.remove(<moreplates:coal_plate>);
+recipes.remove(<moreplates:diamond_plate>);
+recipes.remove(<moreplates:emerald_plate>);
+recipes.remove(<moreplates:glowstone_plate>);
+recipes.remove(<moreplates:lapis_lazuli_plate>);
+recipes.remove(<moreplates:nether_quartz_plate>);
+recipes.remove(<moreplates:redstone_plate>);
+recipes.remove(<moreplates:combustive_metal_plate>);
+recipes.remove(<moreplates:crude_steel_plate>);
+recipes.remove(<moreplates:crystalline_alloy_plate>);
+recipes.remove(<moreplates:crystalline_pink_slime_plate>);
+recipes.remove(<moreplates:fiery_plate>);
+recipes.remove(<moreplates:knightmetal_plate>);
 
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:certus_quartz_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:fluix_plate>);
@@ -68,7 +81,12 @@ mods.immersiveengineering.MetalPress.addRecipe(<moreplates:cobalt_plate>,<ore:in
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:knightslime_plate>,<ore:ingotKnightslime>,<immersiveengineering:mold:0>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:manyullyn_plate>,<ore:ingotManyullyn>,<immersiveengineering:mold:0>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:pig_iron_plate>,<ore:ingotPigIron>,<immersiveengineering:mold:0>, 500);
-//mods.immersiveengineering.MetalPress.addRecipe(<moreplates:silicon_plate>,<ore:anySilicon>,<immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:diamond_plate>,<ore:gemDiamond>,<immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:emerald_plate>,<ore:gemEmerald>,<immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:glowstone_plate>,<ore:dustGlowstone>,<immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:lapis_lazuli_plate>,<ore:gemLapis>,<immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:nether_quartz_plate>,<ore:gemQuartz>,<immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:redstone_plate>,<ore:dustRedstone>,<immersiveengineering:mold:0>, 500);
 
 // Gears
 recipes.remove(<moreplates:certus_quartz_gear>);
@@ -93,7 +111,19 @@ recipes.remove(<moreplates:cobalt_gear>);
 recipes.remove(<moreplates:knightslime_gear>);
 recipes.remove(<moreplates:manyullyn_gear>);
 recipes.remove(<moreplates:pig_iron_gear>);
-recipes.remove(<moreplates:silicon_gear>);
+recipes.remove(<moreplates:ironwood_gear>);
+recipes.remove(<moreplates:coal_gear>);
+recipes.remove(<moreplates:emerald_gear>);
+recipes.remove(<moreplates:glowstone_gear>);
+recipes.remove(<moreplates:lapis_lazuli_gear>);
+recipes.remove(<moreplates:nether_quartz_gear>);
+recipes.remove(<moreplates:redstone_gear>);
+recipes.remove(<moreplates:combustive_metal_gear>);
+recipes.remove(<moreplates:crude_steel_gear>);
+recipes.remove(<moreplates:crystalline_alloy_gear>);
+recipes.remove(<moreplates:crystalline_pink_slime_gear>);
+recipes.remove(<moreplates:fiery_gear>);
+recipes.remove(<moreplates:knightmetal_gear>);
 
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:certus_quartz_gear>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:fluix_gear>);
@@ -140,4 +170,29 @@ mods.immersiveengineering.MetalPress.addRecipe(<moreplates:cobalt_gear>,<ore:ing
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:knightslime_gear>,<ore:ingotKnightslime> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:manyullyn_gear>,<ore:ingotManyullyn> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:pig_iron_gear>,<ore:ingotPigiron> * 4,<immersiveengineering:mold:1>, 500);
-mods.immersiveengineering.MetalPress.addRecipe(<moreplates:silicon_gear>,<ore:anySilicon> * 4,<immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:emerald_gear>,<ore:blockEmerald> * 4,<immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:glowstone_gear>,<ore:dustGlowstone> * 4,<immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:lapis_lazuli_gear>,<ore:gemLapis> * 4,<immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:nether_quartz_gear>,<ore:gemQuartz> * 4,<immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:redstone_gear>,<ore:dustRedstone> * 4,<immersiveengineering:mold:1>, 500);
+
+//Sticks
+recipes.remove(<moreplates:gold_stick>);
+recipes.remove(<moreplates:bronze_stick>);
+recipes.remove(<moreplates:constantan_stick>);
+recipes.remove(<moreplates:electrum_stick>);
+recipes.remove(<moreplates:lead_stick>);
+recipes.remove(<moreplates:nickel_stick>);
+recipes.remove(<moreplates:platinum_stick>);
+recipes.remove(<moreplates:silver_stick>);
+recipes.remove(<moreplates:tin_stick>);
+
+/* mods.immersiveengineering.MetalPress.addRecipe(<moreplates:gold_stick>,<ore:ingotGold>,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:bronze_stick>,<ore:ingotBronze>,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:constantan_stick>,<ore:ingotConstantan> * 4,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:electrum_stick>,<ore:ingotElectrum> * 4,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:lead_stick>,<ore:ingotLead> * 4,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:nickel_stick>,<ore:ingotNickel> * 4,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:platinum_stick>,<ore:ingotPlatinum> * 4,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:silver_stick>,<ore:ingotSilver> * 4,<immersiveengineering:mold:2>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<moreplates:tin_stick>,<ore:ingotTin> * 4,<immersiveengineering:mold:2>, 500); */

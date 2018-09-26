@@ -5,7 +5,7 @@ logger.logInfo("** Magneticraft loading");
 recipes.remove(<magneticraft:crushing_table>);
 recipes.addShaped(<magneticraft:crushing_table>,
     [[<ore:plateIron>,<ore:plateIron>,<ore:plateIron>],
-     [<ore:stickIron>,<ore:plankWood>,<ore:stickIron>],
+     [null,<ore:plankWood>,null],
      [<ore:plankWood>,<ore:logWood>,<ore:plankWood>]]);
 
 //Electric Furnace
