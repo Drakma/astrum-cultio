@@ -21,3 +21,9 @@ dropt.log
 /config/jei/worldSettings.cfg
 /astralsorcery
 /bendspacks
+/journeymap/data
+/journeymap/icon
+/journeymap/server
+/journeymap/journeymap.log
+config/InvTweaks.cfg
+config/MouseTweaks.cfg
