@@ -1,0 +1,18 @@
+[
+  {
+    "type": "milk",
+    "name": "minecraft.cow.milk",
+    "delay": {
+      "min": 300,
+      "max": 400
+    },
+    "should_adult": true,
+    "disable_sound": false,
+    "input": {
+      "item": "minecraft:bucket"
+    },
+    "output": {
+      "item": "minecraft:milk_bucket"
+    }
+  }
+]

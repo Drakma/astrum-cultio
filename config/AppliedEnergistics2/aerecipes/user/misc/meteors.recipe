@@ -1,0 +1,5 @@
+shaped=
+    _ oredictionary:plateNickel _,
+    oredictionary:plateNickel ae2:material.CertusQuartzCrystalCharged oredictionary:plateNickel,
+    _ oredictionary:plateNickel _
+    -> ae2:sky_compass

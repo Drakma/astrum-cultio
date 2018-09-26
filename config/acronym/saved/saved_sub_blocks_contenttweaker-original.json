@@ -1,0 +1,27 @@
+{
+  "savedSubBlockNames": {
+    "0": {
+      "0": "amber_ore_sample",
+      "1": "aquamarine_ore_minecraft_stone",
+      "2": "starmetal_ore_sample",
+      "3": "topaz_ore_sample",
+      "4": "prosperity_ore_sample",
+      "5": "malachite_ore_sample",
+      "6": "tanzanite_ore_sample",
+      "7": "inferium_ore_sample",
+      "8": "steaite_ore_sample",
+      "9": "dilithium_ore_sample",
+      "10": "peridot_ore_sample",
+      "11": "iridium_ore_sample",
+      "12": "fossil_ore_sample",
+      "13": "aquamarine_ore_sample",
+      "14": "rutile_ore_sample",
+      "15": "ruby_ore_sample"
+    },
+    "1": {
+      "0": "sapphire_ore_sample",
+      "1": "ancite_ore_sample",
+      "2": "ancite_ore_minecraft_stone"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "item": {
+      "item": "minecraft:sugar"
+    },
+    "nutrient": 0.15,
+    "stomach": 0.25
+  },
+  {
+    "item": {
+      "item": "minecraft:wheat"
+    },
+    "nutrient": 0.57,
+    "stomach": 0.95
+  },
+  {
+    "item": {
+      "item": "minecraft:hay_block"
+    },
+    "nutrient": 5.13,
+    "stomach": 8.55
+  },
+  {
+    "item": {
+      "item": "minecraft:apple"
+    },
+    "nutrient": 0.36,
+    "stomach": 0.6
+  },
+  {
+    "item": {
+      "item": "minecraft:golden_carrot"
+    },
+    "nutrient": 1.6,
+    "stomach": 2
+  },
+  {
+    "item": {
+      "item": "minecraft:golden_apple",
+      "data": 32767
+    },
+    "nutrient": 5,
+    "stomach": 5
+  }
+]

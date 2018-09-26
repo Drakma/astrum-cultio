@@ -1,0 +1,19 @@
+[
+  {
+    "generator": {
+      "condition": {
+        "below": {
+          "name": "minecraft:grass"
+        },
+        "chance": 0.1,
+        "not_adjacent": {
+          "name": "minecraft:tallgrass"
+        }
+      },
+      "grass": {
+        "name": "minecraft:tallgrass",
+        "type": "tall_grass"
+      }
+    }
+  }
+]

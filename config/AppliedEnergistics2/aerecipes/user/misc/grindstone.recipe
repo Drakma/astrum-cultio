@@ -1,0 +1,5 @@
+shaped=
+    mysticalagriculture:soulstone oredictionary:gearSteel mysticalagriculture:soulstone,
+    crystalQuartz mysticalagriculture:soulstone crystalQuartz,
+    oredictionary:blockSeared crystalQuartz oredictionary:blockSeared
+    -> ae2:grindstone

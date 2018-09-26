@@ -1,0 +1,82 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:leaves:*",
+            "minecraft:leaves2:*",
+            "biomesoplenty:leaves_0:*",
+            "biomesoplenty:leaves_1:*",
+            "biomesoplenty:leaves_2:*",
+            "biomesoplenty:leaves_3:*",
+            "biomesoplenty:leaves_4:*",
+            "biomesoplenty:leaves_5:*",
+            "dynamictrees:leaves0:*",
+            "dynamictrees:leaves1:*",
+            "erebus:leaves_baobab",
+            "erebus:leaves_eucalyptus",
+            "erebus:leaves_mahogany",
+            "erebus:leaves_mossbark",
+            "erebus:leaves_asper",
+            "erebus:leaves_cypress",
+            "erebus:leaves_balsam",
+            "erebus:leaves_marshwood",
+            "forestry:leaves.decorative.0:*",
+            "forestry:leaves.decorative.1:*",
+            "forestry:leaves.decorative.2:*",
+            "rustic:leaves:*",
+            "rustic:leaves_apple",
+            "thebetweenlands:leaves_weedwood_tree",
+            "thebetweenlands:leaves_sap_tree",
+            "thebetweenlands:leaves_rubber_tree",
+            "thebetweenlands:leaves_hearthgrove_tree",
+            "thebetweenlands:leaves_nibbletwig_tree",
+            "twilightforest:twilight_leaves:*",
+            "twilightforest:magic_leaves:*",
+            "twilightforest:twilight_leaves_3:*",
+            "twilightforest:dark_leaves",
+            "twilightforest:giant_leaves",
+            "totemic:cedar_leaves",
+            "traverse:red_autumnal_leaves",
+            "traverse:brown_autumnal_leaves",
+            "traverse:orange_autumnal_leaves",
+            "traverse:yellow_autumnal_leaves",
+            "traverse:fir_leaves"
+          ]
+        }
+      },
+      "replaceStrategy": "ADD",
+      "dropCount": {
+        "min": 1,
+        "max": 3,
+        "fortuneModifier": 0
+      },
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 25
+            }
+          },
+          "item": {
+            "items": [
+              "minecraft:stick"
+            ],
+            "quanity": {
+              "min": 1,
+              "max": 3
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 75
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "herbivore",
+  "avoid_player": {
+    "radius": 16.0,
+    "farspeed": 1.0,
+    "nearspeed": 2.0
+  }
+}
