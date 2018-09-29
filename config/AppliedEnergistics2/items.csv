@@ -643,6 +643,12 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+ae2stuff:encoder, Pattern Encoder
+ae2stuff:grower, Crystal Growth Chamber
+ae2stuff:inscriber, Advanced Inscriber
+ae2stuff:wireless, Wireless Connector
+ae2stuff:wireless_kit, Wireless Setup Kit
+ae2stuff:visualiser, Network Visualisation Tool
 biomesoplenty:grass:0, Spectral Moss
 biomesoplenty:grass:1, Overgrown Stone
 biomesoplenty:grass:2, Loamy Grass Block
@@ -1370,10 +1376,189 @@ forestry:resource_storage:2, Block of Tin
 forestry:resource_storage:3, Block of Bronze
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
+forestry:habitat_locator, Habitat Locator
+forestry:imprinter, Imprinter
+forestry:cart.beehouse:0, Minecart with Bee House
+forestry:cart.beehouse:1, Minecart with Apiary
+forestry:frame_untreated, Untreated Frame
+forestry:frame_impregnated, Impregnated Frame
+forestry:frame_proven, Proven Frame
+forestry:honey_drop:0, Honey Drop
+forestry:pollen:0, Pollen Cluster
+forestry:pollen:1, Crystalline Pollen Cluster
+forestry:propolis:0, Propolis
+forestry:propolis:1, Sticky Propolis
+forestry:propolis:3, Silky Propolis
+forestry:honeydew, Honeydew
+forestry:royal_jelly, Royal Jelly
+forestry:wax_cast, Wax Cast
+forestry:bee_combs:0, Honey Comb
+forestry:bee_combs:2, Simmering Comb
+forestry:bee_combs:3, Stringy Comb
+forestry:bee_combs:4, Frozen Comb
+forestry:bee_combs:5, Dripping Comb
+forestry:bee_combs:6, Silky Comb
+forestry:bee_combs:7, Parched Comb
+forestry:bee_combs:15, Mossy Comb
+forestry:bee_combs:16, Mellow Comb
+forestry:apiarist_helmet, Apiarist's Hat
+forestry:apiarist_chest, Apiarist's Shirt
+forestry:apiarist_legs, Apiarist's Pants
+forestry:apiarist_boots, Apiarist's Shoes
+forestry:scoop, Scoop
+forestry:smoker, Bee Smoker
+forestry:apiary:0, Apiary
+forestry:bee_house:0, Bee House
+forestry:bee_chest:0, Apiarist's Chest
+forestry:beehives:0, Forest Hive
+forestry:beehives:1, Meadows Hive
+forestry:beehives:2, Modest Hive
+forestry:beehives:3, Tropical Hive
+forestry:beehives:4, Ender Hive
+forestry:beehives:5, Wintry Hive
+forestry:beehives:6, Marshy Hive
+forestry:candle:0, Unlit Candle
+forestry:stump:0, Candle Stump
+forestry:bee_combs_0:0, Honey Comb Block
+forestry:bee_combs_0:2, Simmering Comb Block
+forestry:bee_combs_0:3, Stringy Comb Block
+forestry:bee_combs_0:4, Frozen Comb Block
+forestry:bee_combs_0:5, Dripping Comb Block
+forestry:bee_combs_0:6, Silky Comb Block
+forestry:bee_combs_0:7, Parched Comb Block
+forestry:bee_combs_0:15, Mossy Comb Block
+forestry:bee_combs_1:0, Mellow Comb Block
+forestry:alveary.plain:0, Alveary
+forestry:alveary.swarmer:0, Alveary Swarmer
+forestry:alveary.fan:0, Alveary Fan
+forestry:alveary.heater:0, Alveary Heater
+forestry:alveary.hygro:0, Alveary Hygroregulator
+forestry:alveary.stabiliser:0, Alveary Stabiliser
+forestry:alveary.sieve:0, Alveary Sieve
+forestry:honeyed_slice, Honeyed Slice
+forestry:ambrosia, Ambrosia
+forestry:honey_pot, Honey Pot
+forestry:stamps:0, Stamp (1n)
+forestry:stamps:1, Stamp (2n)
+forestry:stamps:2, Stamp (5n)
+forestry:stamps:3, Stamp (10n)
+forestry:stamps:4, Stamp (20n)
+forestry:stamps:5, Stamp (50n)
+forestry:stamps:6, Stamp (100n)
+forestry:letters, Letter
+forestry:catalogue, Catalogue
+forestry:mailbox:0, Mailbox
+forestry:trade_station:0, Trade Station
+forestry:stamp_collector:0, Stamp Collector
 forestry:book_forester, Forester's Manual
+forestry:apiarist_bag, Apiarist's Backpack
+forestry:lepidopterist_bag, Lepidopterist's Backpack
+forestry:miner_bag, Mining Backpack
+forestry:miner_bag_t2, Woven Mining Backpack
+forestry:digger_bag, Digging Backpack
+forestry:digger_bag_t2, Woven Digging Backpack
+forestry:forester_bag, Foresting Backpack
+forestry:forester_bag_t2, Woven Foresting Backpack
+forestry:hunter_bag, Hunting Backpack
+forestry:hunter_bag_t2, Woven Hunting Backpack
+forestry:adventurer_bag, Adventuring Backpack
+forestry:adventurer_bag_t2, Woven Adventuring Backpack
+forestry:builder_bag, Building Backpack
+forestry:builder_bag_t2, Woven Building Backpack
+forestry:worktable:0, Worktable
+forestry:charcoal:0, Block of Charcoal
+forestry:wood_pile:0, Wood Pile
+forestry:wood_pile_decorative:0, Decorative Wood Pile
+forestry:ash_block:0, Ash Block
+forestry:loam:0, Loam
 forestry:engine_peat:0, Peat-fired Engine
 forestry:engine_biogas:0, Biogas Engine
 forestry:engine_clockwork:0, Clockwork Engine
+forestry:mushroom:0, tile.for.mushroom.name
+forestry:mushroom:1, tile.for.mushroom.name
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:genetic_filter:0, Genetic Filter
+forestry:crate, Crate
+forestry:fluid.bio.ethanol, Ethanol
+forestry:fluid.biomass, Biomass
+forestry:fluid.glass, Liquid Glass
+forestry:fluid.for.honey, Honey
+forestry:fluid.ice, Crushed Ice
+forestry:fluid.juice, Fruit Juice
+forestry:fluid.milk, Milk
+forestry:fluid.seed.oil, Seed Oil
+forestry:fluid.short.mead, Short Mead
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
+forestry:arboretum:0, Arboretum (Managed)
+forestry:arboretum:1, Arboretum (Manual)
+forestry:farm_crops:0, Farm (Managed)
+forestry:farm_crops:1, Farm (Manual)
+forestry:farm_mushroom:0, Mushroom Farm (Managed)
+forestry:farm_mushroom:1, Mushroom Farm (Manual)
+forestry:farm_gourd:0, Gourd Farm (Managed)
+forestry:farm_gourd:1, Gourd Farm (Manual)
+forestry:farm_nether:0, Infernal Farm (Managed)
+forestry:farm_nether:1, Infernal Farm (Manual)
+forestry:farm_ender:0, Ender Farm (Managed)
+forestry:farm_ender:1, Ender Farm (Manual)
+forestry:peat_bog:0, Peat Bog (Managed)
+forestry:peat_bog:1, Peat Bog (Manual)
 forestry:grafter, Grafter
 forestry:grafter_proven, Proven Grafter
 forestry:logs.0:0, Larch Wood
@@ -1826,188 +2011,6 @@ forestry:leaves.decorative.2:0, Papaya Leaves
 forestry:leaves.decorative.2:1, Date Palm Leaves
 forestry:leaves.decorative.2:2, White Poplar Leaves
 forestry:tree_chest:0, Arborist's Chest
-forestry:fluid.bio.ethanol, Ethanol
-forestry:fluid.biomass, Biomass
-forestry:fluid.glass, Liquid Glass
-forestry:fluid.for.honey, Honey
-forestry:fluid.ice, Crushed Ice
-forestry:fluid.juice, Fruit Juice
-forestry:fluid.milk, Milk
-forestry:fluid.seed.oil, Seed Oil
-forestry:fluid.short.mead, Short Mead
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:apiarist_bag, Apiarist's Backpack
-forestry:lepidopterist_bag, Lepidopterist's Backpack
-forestry:miner_bag, Mining Backpack
-forestry:miner_bag_t2, Woven Mining Backpack
-forestry:digger_bag, Digging Backpack
-forestry:digger_bag_t2, Woven Digging Backpack
-forestry:forester_bag, Foresting Backpack
-forestry:forester_bag_t2, Woven Foresting Backpack
-forestry:hunter_bag, Hunting Backpack
-forestry:hunter_bag_t2, Woven Hunting Backpack
-forestry:adventurer_bag, Adventuring Backpack
-forestry:adventurer_bag_t2, Woven Adventuring Backpack
-forestry:builder_bag, Building Backpack
-forestry:builder_bag_t2, Woven Building Backpack
-forestry:charcoal:0, Block of Charcoal
-forestry:wood_pile:0, Wood Pile
-forestry:wood_pile_decorative:0, Decorative Wood Pile
-forestry:ash_block:0, Ash Block
-forestry:loam:0, Loam
-forestry:crate, Crate
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
-forestry:worktable:0, Worktable
-forestry:database:0, Database
-forestry:honeyed_slice, Honeyed Slice
-forestry:ambrosia, Ambrosia
-forestry:honey_pot, Honey Pot
-forestry:mushroom:0, tile.for.mushroom.name
-forestry:mushroom:1, tile.for.mushroom.name
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:arboretum:0, Arboretum (Managed)
-forestry:arboretum:1, Arboretum (Manual)
-forestry:farm_crops:0, Farm (Managed)
-forestry:farm_crops:1, Farm (Manual)
-forestry:farm_mushroom:0, Mushroom Farm (Managed)
-forestry:farm_mushroom:1, Mushroom Farm (Manual)
-forestry:farm_gourd:0, Gourd Farm (Managed)
-forestry:farm_gourd:1, Gourd Farm (Manual)
-forestry:farm_nether:0, Infernal Farm (Managed)
-forestry:farm_nether:1, Infernal Farm (Manual)
-forestry:farm_ender:0, Ender Farm (Managed)
-forestry:farm_ender:1, Ender Farm (Manual)
-forestry:peat_bog:0, Peat Bog (Managed)
-forestry:peat_bog:1, Peat Bog (Manual)
-forestry:butterfly_chest:0, Lepidopterist's Chest
-forestry:cocoon:0, tile.for.cocoon.name
-forestry:cocoon.solid:0, tile.for.cocoon.solid.name
-forestry:habitat_locator, Habitat Locator
-forestry:imprinter, Imprinter
-forestry:cart.beehouse:0, Minecart with Bee House
-forestry:cart.beehouse:1, Minecart with Apiary
-forestry:frame_untreated, Untreated Frame
-forestry:frame_impregnated, Impregnated Frame
-forestry:frame_proven, Proven Frame
-forestry:honey_drop:0, Honey Drop
-forestry:pollen:0, Pollen Cluster
-forestry:pollen:1, Crystalline Pollen Cluster
-forestry:propolis:0, Propolis
-forestry:propolis:1, Sticky Propolis
-forestry:propolis:3, Silky Propolis
-forestry:honeydew, Honeydew
-forestry:royal_jelly, Royal Jelly
-forestry:wax_cast, Wax Cast
-forestry:bee_combs:0, Honey Comb
-forestry:bee_combs:2, Simmering Comb
-forestry:bee_combs:3, Stringy Comb
-forestry:bee_combs:4, Frozen Comb
-forestry:bee_combs:5, Dripping Comb
-forestry:bee_combs:6, Silky Comb
-forestry:bee_combs:7, Parched Comb
-forestry:bee_combs:15, Mossy Comb
-forestry:bee_combs:16, Mellow Comb
-forestry:apiarist_helmet, Apiarist's Hat
-forestry:apiarist_chest, Apiarist's Shirt
-forestry:apiarist_legs, Apiarist's Pants
-forestry:apiarist_boots, Apiarist's Shoes
-forestry:scoop, Scoop
-forestry:smoker, Bee Smoker
-forestry:apiary:0, Apiary
-forestry:bee_house:0, Bee House
-forestry:bee_chest:0, Apiarist's Chest
-forestry:beehives:0, Forest Hive
-forestry:beehives:1, Meadows Hive
-forestry:beehives:2, Modest Hive
-forestry:beehives:3, Tropical Hive
-forestry:beehives:4, Ender Hive
-forestry:beehives:5, Wintry Hive
-forestry:beehives:6, Marshy Hive
-forestry:candle:0, Unlit Candle
-forestry:stump:0, Candle Stump
-forestry:bee_combs_0:0, Honey Comb Block
-forestry:bee_combs_0:2, Simmering Comb Block
-forestry:bee_combs_0:3, Stringy Comb Block
-forestry:bee_combs_0:4, Frozen Comb Block
-forestry:bee_combs_0:5, Dripping Comb Block
-forestry:bee_combs_0:6, Silky Comb Block
-forestry:bee_combs_0:7, Parched Comb Block
-forestry:bee_combs_0:15, Mossy Comb Block
-forestry:bee_combs_1:0, Mellow Comb Block
-forestry:alveary.plain:0, Alveary
-forestry:alveary.swarmer:0, Alveary Swarmer
-forestry:alveary.fan:0, Alveary Fan
-forestry:alveary.heater:0, Alveary Heater
-forestry:alveary.hygro:0, Alveary Hygroregulator
-forestry:alveary.stabiliser:0, Alveary Stabiliser
-forestry:alveary.sieve:0, Alveary Sieve
 forestry:greenhouse:0, Greenhouse Block
 forestry:greenhouse:3, Greenhouse Energy Distributor
 forestry:greenhouse:4, Greenhouse Control
@@ -2019,6 +2022,10 @@ forestry:climatiser:3, Greenhouse Humidifier
 forestry:climatiser:4, Greenhouse Dehumidifier
 forestry:greenhouse_screen, Portable Greenhouse Screen
 forestry:camouflage_spray_can, Camouflage Spray Can
+forestry:butterfly_chest:0, Lepidopterist's Chest
+forestry:cocoon:0, tile.for.cocoon.name
+forestry:cocoon.solid:0, tile.for.cocoon.solid.name
+forestry:database:0, Database
 forestry:bottler:0, Bottler
 forestry:carpenter:0, Carpenter
 forestry:centrifuge:0, Centrifuge
@@ -2029,7 +2036,6 @@ forestry:still:0, Still
 forestry:rainmaker:0, Rainmaker
 forestry:fabricator:0, Thermionic Fabricator
 forestry:raintank:0, Rain Tank
-forestry:genetic_filter:0, Genetic Filter
 careerbees:flower_pedastal, Flower Pedastal
 careerbees:alveary_frame, Alveary Frame Holder
 careerbees:mutation_frame, Mutation Frame
@@ -2052,6 +2058,488 @@ careerbees:bee.armor.feet, Bee Armor Boots
 careerbees:bee.armor.legs, Bee Armor Leggings
 careerbees:bee.armor.chest, Bee Armor Chestplate
 careerbees:bee.armor.head, Bee Armor Helmet
+thermalfoundation:ore:0, Copper Ore
+thermalfoundation:ore:1, Tin Ore
+thermalfoundation:ore:2, Silver Ore
+thermalfoundation:ore:3, Lead Ore
+thermalfoundation:ore:4, Aluminum Ore
+thermalfoundation:ore:5, Nickel Ore
+thermalfoundation:ore:6, Platinum Ore
+thermalfoundation:ore:7, Iridium Ore
+thermalfoundation:ore:8, Mana Infused Ore
+thermalfoundation:ore_fluid:0, Oil Sand
+thermalfoundation:ore_fluid:1, Oil Shale
+thermalfoundation:ore_fluid:2, Destabilized Redstone Ore
+thermalfoundation:ore_fluid:3, Energized Netherrack
+thermalfoundation:ore_fluid:4, Resonant End Stone
+thermalfoundation:ore_fluid:5, Oil Sand
+thermalfoundation:storage:0, Block of Copper
+thermalfoundation:storage:1, Block of Tin
+thermalfoundation:storage:2, Block of Silver
+thermalfoundation:storage:3, Block of Lead
+thermalfoundation:storage:4, Block of Aluminum
+thermalfoundation:storage:5, Block of Nickel
+thermalfoundation:storage:6, Block of Platinum
+thermalfoundation:storage:7, Block of Iridium
+thermalfoundation:storage:8, Block of Mana Infused Metal
+thermalfoundation:storage_alloy:0, Block of Steel
+thermalfoundation:storage_alloy:1, Block of Electrum
+thermalfoundation:storage_alloy:2, Block of Invar
+thermalfoundation:storage_alloy:3, Block of Bronze
+thermalfoundation:storage_alloy:4, Block of Constantan
+thermalfoundation:storage_alloy:5, Block of Signalum
+thermalfoundation:storage_alloy:6, Block of Lumium
+thermalfoundation:storage_alloy:7, Block of Enderium
+thermalfoundation:storage_resource:0, Block of Charcoal
+thermalfoundation:storage_resource:1, Block of Coal Coke
+thermalfoundation:glass:0, Hardened Copper Glass
+thermalfoundation:glass:1, Hardened Tin Glass
+thermalfoundation:glass:2, Hardened Silver Glass
+thermalfoundation:glass:3, Hardened Glass
+thermalfoundation:glass:4, Hardened Aluminum Glass
+thermalfoundation:glass:5, Hardened Nickel Glass
+thermalfoundation:glass:6, Hardened Platinum Glass
+thermalfoundation:glass:7, Hardened Iridium Glass
+thermalfoundation:glass:8, Hardened Mana Infused Glass
+thermalfoundation:glass_alloy:0, Hardened Steel Glass
+thermalfoundation:glass_alloy:1, Hardened Electrum Glass
+thermalfoundation:glass_alloy:2, Hardened Invar Glass
+thermalfoundation:glass_alloy:3, Hardened Bronze Glass
+thermalfoundation:glass_alloy:4, Hardened Constantan Glass
+thermalfoundation:glass_alloy:5, Hardened Signalum Glass
+thermalfoundation:glass_alloy:6, Hardened Lumium Glass
+thermalfoundation:glass_alloy:7, Hardened Enderium Glass
+thermalfoundation:rockwool:0, Black Rockwool
+thermalfoundation:rockwool:1, Red Rockwool
+thermalfoundation:rockwool:2, Green Rockwool
+thermalfoundation:rockwool:3, Brown Rockwool
+thermalfoundation:rockwool:4, Blue Rockwool
+thermalfoundation:rockwool:5, Purple Rockwool
+thermalfoundation:rockwool:6, Cyan Rockwool
+thermalfoundation:rockwool:7, Light Gray Rockwool
+thermalfoundation:rockwool:8, Gray Rockwool
+thermalfoundation:rockwool:9, Pink Rockwool
+thermalfoundation:rockwool:10, Lime Rockwool
+thermalfoundation:rockwool:11, Yellow Rockwool
+thermalfoundation:rockwool:12, Light Blue Rockwool
+thermalfoundation:rockwool:13, Magenta Rockwool
+thermalfoundation:rockwool:14, Orange Rockwool
+thermalfoundation:rockwool:15, White Rockwool
+thermalfoundation:wrench:0, Crescent Hammer
+thermalfoundation:meter:0, Multimeter
+thermalfoundation:upgrade:0, Hardened Upgrade Kit
+thermalfoundation:upgrade:1, Reinforced Upgrade Kit
+thermalfoundation:upgrade:2, Signalum Upgrade Kit
+thermalfoundation:upgrade:3, Resonant Upgrade Kit
+thermalfoundation:upgrade:33, Reinforced Conversion Kit
+thermalfoundation:upgrade:34, Signalum Conversion Kit
+thermalfoundation:upgrade:35, Resonant Conversion Kit
+thermalfoundation:upgrade:256, Creative Conversion Kit
+thermalfoundation:security:0, Signalum Security Lock
+thermalfoundation:diagram_redprint, Redprint
+thermalfoundation:tome_lexicon, Forge Lexicon
+thermalfoundation:tome_experience, Tome of Knowledge
+thermalfoundation:coin:0, Iron Coin
+thermalfoundation:coin:1, Gold Coin
+thermalfoundation:coin:64, Copper Coin
+thermalfoundation:coin:65, Tin Coin
+thermalfoundation:coin:66, Silver Coin
+thermalfoundation:coin:67, Lead Coin
+thermalfoundation:coin:68, Aluminum Coin
+thermalfoundation:coin:69, Nickel Coin
+thermalfoundation:coin:70, Platinum Coin
+thermalfoundation:coin:71, Iridium Coin
+thermalfoundation:coin:72, Mana Infused Coin
+thermalfoundation:coin:96, Steel Coin
+thermalfoundation:coin:97, Electrum Coin
+thermalfoundation:coin:98, Invar Coin
+thermalfoundation:coin:99, Bronze Coin
+thermalfoundation:coin:100, Constantan Coin
+thermalfoundation:coin:101, Signalum Coin
+thermalfoundation:coin:102, Lumium Coin
+thermalfoundation:coin:103, Enderium Coin
+thermalfoundation:fertilizer:0, Phyto-Gro
+thermalfoundation:fertilizer:1, Rich Phyto-Gro
+thermalfoundation:fertilizer:2, Fluxed Phyto-Gro
+thermalfoundation:bait:0, Aqua-Chow
+thermalfoundation:bait:1, Rich Aqua-Chow
+thermalfoundation:bait:2, Fluxed Aqua-Chow
+thermalfoundation:dye:0, Black Pigment
+thermalfoundation:dye:1, Red Pigment
+thermalfoundation:dye:2, Green Pigment
+thermalfoundation:dye:3, Brown Pigment
+thermalfoundation:dye:4, Blue Pigment
+thermalfoundation:dye:5, Purple Pigment
+thermalfoundation:dye:6, Cyan Pigment
+thermalfoundation:dye:7, Light Gray Pigment
+thermalfoundation:dye:8, Gray Pigment
+thermalfoundation:dye:9, Pink Pigment
+thermalfoundation:dye:10, Lime Pigment
+thermalfoundation:dye:11, Yellow Pigment
+thermalfoundation:dye:12, Light Blue Pigment
+thermalfoundation:dye:13, Magenta Pigment
+thermalfoundation:dye:14, Orange Pigment
+thermalfoundation:dye:15, White Pigment
+thermalfoundation:material:0, Pulverized Iron
+thermalfoundation:material:1, Pulverized Gold
+thermalfoundation:material:16, Diamond Nugget
+thermalfoundation:material:17, Emerald Nugget
+thermalfoundation:material:24, Iron Gear
+thermalfoundation:material:25, Gold Gear
+thermalfoundation:material:32, Iron Plate
+thermalfoundation:material:33, Gold Plate
+thermalfoundation:material:64, Pulverized Copper
+thermalfoundation:material:65, Pulverized Tin
+thermalfoundation:material:66, Pulverized Silver
+thermalfoundation:material:67, Pulverized Lead
+thermalfoundation:material:68, Pulverized Aluminum
+thermalfoundation:material:69, Pulverized Nickel
+thermalfoundation:material:70, Pulverized Platinum
+thermalfoundation:material:71, Pulverized Iridium
+thermalfoundation:material:72, Pulverized Mana Infused Metal
+thermalfoundation:material:96, Steel Blend
+thermalfoundation:material:97, Electrum Blend
+thermalfoundation:material:98, Invar Blend
+thermalfoundation:material:99, Bronze Blend
+thermalfoundation:material:100, Constantan Blend
+thermalfoundation:material:101, Signalum Blend
+thermalfoundation:material:102, Lumium Blend
+thermalfoundation:material:103, Enderium Blend
+thermalfoundation:material:128, Copper Ingot
+thermalfoundation:material:129, Tin Ingot
+thermalfoundation:material:130, Silver Ingot
+thermalfoundation:material:131, Lead Ingot
+thermalfoundation:material:132, Aluminum Ingot
+thermalfoundation:material:133, Nickel Ingot
+thermalfoundation:material:134, Platinum Ingot
+thermalfoundation:material:135, Iridium Ingot
+thermalfoundation:material:136, Mana Infused Ingot
+thermalfoundation:material:160, Steel Ingot
+thermalfoundation:material:161, Electrum Ingot
+thermalfoundation:material:162, Invar Ingot
+thermalfoundation:material:163, Bronze Ingot
+thermalfoundation:material:164, Constantan Ingot
+thermalfoundation:material:165, Signalum Ingot
+thermalfoundation:material:166, Lumium Ingot
+thermalfoundation:material:167, Enderium Ingot
+thermalfoundation:material:192, Copper Nugget
+thermalfoundation:material:193, Tin Nugget
+thermalfoundation:material:194, Silver Nugget
+thermalfoundation:material:195, Lead Nugget
+thermalfoundation:material:196, Aluminum Nugget
+thermalfoundation:material:197, Nickel Nugget
+thermalfoundation:material:198, Platinum Nugget
+thermalfoundation:material:199, Iridium Nugget
+thermalfoundation:material:200, Mana Infused Nugget
+thermalfoundation:material:224, Steel Nugget
+thermalfoundation:material:225, Electrum Nugget
+thermalfoundation:material:226, Invar Nugget
+thermalfoundation:material:227, Bronze Nugget
+thermalfoundation:material:228, Constantan Nugget
+thermalfoundation:material:229, Signalum Nugget
+thermalfoundation:material:230, Lumium Nugget
+thermalfoundation:material:231, Enderium Nugget
+thermalfoundation:material:256, Copper Gear
+thermalfoundation:material:257, Tin Gear
+thermalfoundation:material:258, Silver Gear
+thermalfoundation:material:259, Lead Gear
+thermalfoundation:material:260, Aluminum Gear
+thermalfoundation:material:261, Nickel Gear
+thermalfoundation:material:262, Platinum Gear
+thermalfoundation:material:263, Iridium Gear
+thermalfoundation:material:264, Mana Infused Gear
+thermalfoundation:material:288, Steel Gear
+thermalfoundation:material:289, Electrum Gear
+thermalfoundation:material:290, Invar Gear
+thermalfoundation:material:291, Bronze Gear
+thermalfoundation:material:292, Constantan Gear
+thermalfoundation:material:293, Signalum Gear
+thermalfoundation:material:294, Lumium Gear
+thermalfoundation:material:295, Enderium Gear
+thermalfoundation:material:320, Copper Plate
+thermalfoundation:material:321, Tin Plate
+thermalfoundation:material:322, Silver Plate
+thermalfoundation:material:323, Lead Plate
+thermalfoundation:material:324, Aluminum Plate
+thermalfoundation:material:325, Nickel Plate
+thermalfoundation:material:326, Platinum Plate
+thermalfoundation:material:327, Iridium Plate
+thermalfoundation:material:328, Mana Infused Plate
+thermalfoundation:material:352, Steel Plate
+thermalfoundation:material:353, Electrum Plate
+thermalfoundation:material:354, Invar Plate
+thermalfoundation:material:355, Bronze Plate
+thermalfoundation:material:356, Constantan Plate
+thermalfoundation:material:357, Signalum Plate
+thermalfoundation:material:358, Lumium Plate
+thermalfoundation:material:359, Enderium Plate
+thermalfoundation:material:512, Redstone Servo
+thermalfoundation:material:513, Redstone Reception Coil
+thermalfoundation:material:514, Redstone Transmission Coil
+thermalfoundation:material:515, Redstone Conductance Coil
+thermalfoundation:material:640, Tool Casing
+thermalfoundation:material:656, Drill Head
+thermalfoundation:material:657, Saw Blade
+thermalfoundation:material:768, Pulverized Coal
+thermalfoundation:material:769, Pulverized Charcoal
+thermalfoundation:material:770, Pulverized Obsidian
+thermalfoundation:material:771, Sulfur
+thermalfoundation:material:772, Niter
+thermalfoundation:material:800, Sawdust
+thermalfoundation:material:801, Compressed Sawdust
+thermalfoundation:material:802, Coal Coke
+thermalfoundation:material:816, Pulped Biomass
+thermalfoundation:material:817, Rich Biomass
+thermalfoundation:material:818, Pulped Bioblend
+thermalfoundation:material:819, Rich Bioblend
+thermalfoundation:material:832, Rosin
+thermalfoundation:material:833, Tar
+thermalfoundation:material:864, Slag
+thermalfoundation:material:865, Rich Slag
+thermalfoundation:material:866, Cinnabar
+thermalfoundation:material:892, Bitumen
+thermalfoundation:material:893, Destabilized Clathrate
+thermalfoundation:material:894, Energized Clathrate
+thermalfoundation:material:895, Resonant Clathrate
+thermalfoundation:material:1024, Pyrotheum Dust
+thermalfoundation:material:1025, Cryotheum Dust
+thermalfoundation:material:1026, Aerotheum Dust
+thermalfoundation:material:1027, Petrotheum Dust
+thermalfoundation:material:1028, Mana Dust
+thermalfoundation:material:2048, Blizz Rod
+thermalfoundation:material:2049, Blizz Powder
+thermalfoundation:material:2050, Blitz Rod
+thermalfoundation:material:2051, Blitz Powder
+thermalfoundation:material:2052, Basalz Rod
+thermalfoundation:material:2053, Basalz Powder
+thermalfoundation:geode:0, Geode
+thermalfoundation:armor.helmet_copper, Copper Helmet
+thermalfoundation:armor.plate_copper, Copper Chestplate
+thermalfoundation:armor.legs_copper, Copper Leggings
+thermalfoundation:armor.boots_copper, Copper Boots
+thermalfoundation:armor.helmet_tin, Tin Helmet
+thermalfoundation:armor.plate_tin, Tin Chestplate
+thermalfoundation:armor.legs_tin, Tin Leggings
+thermalfoundation:armor.boots_tin, Tin Boots
+thermalfoundation:armor.helmet_silver, Silver Helmet
+thermalfoundation:armor.plate_silver, Silver Chestplate
+thermalfoundation:armor.legs_silver, Silver Leggings
+thermalfoundation:armor.boots_silver, Silver Boots
+thermalfoundation:armor.helmet_lead, Lead Helmet
+thermalfoundation:armor.plate_lead, Lead Chestplate
+thermalfoundation:armor.legs_lead, Lead Leggings
+thermalfoundation:armor.boots_lead, Lead Boots
+thermalfoundation:armor.helmet_aluminum, Aluminum Helmet
+thermalfoundation:armor.plate_aluminum, Aluminum Chestplate
+thermalfoundation:armor.legs_aluminum, Aluminum Leggings
+thermalfoundation:armor.boots_aluminum, Aluminum Boots
+thermalfoundation:armor.helmet_nickel, Nickel Helmet
+thermalfoundation:armor.plate_nickel, Nickel Chestplate
+thermalfoundation:armor.legs_nickel, Nickel Leggings
+thermalfoundation:armor.boots_nickel, Nickel Boots
+thermalfoundation:armor.helmet_platinum, Platinum Helmet
+thermalfoundation:armor.plate_platinum, Platinum Chestplate
+thermalfoundation:armor.legs_platinum, Platinum Leggings
+thermalfoundation:armor.boots_platinum, Platinum Boots
+thermalfoundation:armor.helmet_steel, Steel Helmet
+thermalfoundation:armor.plate_steel, Steel Chestplate
+thermalfoundation:armor.legs_steel, Steel Leggings
+thermalfoundation:armor.boots_steel, Steel Boots
+thermalfoundation:armor.helmet_electrum, Electrum Helmet
+thermalfoundation:armor.plate_electrum, Electrum Chestplate
+thermalfoundation:armor.legs_electrum, Electrum Leggings
+thermalfoundation:armor.boots_electrum, Electrum Boots
+thermalfoundation:armor.helmet_invar, Invar Helmet
+thermalfoundation:armor.plate_invar, Invar Chestplate
+thermalfoundation:armor.legs_invar, Invar Leggings
+thermalfoundation:armor.boots_invar, Invar Boots
+thermalfoundation:armor.helmet_bronze, Bronze Helmet
+thermalfoundation:armor.plate_bronze, Bronze Chestplate
+thermalfoundation:armor.legs_bronze, Bronze Leggings
+thermalfoundation:armor.boots_bronze, Bronze Boots
+thermalfoundation:armor.helmet_constantan, Constantan Helmet
+thermalfoundation:armor.plate_constantan, Constantan Chestplate
+thermalfoundation:armor.legs_constantan, Constantan Leggings
+thermalfoundation:armor.boots_constantan, Constantan Boots
+thermalfoundation:tool.sword_copper, Copper Sword
+thermalfoundation:tool.shovel_copper, Copper Shovel
+thermalfoundation:tool.pickaxe_copper, Copper Pickaxe
+thermalfoundation:tool.axe_copper, Copper Axe
+thermalfoundation:tool.hoe_copper, Copper Hoe
+thermalfoundation:tool.bow_copper, Copper Reinforced Bow
+thermalfoundation:tool.fishing_rod_copper, Copper Fishing Rod
+thermalfoundation:tool.shears_copper, Copper Shears
+thermalfoundation:tool.sickle_copper, Copper Sickle
+thermalfoundation:tool.hammer_copper, Copper Hammer
+thermalfoundation:tool.shield_copper, Copper Shield
+thermalfoundation:tool.sword_tin, Tin Sword
+thermalfoundation:tool.shovel_tin, Tin Shovel
+thermalfoundation:tool.pickaxe_tin, Tin Pickaxe
+thermalfoundation:tool.axe_tin, Tin Axe
+thermalfoundation:tool.hoe_tin, Tin Hoe
+thermalfoundation:tool.bow_tin, Tin Reinforced Bow
+thermalfoundation:tool.fishing_rod_tin, Tin Fishing Rod
+thermalfoundation:tool.shears_tin, Tin Shears
+thermalfoundation:tool.sickle_tin, Tin Sickle
+thermalfoundation:tool.hammer_tin, Tin Hammer
+thermalfoundation:tool.shield_tin, Tin Shield
+thermalfoundation:tool.sword_silver, Silver Sword
+thermalfoundation:tool.shovel_silver, Silver Shovel
+thermalfoundation:tool.pickaxe_silver, Silver Pickaxe
+thermalfoundation:tool.axe_silver, Silver Axe
+thermalfoundation:tool.hoe_silver, Silver Hoe
+thermalfoundation:tool.bow_silver, Silver Reinforced Bow
+thermalfoundation:tool.fishing_rod_silver, Silver Fishing Rod
+thermalfoundation:tool.shears_silver, Silver Shears
+thermalfoundation:tool.sickle_silver, Silver Sickle
+thermalfoundation:tool.hammer_silver, Silver Hammer
+thermalfoundation:tool.shield_silver, Silver Shield
+thermalfoundation:tool.sword_lead, Lead Sword
+thermalfoundation:tool.shovel_lead, Lead Shovel
+thermalfoundation:tool.pickaxe_lead, Lead Pickaxe
+thermalfoundation:tool.axe_lead, Lead Axe
+thermalfoundation:tool.hoe_lead, Lead Hoe
+thermalfoundation:tool.bow_lead, Lead Reinforced Bow
+thermalfoundation:tool.fishing_rod_lead, Lead Fishing Rod
+thermalfoundation:tool.shears_lead, Lead Shears
+thermalfoundation:tool.sickle_lead, Lead Sickle
+thermalfoundation:tool.hammer_lead, Lead Hammer
+thermalfoundation:tool.shield_lead, Lead Shield
+thermalfoundation:tool.sword_aluminum, Aluminum Sword
+thermalfoundation:tool.shovel_aluminum, Aluminum Shovel
+thermalfoundation:tool.pickaxe_aluminum, Aluminum Pickaxe
+thermalfoundation:tool.axe_aluminum, Aluminum Axe
+thermalfoundation:tool.hoe_aluminum, Aluminum Hoe
+thermalfoundation:tool.bow_aluminum, Aluminum Reinforced Bow
+thermalfoundation:tool.fishing_rod_aluminum, Aluminum Fishing Rod
+thermalfoundation:tool.shears_aluminum, Aluminum Shears
+thermalfoundation:tool.sickle_aluminum, Aluminum Sickle
+thermalfoundation:tool.hammer_aluminum, Aluminum Hammer
+thermalfoundation:tool.shield_aluminum, Aluminum Shield
+thermalfoundation:tool.sword_nickel, Nickel Sword
+thermalfoundation:tool.shovel_nickel, Nickel Shovel
+thermalfoundation:tool.pickaxe_nickel, Nickel Pickaxe
+thermalfoundation:tool.axe_nickel, Nickel Axe
+thermalfoundation:tool.hoe_nickel, Nickel Hoe
+thermalfoundation:tool.bow_nickel, Nickel Reinforced Bow
+thermalfoundation:tool.fishing_rod_nickel, Nickel Fishing Rod
+thermalfoundation:tool.shears_nickel, Nickel Shears
+thermalfoundation:tool.sickle_nickel, Nickel Sickle
+thermalfoundation:tool.hammer_nickel, Nickel Hammer
+thermalfoundation:tool.shield_nickel, Nickel Shield
+thermalfoundation:tool.sword_platinum, Platinum Sword
+thermalfoundation:tool.shovel_platinum, Platinum Shovel
+thermalfoundation:tool.pickaxe_platinum, Platinum Pickaxe
+thermalfoundation:tool.axe_platinum, Platinum Axe
+thermalfoundation:tool.hoe_platinum, Platinum Hoe
+thermalfoundation:tool.bow_platinum, Platinum Reinforced Bow
+thermalfoundation:tool.fishing_rod_platinum, Platinum Fishing Rod
+thermalfoundation:tool.shears_platinum, Platinum Shears
+thermalfoundation:tool.sickle_platinum, Platinum Sickle
+thermalfoundation:tool.hammer_platinum, Platinum Hammer
+thermalfoundation:tool.shield_platinum, Platinum Shield
+thermalfoundation:tool.sword_steel, Steel Sword
+thermalfoundation:tool.shovel_steel, Steel Shovel
+thermalfoundation:tool.pickaxe_steel, Steel Pickaxe
+thermalfoundation:tool.axe_steel, Steel Axe
+thermalfoundation:tool.hoe_steel, Steel Hoe
+thermalfoundation:tool.bow_steel, Steel Reinforced Bow
+thermalfoundation:tool.fishing_rod_steel, Steel Fishing Rod
+thermalfoundation:tool.shears_steel, Steel Shears
+thermalfoundation:tool.sickle_steel, Steel Sickle
+thermalfoundation:tool.hammer_steel, Steel Hammer
+thermalfoundation:tool.shield_steel, Steel Shield
+thermalfoundation:tool.sword_electrum, Electrum Sword
+thermalfoundation:tool.shovel_electrum, Electrum Shovel
+thermalfoundation:tool.pickaxe_electrum, Electrum Pickaxe
+thermalfoundation:tool.axe_electrum, Electrum Axe
+thermalfoundation:tool.hoe_electrum, Electrum Hoe
+thermalfoundation:tool.bow_electrum, Electrum Reinforced Bow
+thermalfoundation:tool.fishing_rod_electrum, Electrum Fishing Rod
+thermalfoundation:tool.shears_electrum, Electrum Shears
+thermalfoundation:tool.sickle_electrum, Electrum Sickle
+thermalfoundation:tool.hammer_electrum, Electrum Hammer
+thermalfoundation:tool.shield_electrum, Electrum Shield
+thermalfoundation:tool.sword_invar, Invar Sword
+thermalfoundation:tool.shovel_invar, Invar Shovel
+thermalfoundation:tool.pickaxe_invar, Invar Pickaxe
+thermalfoundation:tool.axe_invar, Invar Axe
+thermalfoundation:tool.hoe_invar, Invar Hoe
+thermalfoundation:tool.bow_invar, Invar Reinforced Bow
+thermalfoundation:tool.fishing_rod_invar, Invar Fishing Rod
+thermalfoundation:tool.shears_invar, Invar Shears
+thermalfoundation:tool.sickle_invar, Invar Sickle
+thermalfoundation:tool.hammer_invar, Invar Hammer
+thermalfoundation:tool.shield_invar, Invar Shield
+thermalfoundation:tool.sword_bronze, Bronze Sword
+thermalfoundation:tool.shovel_bronze, Bronze Shovel
+thermalfoundation:tool.pickaxe_bronze, Bronze Pickaxe
+thermalfoundation:tool.axe_bronze, Bronze Axe
+thermalfoundation:tool.hoe_bronze, Bronze Hoe
+thermalfoundation:tool.bow_bronze, Bronze Reinforced Bow
+thermalfoundation:tool.fishing_rod_bronze, Bronze Fishing Rod
+thermalfoundation:tool.shears_bronze, Bronze Shears
+thermalfoundation:tool.sickle_bronze, Bronze Sickle
+thermalfoundation:tool.hammer_bronze, Bronze Hammer
+thermalfoundation:tool.shield_bronze, Bronze Shield
+thermalfoundation:tool.sword_constantan, Constantan Sword
+thermalfoundation:tool.shovel_constantan, Constantan Shovel
+thermalfoundation:tool.pickaxe_constantan, Constantan Pickaxe
+thermalfoundation:tool.axe_constantan, Constantan Axe
+thermalfoundation:tool.hoe_constantan, Constantan Hoe
+thermalfoundation:tool.bow_constantan, Constantan Reinforced Bow
+thermalfoundation:tool.fishing_rod_constantan, Constantan Fishing Rod
+thermalfoundation:tool.shears_constantan, Constantan Shears
+thermalfoundation:tool.sickle_constantan, Constantan Sickle
+thermalfoundation:tool.hammer_constantan, Constantan Hammer
+thermalfoundation:tool.shield_constantan, Constantan Shield
+thermalfoundation:tool.shears_wood, Wooden Shears
+thermalfoundation:tool.sickle_wood, Wooden Sickle
+thermalfoundation:tool.hammer_wood, Wooden Hammer
+thermalfoundation:tool.bow_stone, Stone Reinforced Bow
+thermalfoundation:tool.fishing_rod_stone, Stone Fishing Rod
+thermalfoundation:tool.shears_stone, Stone Shears
+thermalfoundation:tool.sickle_stone, Stone Sickle
+thermalfoundation:tool.hammer_stone, Stone Hammer
+thermalfoundation:tool.shield_stone, Stone Shield
+thermalfoundation:tool.bow_iron, Iron Reinforced Bow
+thermalfoundation:tool.fishing_rod_iron, Iron Fishing Rod
+thermalfoundation:tool.sickle_iron, Iron Sickle
+thermalfoundation:tool.hammer_iron, Iron Hammer
+thermalfoundation:tool.shield_iron, Iron Shield
+thermalfoundation:tool.bow_diamond, Diamond Reinforced Bow
+thermalfoundation:tool.fishing_rod_diamond, Diamond Fishing Rod
+thermalfoundation:tool.shears_diamond, Diamond Shears
+thermalfoundation:tool.sickle_diamond, Diamond Sickle
+thermalfoundation:tool.hammer_diamond, Diamond Hammer
+thermalfoundation:tool.shield_diamond, Diamond Shield
+thermalfoundation:tool.bow_gold, Gold Reinforced Bow
+thermalfoundation:tool.fishing_rod_gold, Gold Fishing Rod
+thermalfoundation:tool.shears_gold, Gold Shears
+thermalfoundation:tool.sickle_gold, Gold Sickle
+thermalfoundation:tool.hammer_gold, Gold Hammer
+thermalfoundation:tool.shield_gold, Gold Shield
+thermalfoundation:horse_armor_copper, Copper Horse Armor
+thermalfoundation:horse_armor_tin, Tin Horse Armor
+thermalfoundation:horse_armor_silver, Silver Horse Armor
+thermalfoundation:horse_armor_lead, Lead Horse Armor
+thermalfoundation:horse_armor_aluminum, Aluminum Horse Armor
+thermalfoundation:horse_armor_nickel, Nickel Horse Armor
+thermalfoundation:horse_armor_platinum, Platinum Horse Armor
+thermalfoundation:horse_armor_steel, Steel Horse Armor
+thermalfoundation:horse_armor_electrum, Electrum Horse Armor
+thermalfoundation:horse_armor_invar, Invar Horse Armor
+thermalfoundation:horse_armor_bronze, Bronze Horse Armor
+thermalfoundation:horse_armor_constantan, Constantan Horse Armor
+thermalfoundation:fluid_crude_oil, Crude Oil
+thermalfoundation:fluid_redstone, Destabilized Redstone
+thermalfoundation:fluid_glowstone, Energized Glowstone
+thermalfoundation:fluid_ender, Resonant Ender
+thermalfoundation:fluid_pyrotheum, Blazing Pyrotheum
+thermalfoundation:fluid_cryotheum, Gelid Cryotheum
+thermalfoundation:fluid_aerotheum, Zephyrean Aerotheum
+thermalfoundation:fluid_petrotheum, Tectonic Petrotheum
+thermalfoundation:fluid_mana, Primal Mana
 rustic:olive_oil, Olive Oil
 rustic:ironberry_juice, Ironberry Juice
 rustic:wildberry_juice, Wildberry Juice
@@ -2355,7 +2843,6 @@ moreplates:emerald_gear, Emerald Gear
 moreplates:emerald_plate, Emerald Plate
 moreplates:glowstone_gear, Glowstone Gear
 moreplates:glowstone_plate, Glowstone Plate
-moreplates:gold_gear, Gold Gear
 moreplates:gold_stick, Gold Rod
 moreplates:lapis_lazuli_gear, Lapis Lazuli Gear
 moreplates:lapis_lazuli_plate, Lapis Lazuli Plate
@@ -2366,9 +2853,14 @@ moreplates:redstone_plate, Redstone Plate
 moreplates:bronze_stick, Bronze Rod
 moreplates:constantan_stick, Constantan Rod
 moreplates:electrum_stick, Electrum Rod
+moreplates:enderium_stick, Enderium Rod
+moreplates:invar_stick, Invar Rod
 moreplates:lead_stick, Lead Rod
+moreplates:lumium_stick, Lumium Rod
+moreplates:mana_infused_stick, Mana Infused Rod
 moreplates:nickel_stick, Nickel Rod
 moreplates:platinum_stick, Platinum Rod
+moreplates:signalum_stick, Signalum Rod
 moreplates:silicon_gear, Silicon Gear
 moreplates:silver_stick, Silver Rod
 moreplates:tin_stick, Tin Rod
@@ -2468,6 +2960,1316 @@ rusticbopwoods:table_jacaranda, Jacaranda Table
 rusticbopwoods:table_mahogany, Mahogany Table
 rusticbopwoods:table_ebony, Ebony Table
 rusticbopwoods:table_eucalyptus, Eucalyptus Table
+thermaldynamics:duct_0:0, Leadstone Fluxduct
+thermaldynamics:duct_0:1, Hardened Fluxduct
+thermaldynamics:duct_0:2, Redstone Energy Fluxduct
+thermaldynamics:duct_0:3, Signalum Fluxduct
+thermaldynamics:duct_0:4, Resonant Fluxduct
+thermaldynamics:duct_0:5, Cryo-Stabilized Fluxduct
+thermaldynamics:duct_0:6, Redstone Energy Fluxduct (Empty)
+thermaldynamics:duct_0:7, Signalum Fluxduct (Empty)
+thermaldynamics:duct_0:8, Resonant Fluxduct (Empty)
+thermaldynamics:duct_0:9, Cryo-Stabilized Fluxduct (Empty)
+thermaldynamics:duct_16:0, Fluiduct
+thermaldynamics:duct_16:1, Fluiduct (Opaque)
+thermaldynamics:duct_16:2, Hardened Fluiduct
+thermaldynamics:duct_16:3, Hardened Fluiduct (Opaque)
+thermaldynamics:duct_16:4, Signalum-Plated Fluiduct
+thermaldynamics:duct_16:5, Signalum-Plated Fluiduct (Opaque)
+thermaldynamics:duct_16:6, Super-Laminar Fluiduct
+thermaldynamics:duct_16:7, Super-Laminar Fluiduct (Opaque)
+thermaldynamics:duct_32:0, Vacuum Itemduct
+thermaldynamics:duct_32:0, Dense Itemduct
+thermaldynamics:duct_32:0, Itemduct
+thermaldynamics:duct_32:1, Vacuum Itemduct (Opaque)
+thermaldynamics:duct_32:1, Dense Itemduct (Opaque)
+thermaldynamics:duct_32:1, Itemduct (Opaque)
+thermaldynamics:duct_32:2, Vacuum Impulse Itemduct
+thermaldynamics:duct_32:2, Dense Impulse Itemduct
+thermaldynamics:duct_32:2, Impulse Itemduct
+thermaldynamics:duct_32:3, Vacuum Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:3, Dense Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:3, Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:4, Vacuum Signalum-Plated Itemduct
+thermaldynamics:duct_32:4, Dense Signalum-Plated Itemduct
+thermaldynamics:duct_32:4, Signalum-Plated Itemduct
+thermaldynamics:duct_32:5, Vacuum Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:5, Dense Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:5, Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:6, Vacuum Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:6, Dense Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:6, Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:7, Vacuum Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:7, Dense Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:7, Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_48:0, Structuralduct
+thermaldynamics:duct_64:0, Viaduct
+thermaldynamics:duct_64:1, Long Range Viaduct
+thermaldynamics:duct_64:2, Long Range Linking Viaduct
+thermaldynamics:duct_64:3, Viaduct (Untreated)
+thermaldynamics:servo:0, Servo
+thermaldynamics:servo:1, Hardened Servo
+thermaldynamics:servo:2, Reinforced Servo
+thermaldynamics:servo:3, Signalum Servo
+thermaldynamics:servo:4, Resonant Servo
+thermaldynamics:filter:0, Filter
+thermaldynamics:filter:1, Hardened Filter
+thermaldynamics:filter:2, Reinforced Filter
+thermaldynamics:filter:3, Signalum Filter
+thermaldynamics:filter:4, Resonant Filter
+thermaldynamics:retriever:0, Retriever
+thermaldynamics:retriever:1, Hardened Retriever
+thermaldynamics:retriever:2, Reinforced Retriever
+thermaldynamics:retriever:3, Signalum Retriever
+thermaldynamics:retriever:4, Resonant Retriever
+thermaldynamics:relay:0, Redstone Relay
+thermaldynamics:cover:0, Stone Cover
+thermaldynamics:cover:0, Granite Cover
+thermaldynamics:cover:0, Polished Granite Cover
+thermaldynamics:cover:0, Diorite Cover
+thermaldynamics:cover:0, Polished Diorite Cover
+thermaldynamics:cover:0, Andesite Cover
+thermaldynamics:cover:0, Polished Andesite Cover
+thermaldynamics:cover:0, Grass Block Cover
+thermaldynamics:cover:0, Dirt Cover
+thermaldynamics:cover:0, Coarse Dirt Cover
+thermaldynamics:cover:0, Podzol Cover
+thermaldynamics:cover:0, Cobblestone Cover
+thermaldynamics:cover:0, Oak Wood Planks Cover
+thermaldynamics:cover:0, Spruce Wood Planks Cover
+thermaldynamics:cover:0, Birch Wood Planks Cover
+thermaldynamics:cover:0, Jungle Wood Planks Cover
+thermaldynamics:cover:0, Acacia Wood Planks Cover
+thermaldynamics:cover:0, Dark Oak Wood Planks Cover
+thermaldynamics:cover:0, Bedrock Cover
+thermaldynamics:cover:0, Sand Cover
+thermaldynamics:cover:0, Red Sand Cover
+thermaldynamics:cover:0, Gravel Cover
+thermaldynamics:cover:0, Gold Ore Cover
+thermaldynamics:cover:0, Iron Ore Cover
+thermaldynamics:cover:0, Coal Ore Cover
+thermaldynamics:cover:0, Oak Wood Cover
+thermaldynamics:cover:0, Spruce Wood Cover
+thermaldynamics:cover:0, Birch Wood Cover
+thermaldynamics:cover:0, Jungle Wood Cover
+thermaldynamics:cover:0, Oak Leaves Cover
+thermaldynamics:cover:0, Spruce Leaves Cover
+thermaldynamics:cover:0, Birch Leaves Cover
+thermaldynamics:cover:0, Jungle Leaves Cover
+thermaldynamics:cover:0, Sponge Cover
+thermaldynamics:cover:0, Wet Sponge Cover
+thermaldynamics:cover:0, Glass Cover
+thermaldynamics:cover:0, Lapis Lazuli Ore Cover
+thermaldynamics:cover:0, Lapis Lazuli Block Cover
+thermaldynamics:cover:0, Sandstone Cover
+thermaldynamics:cover:0, Chiseled Sandstone Cover
+thermaldynamics:cover:0, Smooth Sandstone Cover
+thermaldynamics:cover:0, Grass Cover
+thermaldynamics:cover:0, Wool Cover
+thermaldynamics:cover:0, Orange Wool Cover
+thermaldynamics:cover:0, Magenta Wool Cover
+thermaldynamics:cover:0, Light Blue Wool Cover
+thermaldynamics:cover:0, Yellow Wool Cover
+thermaldynamics:cover:0, Lime Wool Cover
+thermaldynamics:cover:0, Pink Wool Cover
+thermaldynamics:cover:0, Gray Wool Cover
+thermaldynamics:cover:0, Light Gray Wool Cover
+thermaldynamics:cover:0, Cyan Wool Cover
+thermaldynamics:cover:0, Purple Wool Cover
+thermaldynamics:cover:0, Blue Wool Cover
+thermaldynamics:cover:0, Brown Wool Cover
+thermaldynamics:cover:0, Green Wool Cover
+thermaldynamics:cover:0, Red Wool Cover
+thermaldynamics:cover:0, Black Wool Cover
+thermaldynamics:cover:0, Block of Gold Cover
+thermaldynamics:cover:0, Block of Iron Cover
+thermaldynamics:cover:0, Stone Slab Cover
+thermaldynamics:cover:0, Sandstone Slab Cover
+thermaldynamics:cover:0, Cobblestone Slab Cover
+thermaldynamics:cover:0, Bricks Slab Cover
+thermaldynamics:cover:0, Stone Bricks Slab Cover
+thermaldynamics:cover:0, Nether Brick Slab Cover
+thermaldynamics:cover:0, Quartz Slab Cover
+thermaldynamics:cover:0, Bricks Cover
+thermaldynamics:cover:0, TNT Cover
+thermaldynamics:cover:0, Oak Bookshelf Cover
+thermaldynamics:cover:0, Moss Stone Cover
+thermaldynamics:cover:0, Obsidian Cover
+thermaldynamics:cover:0, Oak Wood Stairs Cover
+thermaldynamics:cover:0, Diamond Ore Cover
+thermaldynamics:cover:0, Block of Diamond Cover
+thermaldynamics:cover:0, Crafting Table Cover
+thermaldynamics:cover:0, Stone Stairs Cover
+thermaldynamics:cover:0, Redstone Ore Cover
+thermaldynamics:cover:0, Ice Cover
+thermaldynamics:cover:0, Snow Cover
+thermaldynamics:cover:0, Cactus Cover
+thermaldynamics:cover:0, Clay Cover
+thermaldynamics:cover:0, Pumpkin Cover
+thermaldynamics:cover:0, Netherrack Cover
+thermaldynamics:cover:0, Soul Sand Cover
+thermaldynamics:cover:0, Glowstone Cover
+thermaldynamics:cover:0, Jack o'Lantern Cover
+thermaldynamics:cover:0, White Stained Glass Cover
+thermaldynamics:cover:0, Orange Stained Glass Cover
+thermaldynamics:cover:0, Magenta Stained Glass Cover
+thermaldynamics:cover:0, Light Blue Stained Glass Cover
+thermaldynamics:cover:0, Yellow Stained Glass Cover
+thermaldynamics:cover:0, Lime Stained Glass Cover
+thermaldynamics:cover:0, Pink Stained Glass Cover
+thermaldynamics:cover:0, Gray Stained Glass Cover
+thermaldynamics:cover:0, Light Gray Stained Glass Cover
+thermaldynamics:cover:0, Cyan Stained Glass Cover
+thermaldynamics:cover:0, Purple Stained Glass Cover
+thermaldynamics:cover:0, Blue Stained Glass Cover
+thermaldynamics:cover:0, Brown Stained Glass Cover
+thermaldynamics:cover:0, Green Stained Glass Cover
+thermaldynamics:cover:0, Red Stained Glass Cover
+thermaldynamics:cover:0, Black Stained Glass Cover
+thermaldynamics:cover:0, Stone Monster Egg Cover
+thermaldynamics:cover:0, Cobblestone Monster Egg Cover
+thermaldynamics:cover:0, Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Mossy Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Cracked Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Chiseled Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Stone Bricks Cover
+thermaldynamics:cover:0, Mossy Stone Bricks Cover
+thermaldynamics:cover:0, Cracked Stone Bricks Cover
+thermaldynamics:cover:0, Chiseled Stone Bricks Cover
+thermaldynamics:cover:0, Iron Bars Cover
+thermaldynamics:cover:0, Glass Pane Cover
+thermaldynamics:cover:0, Melon Cover
+thermaldynamics:cover:0, Brick Stairs Cover
+thermaldynamics:cover:0, Stone Brick Stairs Cover
+thermaldynamics:cover:0, Mycelium Cover
+thermaldynamics:cover:0, Nether Brick Cover
+thermaldynamics:cover:0, Nether Brick Stairs Cover
+thermaldynamics:cover:0, End Portal Cover
+thermaldynamics:cover:0, End Stone Cover
+thermaldynamics:cover:0, Redstone Lamp Cover
+thermaldynamics:cover:0, Oak Wood Slab Cover
+thermaldynamics:cover:0, Spruce Wood Slab Cover
+thermaldynamics:cover:0, Birch Wood Slab Cover
+thermaldynamics:cover:0, Jungle Wood Slab Cover
+thermaldynamics:cover:0, Acacia Wood Slab Cover
+thermaldynamics:cover:0, Dark Oak Wood Slab Cover
+thermaldynamics:cover:0, Sandstone Stairs Cover
+thermaldynamics:cover:0, Emerald Ore Cover
+thermaldynamics:cover:0, Tripwire Hook Cover
+thermaldynamics:cover:0, Block of Emerald Cover
+thermaldynamics:cover:0, Spruce Wood Stairs Cover
+thermaldynamics:cover:0, Birch Wood Stairs Cover
+thermaldynamics:cover:0, Jungle Wood Stairs Cover
+thermaldynamics:cover:0, Cobblestone Wall Cover
+thermaldynamics:cover:0, Block of Redstone Cover
+thermaldynamics:cover:0, Nether Quartz Ore Cover
+thermaldynamics:cover:0, Block of Quartz Cover
+thermaldynamics:cover:0, Chiseled Quartz Block Cover
+thermaldynamics:cover:0, Pillar Quartz Block Cover
+thermaldynamics:cover:0, Quartz Stairs Cover
+thermaldynamics:cover:0, White Stained Clay Cover
+thermaldynamics:cover:0, Orange Stained Clay Cover
+thermaldynamics:cover:0, Magenta Stained Clay Cover
+thermaldynamics:cover:0, Light Blue Stained Clay Cover
+thermaldynamics:cover:0, Yellow Stained Clay Cover
+thermaldynamics:cover:0, Lime Stained Clay Cover
+thermaldynamics:cover:0, Pink Stained Clay Cover
+thermaldynamics:cover:0, Gray Stained Clay Cover
+thermaldynamics:cover:0, Light Gray Stained Clay Cover
+thermaldynamics:cover:0, Cyan Stained Clay Cover
+thermaldynamics:cover:0, Purple Stained Clay Cover
+thermaldynamics:cover:0, Blue Stained Clay Cover
+thermaldynamics:cover:0, Brown Stained Clay Cover
+thermaldynamics:cover:0, Green Stained Clay Cover
+thermaldynamics:cover:0, Red Stained Clay Cover
+thermaldynamics:cover:0, Black Stained Clay Cover
+thermaldynamics:cover:0, White Stained Glass Pane Cover
+thermaldynamics:cover:0, Orange Stained Glass Pane Cover
+thermaldynamics:cover:0, Magenta Stained Glass Pane Cover
+thermaldynamics:cover:0, Light Blue Stained Glass Pane Cover
+thermaldynamics:cover:0, Yellow Stained Glass Pane Cover
+thermaldynamics:cover:0, Lime Stained Glass Pane Cover
+thermaldynamics:cover:0, Pink Stained Glass Pane Cover
+thermaldynamics:cover:0, Gray Stained Glass Pane Cover
+thermaldynamics:cover:0, Light Gray Stained Glass Pane Cover
+thermaldynamics:cover:0, Cyan Stained Glass Pane Cover
+thermaldynamics:cover:0, Purple Stained Glass Pane Cover
+thermaldynamics:cover:0, Blue Stained Glass Pane Cover
+thermaldynamics:cover:0, Brown Stained Glass Pane Cover
+thermaldynamics:cover:0, Green Stained Glass Pane Cover
+thermaldynamics:cover:0, Red Stained Glass Pane Cover
+thermaldynamics:cover:0, Black Stained Glass Pane Cover
+thermaldynamics:cover:0, Acacia Leaves Cover
+thermaldynamics:cover:0, Dark Oak Leaves Cover
+thermaldynamics:cover:0, Acacia Wood Cover
+thermaldynamics:cover:0, Dark Oak Wood Cover
+thermaldynamics:cover:0, Acacia Wood Stairs Cover
+thermaldynamics:cover:0, Dark Oak Wood Stairs Cover
+thermaldynamics:cover:0, Slime Block Cover
+thermaldynamics:cover:0, Prismarine Cover
+thermaldynamics:cover:0, Prismarine Bricks Cover
+thermaldynamics:cover:0, Dark Prismarine Cover
+thermaldynamics:cover:0, Sea Lantern Cover
+thermaldynamics:cover:0, Hay Bale Cover
+thermaldynamics:cover:0, Hardened Clay Cover
+thermaldynamics:cover:0, Block of Coal Cover
+thermaldynamics:cover:0, Packed Ice Cover
+thermaldynamics:cover:0, Red Sandstone Cover
+thermaldynamics:cover:0, Chiseled Red Sandstone Cover
+thermaldynamics:cover:0, Smooth Red Sandstone Cover
+thermaldynamics:cover:0, Red Sandstone Stairs Cover
+thermaldynamics:cover:0, Red Sandstone Slab Cover
+thermaldynamics:cover:0, Purpur Block Cover
+thermaldynamics:cover:0, Purpur Pillar Cover
+thermaldynamics:cover:0, Purpur Stairs Cover
+thermaldynamics:cover:0, Purpur Slab Cover
+thermaldynamics:cover:0, End Stone Bricks Cover
+thermaldynamics:cover:0, Magma Block Cover
+thermaldynamics:cover:0, Nether Wart Block Cover
+thermaldynamics:cover:0, Red Nether Brick Cover
+thermaldynamics:cover:0, Bone Block Cover
+thermaldynamics:cover:0, Observer Cover
+thermaldynamics:cover:0, White Glazed Terracotta Cover
+thermaldynamics:cover:0, Orange Glazed Terracotta Cover
+thermaldynamics:cover:0, Magenta Glazed Terracotta Cover
+thermaldynamics:cover:0, Light Blue Glazed Terracotta Cover
+thermaldynamics:cover:0, Yellow Glazed Terracotta Cover
+thermaldynamics:cover:0, Lime Glazed Terracotta Cover
+thermaldynamics:cover:0, Pink Glazed Terracotta Cover
+thermaldynamics:cover:0, Gray Glazed Terracotta Cover
+thermaldynamics:cover:0, Light Gray Glazed Terracotta Cover
+thermaldynamics:cover:0, Cyan Glazed Terracotta Cover
+thermaldynamics:cover:0, Purple Glazed Terracotta Cover
+thermaldynamics:cover:0, Blue Glazed Terracotta Cover
+thermaldynamics:cover:0, Brown Glazed Terracotta Cover
+thermaldynamics:cover:0, Green Glazed Terracotta Cover
+thermaldynamics:cover:0, Red Glazed Terracotta Cover
+thermaldynamics:cover:0, Black Glazed Terracotta Cover
+thermaldynamics:cover:0, White Concrete Cover
+thermaldynamics:cover:0, Orange Concrete Cover
+thermaldynamics:cover:0, Magenta Concrete Cover
+thermaldynamics:cover:0, Light Blue Concrete Cover
+thermaldynamics:cover:0, Yellow Concrete Cover
+thermaldynamics:cover:0, Lime Concrete Cover
+thermaldynamics:cover:0, Pink Concrete Cover
+thermaldynamics:cover:0, Gray Concrete Cover
+thermaldynamics:cover:0, Light Gray Concrete Cover
+thermaldynamics:cover:0, Cyan Concrete Cover
+thermaldynamics:cover:0, Purple Concrete Cover
+thermaldynamics:cover:0, Blue Concrete Cover
+thermaldynamics:cover:0, Brown Concrete Cover
+thermaldynamics:cover:0, Green Concrete Cover
+thermaldynamics:cover:0, Red Concrete Cover
+thermaldynamics:cover:0, Black Concrete Cover
+thermaldynamics:cover:0, White Concrete Powder Cover
+thermaldynamics:cover:0, Orange Concrete Powder Cover
+thermaldynamics:cover:0, Magenta Concrete Powder Cover
+thermaldynamics:cover:0, Light Blue Concrete Powder Cover
+thermaldynamics:cover:0, Yellow Concrete Powder Cover
+thermaldynamics:cover:0, Lime Concrete Powder Cover
+thermaldynamics:cover:0, Pink Concrete Powder Cover
+thermaldynamics:cover:0, Gray Concrete Powder Cover
+thermaldynamics:cover:0, Light Gray Concrete Powder Cover
+thermaldynamics:cover:0, Cyan Concrete Powder Cover
+thermaldynamics:cover:0, Purple Concrete Powder Cover
+thermaldynamics:cover:0, Blue Concrete Powder Cover
+thermaldynamics:cover:0, Brown Concrete Powder Cover
+thermaldynamics:cover:0, Green Concrete Powder Cover
+thermaldynamics:cover:0, Red Concrete Powder Cover
+thermaldynamics:cover:0, Black Concrete Powder Cover
+thermaldynamics:cover:0, Spectral Moss Cover
+thermaldynamics:cover:0, Overgrown Stone Cover
+thermaldynamics:cover:0, Loamy Grass Block Cover
+thermaldynamics:cover:0, Sandy Grass Block Cover
+thermaldynamics:cover:0, Silty Grass Block Cover
+thermaldynamics:cover:0, Origin Grass Block Cover
+thermaldynamics:cover:0, Overgrown Netherrack Cover
+thermaldynamics:cover:0, Flowering Grass Block Cover
+thermaldynamics:cover:0, Mycelial Netherrack Cover
+thermaldynamics:cover:0, Coarse Loamy Dirt Cover
+thermaldynamics:cover:0, Loamy Dirt Cover
+thermaldynamics:cover:0, Coarse Sandy Dirt Cover
+thermaldynamics:cover:0, Sandy Dirt Cover
+thermaldynamics:cover:0, Coarse Silty Dirt Cover
+thermaldynamics:cover:0, Silty Dirt Cover
+thermaldynamics:cover:0, White Sand Cover
+thermaldynamics:cover:0, White Sandstone Cover
+thermaldynamics:cover:0, Chiseled White Sandstone Cover
+thermaldynamics:cover:0, Smooth White Sandstone Cover
+thermaldynamics:cover:0, White Sandstone Stairs Cover
+thermaldynamics:cover:0, Dried Sand Cover
+thermaldynamics:cover:0, Hardened Ice Cover
+thermaldynamics:cover:0, Ash Block Cover
+thermaldynamics:cover:0, Mud Cover
+thermaldynamics:cover:0, Flesh Cover
+thermaldynamics:cover:0, Celestial Crystal Cover
+thermaldynamics:cover:0, Biome Essence Ore Cover
+thermaldynamics:cover:0, Ender Amethyst Ore Cover
+thermaldynamics:cover:0, Ruby Ore Cover
+thermaldynamics:cover:0, Peridot Ore Cover
+thermaldynamics:cover:0, Topaz Ore Cover
+thermaldynamics:cover:0, Tanzanite Ore Cover
+thermaldynamics:cover:0, Malachite Ore Cover
+thermaldynamics:cover:0, Sapphire Ore Cover
+thermaldynamics:cover:0, Amber Ore Cover
+thermaldynamics:cover:0, Block of Amethyst Cover
+thermaldynamics:cover:0, Block of Ruby Cover
+thermaldynamics:cover:0, Block of Peridot Cover
+thermaldynamics:cover:0, Block of Topaz Cover
+thermaldynamics:cover:0, Block of Tanzanite Cover
+thermaldynamics:cover:0, Block of Malachite Cover
+thermaldynamics:cover:0, Block of Sapphire Cover
+thermaldynamics:cover:0, Block of Amber Cover
+thermaldynamics:cover:0, Hive Block Cover
+thermaldynamics:cover:0, Honeycomb Block Cover
+thermaldynamics:cover:0, Empty Honeycomb Block Cover
+thermaldynamics:cover:0, Filled Honeycomb Block Cover
+thermaldynamics:cover:0, Honey Block Cover
+thermaldynamics:cover:0, Bamboo Thatching Cover
+thermaldynamics:cover:0, Mud Bricks Cover
+thermaldynamics:cover:0, Mud Bricks Stairs Cover
+thermaldynamics:cover:0, Mud Bricks Slab Cover
+thermaldynamics:cover:0, White Sandstone Slab Cover
+thermaldynamics:cover:0, Sacred Oak Wood Cover
+thermaldynamics:cover:0, Cherry Wood Cover
+thermaldynamics:cover:0, Umbran Wood Cover
+thermaldynamics:cover:0, Fir Wood Cover
+thermaldynamics:cover:0, Ethereal Wood Cover
+thermaldynamics:cover:0, Magic Wood Cover
+thermaldynamics:cover:0, Mangrove Wood Cover
+thermaldynamics:cover:0, Palm Wood Cover
+thermaldynamics:cover:0, Redwood Wood Cover
+thermaldynamics:cover:0, Willow Wood Cover
+thermaldynamics:cover:0, Pine Wood Cover
+thermaldynamics:cover:0, Hellbark Wood Cover
+thermaldynamics:cover:0, Jacaranda Wood Cover
+thermaldynamics:cover:0, Mahogany Wood Cover
+thermaldynamics:cover:0, Ebony Wood Cover
+thermaldynamics:cover:0, Eucalyptus Wood Cover
+thermaldynamics:cover:0, Giant Flower Stem Cover
+thermaldynamics:cover:0, Dead Wood Cover
+thermaldynamics:cover:0, Yellow Autumn Leaves Cover
+thermaldynamics:cover:0, Orange Autumn Leaves Cover
+thermaldynamics:cover:0, Bamboo Leaves Cover
+thermaldynamics:cover:0, Magic Leaves Cover
+thermaldynamics:cover:0, Umbran Leaves Cover
+thermaldynamics:cover:0, Dead Leaves Cover
+thermaldynamics:cover:0, Fir Leaves Cover
+thermaldynamics:cover:0, Ethereal Leaves Cover
+thermaldynamics:cover:0, Origin Leaves Cover
+thermaldynamics:cover:0, Pink Cherry Leaves Cover
+thermaldynamics:cover:0, White Cherry Leaves Cover
+thermaldynamics:cover:0, Maple Leaves Cover
+thermaldynamics:cover:0, Hellbark Leaves Cover
+thermaldynamics:cover:0, Flowering Oak Leaves Cover
+thermaldynamics:cover:0, Jacaranda Leaves Cover
+thermaldynamics:cover:0, Sacred Oak Leaves Cover
+thermaldynamics:cover:0, Mangrove Leaves Cover
+thermaldynamics:cover:0, Palm Leaves Cover
+thermaldynamics:cover:0, Redwood Leaves Cover
+thermaldynamics:cover:0, Willow Leaves Cover
+thermaldynamics:cover:0, Pine Leaves Cover
+thermaldynamics:cover:0, Mahogany Leaves Cover
+thermaldynamics:cover:0, Ebony Leaves Cover
+thermaldynamics:cover:0, Eucalyptus Leaves Cover
+thermaldynamics:cover:0, Giant Red Flower Petal Cover
+thermaldynamics:cover:0, Giant Yellow Flower Petal Cover
+thermaldynamics:cover:0, Sacred Oak Wood Planks Cover
+thermaldynamics:cover:0, Cherry Wood Planks Cover
+thermaldynamics:cover:0, Umbran Wood Planks Cover
+thermaldynamics:cover:0, Fir Wood Planks Cover
+thermaldynamics:cover:0, Ethereal Wood Planks Cover
+thermaldynamics:cover:0, Magic Wood Planks Cover
+thermaldynamics:cover:0, Mangrove Wood Planks Cover
+thermaldynamics:cover:0, Palm Wood Planks Cover
+thermaldynamics:cover:0, Redwood Wood Planks Cover
+thermaldynamics:cover:0, Willow Wood Planks Cover
+thermaldynamics:cover:0, Pine Wood Planks Cover
+thermaldynamics:cover:0, Hellbark Wood Planks Cover
+thermaldynamics:cover:0, Jacaranda Wood Planks Cover
+thermaldynamics:cover:0, Mahogany Wood Planks Cover
+thermaldynamics:cover:0, Ebony Wood Planks Cover
+thermaldynamics:cover:0, Eucalyptus Wood Planks Cover
+thermaldynamics:cover:0, Sacred Oak Wood Stairs Cover
+thermaldynamics:cover:0, Cherry Wood Stairs Cover
+thermaldynamics:cover:0, Umbran Wood Stairs Cover
+thermaldynamics:cover:0, Fir Wood Stairs Cover
+thermaldynamics:cover:0, Ethereal Wood Stairs Cover
+thermaldynamics:cover:0, Magic Wood Stairs Cover
+thermaldynamics:cover:0, Mangrove Wood Stairs Cover
+thermaldynamics:cover:0, Palm Wood Stairs Cover
+thermaldynamics:cover:0, Redwood Wood Stairs Cover
+thermaldynamics:cover:0, Willow Wood Stairs Cover
+thermaldynamics:cover:0, Pine Wood Stairs Cover
+thermaldynamics:cover:0, Hellbark Wood Stairs Cover
+thermaldynamics:cover:0, Jacaranda Wood Stairs Cover
+thermaldynamics:cover:0, Mahogany Wood Stairs Cover
+thermaldynamics:cover:0, Ebony Wood Stairs Cover
+thermaldynamics:cover:0, Eucalyptus Wood Stairs Cover
+thermaldynamics:cover:0, Sacred Oak Wood Slab Cover
+thermaldynamics:cover:0, Cherry Wood Slab Cover
+thermaldynamics:cover:0, Umbran Wood Slab Cover
+thermaldynamics:cover:0, Fir Wood Slab Cover
+thermaldynamics:cover:0, Ethereal Wood Slab Cover
+thermaldynamics:cover:0, Magic Wood Slab Cover
+thermaldynamics:cover:0, Mangrove Wood Slab Cover
+thermaldynamics:cover:0, Palm Wood Slab Cover
+thermaldynamics:cover:0, Redwood Wood Slab Cover
+thermaldynamics:cover:0, Willow Wood Slab Cover
+thermaldynamics:cover:0, Pine Wood Slab Cover
+thermaldynamics:cover:0, Hellbark Wood Slab Cover
+thermaldynamics:cover:0, Jacaranda Wood Slab Cover
+thermaldynamics:cover:0, Mahogany Wood Slab Cover
+thermaldynamics:cover:0, Ebony Wood Slab Cover
+thermaldynamics:cover:0, Eucalyptus Wood Slab Cover
+thermaldynamics:cover:0, Sacred Oak Fence Cover
+thermaldynamics:cover:0, Cherry Fence Cover
+thermaldynamics:cover:0, Umbran Fence Cover
+thermaldynamics:cover:0, Fir Fence Cover
+thermaldynamics:cover:0, Ethereal Fence Cover
+thermaldynamics:cover:0, Magic Fence Cover
+thermaldynamics:cover:0, Mangrove Fence Cover
+thermaldynamics:cover:0, Palm Fence Cover
+thermaldynamics:cover:0, Redwood Fence Cover
+thermaldynamics:cover:0, Willow Fence Cover
+thermaldynamics:cover:0, Pine Fence Cover
+thermaldynamics:cover:0, Hellbark Fence Cover
+thermaldynamics:cover:0, Jacaranda Fence Cover
+thermaldynamics:cover:0, Mahogany Fence Cover
+thermaldynamics:cover:0, Ebony Fence Cover
+thermaldynamics:cover:0, Eucalyptus Fence Cover
+thermaldynamics:cover:0, Sacred Oak Fence Gate Cover
+thermaldynamics:cover:0, Cherry Fence Gate Cover
+thermaldynamics:cover:0, Umbran Fence Gate Cover
+thermaldynamics:cover:0, Fir Fence Gate Cover
+thermaldynamics:cover:0, Ethereal Fence Gate Cover
+thermaldynamics:cover:0, Magic Fence Gate Cover
+thermaldynamics:cover:0, Mangrove Fence Gate Cover
+thermaldynamics:cover:0, Palm Fence Gate Cover
+thermaldynamics:cover:0, Redwood Fence Gate Cover
+thermaldynamics:cover:0, Willow Fence Gate Cover
+thermaldynamics:cover:0, Pine Fence Gate Cover
+thermaldynamics:cover:0, Hellbark Fence Gate Cover
+thermaldynamics:cover:0, Jacaranda Fence Gate Cover
+thermaldynamics:cover:0, Mahogany Fence Gate Cover
+thermaldynamics:cover:0, Ebony Fence Gate Cover
+thermaldynamics:cover:0, Eucalyptus Fence Gate Cover
+thermaldynamics:cover:0, Pink Coral Cover
+thermaldynamics:cover:0, Orange Coral Cover
+thermaldynamics:cover:0, Blue Coral Cover
+thermaldynamics:cover:0, Glowing Coral Cover
+thermaldynamics:cover:0, Algae Cover
+thermaldynamics:cover:0, Kelp Cover
+thermaldynamics:cover:0, Medium Lily Pad Cover
+thermaldynamics:cover:0, Small Lily Pad Cover
+thermaldynamics:cover:0, Tiny Lily Pad Cover
+thermaldynamics:cover:0, Flowered Lily Cover
+thermaldynamics:cover:0, Bamboo Cover
+thermaldynamics:cover:0, Yellow Autumn Sapling Cover
+thermaldynamics:cover:0, Orange Autumn Sapling Cover
+thermaldynamics:cover:0, Bamboo Sapling Cover
+thermaldynamics:cover:0, Magic Sapling Cover
+thermaldynamics:cover:0, Umbran Sapling Cover
+thermaldynamics:cover:0, Dead Sapling Cover
+thermaldynamics:cover:0, Fir Sapling Cover
+thermaldynamics:cover:0, Ethereal Sapling Cover
+thermaldynamics:cover:0, Origin Sapling Cover
+thermaldynamics:cover:0, Pink Cherry Sapling Cover
+thermaldynamics:cover:0, White Cherry Sapling Cover
+thermaldynamics:cover:0, Maple Sapling Cover
+thermaldynamics:cover:0, Hellbark Sapling Cover
+thermaldynamics:cover:0, Flowering Oak Sapling Cover
+thermaldynamics:cover:0, Jacaranda Sapling Cover
+thermaldynamics:cover:0, Sacred Oak Sapling Cover
+thermaldynamics:cover:0, Mangrove Sapling Cover
+thermaldynamics:cover:0, Palm Sapling Cover
+thermaldynamics:cover:0, Redwood Sapling Cover
+thermaldynamics:cover:0, Willow Sapling Cover
+thermaldynamics:cover:0, Pine Sapling Cover
+thermaldynamics:cover:0, Mahogany Sapling Cover
+thermaldynamics:cover:0, Ebony Sapling Cover
+thermaldynamics:cover:0, Eucalyptus Sapling Cover
+thermaldynamics:cover:0, Short Grass Cover
+thermaldynamics:cover:0, Medium Grass Cover
+thermaldynamics:cover:0, Bush Cover
+thermaldynamics:cover:0, Sprout Cover
+thermaldynamics:cover:0, Poison Ivy Cover
+thermaldynamics:cover:0, Berry Bush Cover
+thermaldynamics:cover:0, Shrub Cover
+thermaldynamics:cover:0, Wheat Grass Cover
+thermaldynamics:cover:0, Damp Grass Cover
+thermaldynamics:cover:0, Koru Cover
+thermaldynamics:cover:0, Clover Patch Cover
+thermaldynamics:cover:0, Leaf Pile Cover
+thermaldynamics:cover:0, Dead Leaf Pile Cover
+thermaldynamics:cover:0, Dead Grass Cover
+thermaldynamics:cover:0, Desert Grass Cover
+thermaldynamics:cover:0, Desert Sprouts Cover
+thermaldynamics:cover:0, Dune Grass Cover
+thermaldynamics:cover:0, Spectral Fern Cover
+thermaldynamics:cover:0, Thorns Cover
+thermaldynamics:cover:0, Wild Rice Cover
+thermaldynamics:cover:0, Cattail Cover
+thermaldynamics:cover:0, River Cane Cover
+thermaldynamics:cover:0, Tiny Cactus Cover
+thermaldynamics:cover:0, Devilweed Cover
+thermaldynamics:cover:0, Reed Cover
+thermaldynamics:cover:0, Root Cover
+thermaldynamics:cover:0, Rafflesia Cover
+thermaldynamics:cover:0, Barley Cover
+thermaldynamics:cover:0, Flax Cover
+thermaldynamics:cover:0, Tall Cattail Cover
+thermaldynamics:cover:0, Eyebulb Cover
+thermaldynamics:cover:0, Sea Oats Cover
+thermaldynamics:cover:0, Toadstool Cover
+thermaldynamics:cover:0, Portobello Cover
+thermaldynamics:cover:0, Blue Milk Cap Cover
+thermaldynamics:cover:0, Glowshroom Cover
+thermaldynamics:cover:0, Flat Mushroom Cover
+thermaldynamics:cover:0, Shadow Shroom Cover
+thermaldynamics:cover:0, Bramble Cover
+thermaldynamics:cover:0, Clover Cover
+thermaldynamics:cover:0, Swampflower Cover
+thermaldynamics:cover:0, Deathbloom Cover
+thermaldynamics:cover:0, Glowflower Cover
+thermaldynamics:cover:0, Blue Hydrangea Cover
+thermaldynamics:cover:0, Orange Cosmos Cover
+thermaldynamics:cover:0, Pink Dafodil Cover
+thermaldynamics:cover:0, Wildflower Cover
+thermaldynamics:cover:0, Violet Cover
+thermaldynamics:cover:0, White Anemone Cover
+thermaldynamics:cover:0, Enderlotus Cover
+thermaldynamics:cover:0, Bromeliad Cover
+thermaldynamics:cover:0, Wilted Lily Cover
+thermaldynamics:cover:0, Pink Hibiscus Cover
+thermaldynamics:cover:0, Lily of the Valley Cover
+thermaldynamics:cover:0, Burning Blossom Cover
+thermaldynamics:cover:0, Lavender Cover
+thermaldynamics:cover:0, Goldenrod Cover
+thermaldynamics:cover:0, Bluebells Cover
+thermaldynamics:cover:0, Miner's Delight Cover
+thermaldynamics:cover:0, Icy Iris Cover
+thermaldynamics:cover:0, Rose Cover
+thermaldynamics:cover:0, Flowering Vines Cover
+thermaldynamics:cover:0, Ivy Cover
+thermaldynamics:cover:0, Umbran Tree Moss Cover
+thermaldynamics:cover:0, Willow Vine Cover
+thermaldynamics:cover:0, Fern Terrarium Cover
+thermaldynamics:cover:0, Mushroom Terrarium Cover
+thermaldynamics:cover:0, Cactus Terrarium Cover
+thermaldynamics:cover:0, Flax Terrarium Cover
+thermaldynamics:cover:0, Flower Terrarium Cover
+thermaldynamics:cover:0, Koru Terrarium Cover
+thermaldynamics:cover:0, Bamboo Terrarium Cover
+thermaldynamics:cover:0, Beach Terrarium Cover
+thermaldynamics:cover:0, Glowshroom Terrarium Cover
+thermaldynamics:cover:0, Dead Terrarium Cover
+thermaldynamics:cover:0, Mystic Terrarium Cover
+thermaldynamics:cover:0, Ominous Terrarium Cover
+thermaldynamics:cover:0, Wasteland Terrarium Cover
+thermaldynamics:cover:0, Origin Terrarium Cover
+thermaldynamics:cover:0, Nether Terrarium Cover
+thermaldynamics:cover:0, Ender Terrarium Cover
+thermaldynamics:cover:0, Straw Cover
+thermaldynamics:cover:0, Cheese Wheel (Friesian) Cover
+thermaldynamics:cover:0, Cheese Wheel (Holstein) Cover
+thermaldynamics:cover:0, Cheese Wheel (Jersey) Cover
+thermaldynamics:cover:0, Cheese Wheel (Goat) Cover
+thermaldynamics:cover:0, Cheese Wheel (Sheep) Cover
+thermaldynamics:cover:0, Wool (Dorset, Brown) Cover
+thermaldynamics:cover:0, Mud Cover
+thermaldynamics:cover:0, Bog Earth Cover
+thermaldynamics:cover:0, Humus Cover
+thermaldynamics:cover:0, Apatite Ore Cover
+thermaldynamics:cover:0, Copper Ore Cover
+thermaldynamics:cover:0, Tin Ore Cover
+thermaldynamics:cover:0, Block of Apatite Cover
+thermaldynamics:cover:0, Block of Copper Cover
+thermaldynamics:cover:0, Block of Tin Cover
+thermaldynamics:cover:0, Block of Bronze Cover
+thermaldynamics:cover:0, Ash Bricks Cover
+thermaldynamics:cover:0, Ash Brick Stairs Cover
+thermaldynamics:cover:0, Candle Stump Cover
+thermaldynamics:cover:0, Honey Comb Block Cover
+thermaldynamics:cover:0, Simmering Comb Block Cover
+thermaldynamics:cover:0, Stringy Comb Block Cover
+thermaldynamics:cover:0, Frozen Comb Block Cover
+thermaldynamics:cover:0, Dripping Comb Block Cover
+thermaldynamics:cover:0, Silky Comb Block Cover
+thermaldynamics:cover:0, Parched Comb Block Cover
+thermaldynamics:cover:0, Mossy Comb Block Cover
+thermaldynamics:cover:0, Mellow Comb Block Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
+thermaldynamics:cover:0, Wood Pile Cover
+thermaldynamics:cover:0, Decorative Wood Pile Cover
+thermaldynamics:cover:0, Loam Cover
+thermaldynamics:cover:0, Larch Wood Cover
+thermaldynamics:cover:0, Teak Wood Cover
+thermaldynamics:cover:0, Desert Acacia Wood Cover
+thermaldynamics:cover:0, Lime Wood Cover
+thermaldynamics:cover:0, Chestnut Wood Cover
+thermaldynamics:cover:0, Wenge Wood Cover
+thermaldynamics:cover:0, Baobab Wood Cover
+thermaldynamics:cover:0, Sequoia Wood Cover
+thermaldynamics:cover:0, Kapok Wood Cover
+thermaldynamics:cover:0, Ebony Wood Cover
+thermaldynamics:cover:0, Mahogany Wood Cover
+thermaldynamics:cover:0, Balsa Wood Cover
+thermaldynamics:cover:0, Willow Wood Cover
+thermaldynamics:cover:0, Walnut Wood Cover
+thermaldynamics:cover:0, Greenheart Wood Cover
+thermaldynamics:cover:0, Cherry Wood Cover
+thermaldynamics:cover:0, Mahoe Wood Cover
+thermaldynamics:cover:0, Poplar Wood Cover
+thermaldynamics:cover:0, Palm Wood Cover
+thermaldynamics:cover:0, Papaya Wood Cover
+thermaldynamics:cover:0, Pine Wood Cover
+thermaldynamics:cover:0, Plum Wood Cover
+thermaldynamics:cover:0, Maple Wood Cover
+thermaldynamics:cover:0, Citrus Wood Cover
+thermaldynamics:cover:0, Giant Sequoia Wood Cover
+thermaldynamics:cover:0, Ipe Wood Cover
+thermaldynamics:cover:0, Padauk Wood Cover
+thermaldynamics:cover:0, Cocobolo Wood Cover
+thermaldynamics:cover:0, Zebrawood Wood Cover
+thermaldynamics:cover:0, Larch Wood (Fireproof) Cover
+thermaldynamics:cover:0, Teak Wood (Fireproof) Cover
+thermaldynamics:cover:0, Desert Acacia Wood (Fireproof) Cover
+thermaldynamics:cover:0, Lime Wood (Fireproof) Cover
+thermaldynamics:cover:0, Chestnut Wood (Fireproof) Cover
+thermaldynamics:cover:0, Wenge Wood (Fireproof) Cover
+thermaldynamics:cover:0, Baobab Wood (Fireproof) Cover
+thermaldynamics:cover:0, Sequoia Wood (Fireproof) Cover
+thermaldynamics:cover:0, Kapok Wood (Fireproof) Cover
+thermaldynamics:cover:0, Ebony Wood (Fireproof) Cover
+thermaldynamics:cover:0, Mahogany Wood (Fireproof) Cover
+thermaldynamics:cover:0, Balsa Wood (Fireproof) Cover
+thermaldynamics:cover:0, Willow Wood (Fireproof) Cover
+thermaldynamics:cover:0, Walnut Wood (Fireproof) Cover
+thermaldynamics:cover:0, Greenheart Wood (Fireproof) Cover
+thermaldynamics:cover:0, Cherry Wood (Fireproof) Cover
+thermaldynamics:cover:0, Mahoe Wood (Fireproof) Cover
+thermaldynamics:cover:0, Poplar Wood (Fireproof) Cover
+thermaldynamics:cover:0, Palm Wood (Fireproof) Cover
+thermaldynamics:cover:0, Papaya Wood (Fireproof) Cover
+thermaldynamics:cover:0, Pine Wood (Fireproof) Cover
+thermaldynamics:cover:0, Plum Wood (Fireproof) Cover
+thermaldynamics:cover:0, Maple Wood (Fireproof) Cover
+thermaldynamics:cover:0, Citrus Wood (Fireproof) Cover
+thermaldynamics:cover:0, Giant Sequoia Wood (Fireproof) Cover
+thermaldynamics:cover:0, Ipe Wood (Fireproof) Cover
+thermaldynamics:cover:0, Padauk Wood (Fireproof) Cover
+thermaldynamics:cover:0, Cocobolo Wood (Fireproof) Cover
+thermaldynamics:cover:0, Zebrawood Wood (Fireproof) Cover
+thermaldynamics:cover:0, Oak Wood (Fireproof) Cover
+thermaldynamics:cover:0, Spruce Wood (Fireproof) Cover
+thermaldynamics:cover:0, Birch Wood (Fireproof) Cover
+thermaldynamics:cover:0, Jungle Wood (Fireproof) Cover
+thermaldynamics:cover:0, Acacia Wood (Fireproof) Cover
+thermaldynamics:cover:0, Dark Oak Wood (Fireproof) Cover
+thermaldynamics:cover:0, Larch Wood Planks Cover
+thermaldynamics:cover:0, Teak Wood Planks Cover
+thermaldynamics:cover:0, Desert Acacia Wood Planks Cover
+thermaldynamics:cover:0, Lime Wood Planks Cover
+thermaldynamics:cover:0, Chestnut Wood Planks Cover
+thermaldynamics:cover:0, Wenge Wood Planks Cover
+thermaldynamics:cover:0, Baobab Wood Planks Cover
+thermaldynamics:cover:0, Sequoia Wood Planks Cover
+thermaldynamics:cover:0, Kapok Wood Planks Cover
+thermaldynamics:cover:0, Ebony Wood Planks Cover
+thermaldynamics:cover:0, Mahogany Wood Planks Cover
+thermaldynamics:cover:0, Balsa Wood Planks Cover
+thermaldynamics:cover:0, Willow Wood Planks Cover
+thermaldynamics:cover:0, Walnut Wood Planks Cover
+thermaldynamics:cover:0, Greenheart Wood Planks Cover
+thermaldynamics:cover:0, Cherry Wood Planks Cover
+thermaldynamics:cover:0, Mahoe Wood Planks Cover
+thermaldynamics:cover:0, Poplar Wood Planks Cover
+thermaldynamics:cover:0, Palm Wood Planks Cover
+thermaldynamics:cover:0, Papaya Wood Planks Cover
+thermaldynamics:cover:0, Pine Wood Planks Cover
+thermaldynamics:cover:0, Plum Wood Planks Cover
+thermaldynamics:cover:0, Maple Wood Planks Cover
+thermaldynamics:cover:0, Citrus Wood Planks Cover
+thermaldynamics:cover:0, Giant Sequoia Wood Planks Cover
+thermaldynamics:cover:0, Ipe Wood Planks Cover
+thermaldynamics:cover:0, Padauk Wood Planks Cover
+thermaldynamics:cover:0, Cocobolo Wood Planks Cover
+thermaldynamics:cover:0, Zebrawood Wood Planks Cover
+thermaldynamics:cover:0, Larch Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Teak Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Desert Acacia Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Lime Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Chestnut Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Wenge Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Baobab Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Sequoia Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Kapok Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Ebony Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Mahogany Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Balsa Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Willow Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Walnut Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Greenheart Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Cherry Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Mahoe Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Poplar Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Palm Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Papaya Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Pine Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Plum Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Maple Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Citrus Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Giant Sequoia Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Ipe Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Padauk Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Cocobolo Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Zebrawood Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Oak Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Spruce Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Birch Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Jungle Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Acacia Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Dark Oak Wood Planks (Fireproof) Cover
+thermaldynamics:cover:0, Larch Wood Slab Cover
+thermaldynamics:cover:0, Teak Wood Slab Cover
+thermaldynamics:cover:0, Desert Acacia Wood Slab Cover
+thermaldynamics:cover:0, Lime Wood Slab Cover
+thermaldynamics:cover:0, Chestnut Wood Slab Cover
+thermaldynamics:cover:0, Wenge Wood Slab Cover
+thermaldynamics:cover:0, Baobab Wood Slab Cover
+thermaldynamics:cover:0, Sequoia Wood Slab Cover
+thermaldynamics:cover:0, Kapok Wood Slab Cover
+thermaldynamics:cover:0, Ebony Wood Slab Cover
+thermaldynamics:cover:0, Mahogany Wood Slab Cover
+thermaldynamics:cover:0, Balsa Wood Slab Cover
+thermaldynamics:cover:0, Willow Wood Slab Cover
+thermaldynamics:cover:0, Walnut Wood Slab Cover
+thermaldynamics:cover:0, Greenheart Wood Slab Cover
+thermaldynamics:cover:0, Cherry Wood Slab Cover
+thermaldynamics:cover:0, Mahoe Wood Slab Cover
+thermaldynamics:cover:0, Poplar Wood Slab Cover
+thermaldynamics:cover:0, Palm Wood Slab Cover
+thermaldynamics:cover:0, Papaya Wood Slab Cover
+thermaldynamics:cover:0, Pine Wood Slab Cover
+thermaldynamics:cover:0, Plum Wood Slab Cover
+thermaldynamics:cover:0, Maple Wood Slab Cover
+thermaldynamics:cover:0, Citrus Wood Slab Cover
+thermaldynamics:cover:0, Giant Sequoia Wood Slab Cover
+thermaldynamics:cover:0, Ipe Wood Slab Cover
+thermaldynamics:cover:0, Padauk Wood Slab Cover
+thermaldynamics:cover:0, Cocobolo Wood Slab Cover
+thermaldynamics:cover:0, Zebrawood Wood Slab Cover
+thermaldynamics:cover:0, Larch Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Teak Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Desert Acacia Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Lime Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Chestnut Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Wenge Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Baobab Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Sequoia Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Kapok Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Ebony Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Mahogany Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Balsa Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Willow Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Walnut Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Greenheart Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Cherry Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Mahoe Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Poplar Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Palm Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Papaya Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Pine Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Plum Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Maple Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Citrus Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Giant Sequoia Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Ipe Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Padauk Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Cocobolo Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Zebrawood Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Oak Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Spruce Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Birch Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Jungle Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Acacia Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Dark Oak Wood Slab (Fireproof) Cover
+thermaldynamics:cover:0, Larch Fence Cover
+thermaldynamics:cover:0, Teak Fence Cover
+thermaldynamics:cover:0, Desert Acacia Fence Cover
+thermaldynamics:cover:0, Lime Fence Cover
+thermaldynamics:cover:0, Chestnut Fence Cover
+thermaldynamics:cover:0, Wenge Fence Cover
+thermaldynamics:cover:0, Baobab Fence Cover
+thermaldynamics:cover:0, Sequoia Fence Cover
+thermaldynamics:cover:0, Kapok Fence Cover
+thermaldynamics:cover:0, Ebony Fence Cover
+thermaldynamics:cover:0, Mahogany Fence Cover
+thermaldynamics:cover:0, Balsa Fence Cover
+thermaldynamics:cover:0, Willow Fence Cover
+thermaldynamics:cover:0, Walnut Fence Cover
+thermaldynamics:cover:0, Greenheart Fence Cover
+thermaldynamics:cover:0, Cherry Fence Cover
+thermaldynamics:cover:0, Mahoe Fence Cover
+thermaldynamics:cover:0, Poplar Fence Cover
+thermaldynamics:cover:0, Palm Fence Cover
+thermaldynamics:cover:0, Papaya Fence Cover
+thermaldynamics:cover:0, Pine Fence Cover
+thermaldynamics:cover:0, Plum Fence Cover
+thermaldynamics:cover:0, Maple Fence Cover
+thermaldynamics:cover:0, Citrus Fence Cover
+thermaldynamics:cover:0, Giant Sequoia Fence Cover
+thermaldynamics:cover:0, Ipe Fence Cover
+thermaldynamics:cover:0, Padauk Fence Cover
+thermaldynamics:cover:0, Cocobolo Fence Cover
+thermaldynamics:cover:0, Zebrawood Fence Cover
+thermaldynamics:cover:0, Larch Fence (Fireproof) Cover
+thermaldynamics:cover:0, Teak Fence (Fireproof) Cover
+thermaldynamics:cover:0, Desert Acacia Fence (Fireproof) Cover
+thermaldynamics:cover:0, Lime Fence (Fireproof) Cover
+thermaldynamics:cover:0, Chestnut Fence (Fireproof) Cover
+thermaldynamics:cover:0, Wenge Fence (Fireproof) Cover
+thermaldynamics:cover:0, Baobab Fence (Fireproof) Cover
+thermaldynamics:cover:0, Sequoia Fence (Fireproof) Cover
+thermaldynamics:cover:0, Kapok Fence (Fireproof) Cover
+thermaldynamics:cover:0, Ebony Fence (Fireproof) Cover
+thermaldynamics:cover:0, Mahogany Fence (Fireproof) Cover
+thermaldynamics:cover:0, Balsa Fence (Fireproof) Cover
+thermaldynamics:cover:0, Willow Fence (Fireproof) Cover
+thermaldynamics:cover:0, Walnut Fence (Fireproof) Cover
+thermaldynamics:cover:0, Greenheart Fence (Fireproof) Cover
+thermaldynamics:cover:0, Cherry Fence (Fireproof) Cover
+thermaldynamics:cover:0, Mahoe Fence (Fireproof) Cover
+thermaldynamics:cover:0, Poplar Fence (Fireproof) Cover
+thermaldynamics:cover:0, Palm Fence (Fireproof) Cover
+thermaldynamics:cover:0, Papaya Fence (Fireproof) Cover
+thermaldynamics:cover:0, Pine Fence (Fireproof) Cover
+thermaldynamics:cover:0, Plum Fence (Fireproof) Cover
+thermaldynamics:cover:0, Maple Fence (Fireproof) Cover
+thermaldynamics:cover:0, Citrus Fence (Fireproof) Cover
+thermaldynamics:cover:0, Giant Sequoia Fence (Fireproof) Cover
+thermaldynamics:cover:0, Ipe Fence (Fireproof) Cover
+thermaldynamics:cover:0, Padauk Fence (Fireproof) Cover
+thermaldynamics:cover:0, Cocobolo Fence (Fireproof) Cover
+thermaldynamics:cover:0, Zebrawood Fence (Fireproof) Cover
+thermaldynamics:cover:0, Fence (Fireproof) Cover
+thermaldynamics:cover:0, Spruce Fence (Fireproof) Cover
+thermaldynamics:cover:0, Birch Fence (Fireproof) Cover
+thermaldynamics:cover:0, Jungle Fence (Fireproof) Cover
+thermaldynamics:cover:0, Acacia Fence (Fireproof) Cover
+thermaldynamics:cover:0, Dark Oak Fence (Fireproof) Cover
+thermaldynamics:cover:0, Larch Fence Gate Cover
+thermaldynamics:cover:0, Larch Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Teak Fence Gate Cover
+thermaldynamics:cover:0, Teak Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Desert Acacia Fence Gate Cover
+thermaldynamics:cover:0, Desert Acacia Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Lime Fence Gate Cover
+thermaldynamics:cover:0, Lime Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Chestnut Fence Gate Cover
+thermaldynamics:cover:0, Chestnut Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Wenge Fence Gate Cover
+thermaldynamics:cover:0, Wenge Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Baobab Fence Gate Cover
+thermaldynamics:cover:0, Baobab Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Sequoia Fence Gate Cover
+thermaldynamics:cover:0, Sequoia Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Kapok Fence Gate Cover
+thermaldynamics:cover:0, Kapok Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Ebony Fence Gate Cover
+thermaldynamics:cover:0, Ebony Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Mahogany Fence Gate Cover
+thermaldynamics:cover:0, Mahogany Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Balsa Fence Gate Cover
+thermaldynamics:cover:0, Balsa Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Willow Fence Gate Cover
+thermaldynamics:cover:0, Willow Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Walnut Fence Gate Cover
+thermaldynamics:cover:0, Walnut Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Greenheart Fence Gate Cover
+thermaldynamics:cover:0, Greenheart Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Cherry Fence Gate Cover
+thermaldynamics:cover:0, Cherry Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Mahoe Fence Gate Cover
+thermaldynamics:cover:0, Mahoe Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Poplar Fence Gate Cover
+thermaldynamics:cover:0, Poplar Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Palm Fence Gate Cover
+thermaldynamics:cover:0, Palm Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Papaya Fence Gate Cover
+thermaldynamics:cover:0, Papaya Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Pine Fence Gate Cover
+thermaldynamics:cover:0, Pine Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Plum Fence Gate Cover
+thermaldynamics:cover:0, Plum Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Maple Fence Gate Cover
+thermaldynamics:cover:0, Maple Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Citrus Fence Gate Cover
+thermaldynamics:cover:0, Citrus Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Giant Sequoia Fence Gate Cover
+thermaldynamics:cover:0, Giant Sequoia Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Ipe Fence Gate Cover
+thermaldynamics:cover:0, Ipe Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Padauk Fence Gate Cover
+thermaldynamics:cover:0, Padauk Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Cocobolo Fence Gate Cover
+thermaldynamics:cover:0, Cocobolo Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Zebrawood Fence Gate Cover
+thermaldynamics:cover:0, Zebrawood Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Spruce Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Birch Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Jungle Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Acacia Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Dark Oak Fence Gate (Fireproof) Cover
+thermaldynamics:cover:0, Larch Stairs Cover
+thermaldynamics:cover:0, Teak Stairs Cover
+thermaldynamics:cover:0, Desert Acacia Stairs Cover
+thermaldynamics:cover:0, Lime Stairs Cover
+thermaldynamics:cover:0, Chestnut Stairs Cover
+thermaldynamics:cover:0, Wenge Stairs Cover
+thermaldynamics:cover:0, Baobab Stairs Cover
+thermaldynamics:cover:0, Sequoia Stairs Cover
+thermaldynamics:cover:0, Kapok Stairs Cover
+thermaldynamics:cover:0, Ebony Stairs Cover
+thermaldynamics:cover:0, Mahogany Stairs Cover
+thermaldynamics:cover:0, Balsa Stairs Cover
+thermaldynamics:cover:0, Willow Stairs Cover
+thermaldynamics:cover:0, Walnut Stairs Cover
+thermaldynamics:cover:0, Greenheart Stairs Cover
+thermaldynamics:cover:0, Cherry Stairs Cover
+thermaldynamics:cover:0, Mahoe Stairs Cover
+thermaldynamics:cover:0, Poplar Stairs Cover
+thermaldynamics:cover:0, Palm Stairs Cover
+thermaldynamics:cover:0, Papaya Stairs Cover
+thermaldynamics:cover:0, Pine Stairs Cover
+thermaldynamics:cover:0, Plum Stairs Cover
+thermaldynamics:cover:0, Maple Stairs Cover
+thermaldynamics:cover:0, Citrus Stairs Cover
+thermaldynamics:cover:0, Giant Sequoia Stairs Cover
+thermaldynamics:cover:0, Ipe Stairs Cover
+thermaldynamics:cover:0, Padauk Stairs Cover
+thermaldynamics:cover:0, Cocobolo Stairs Cover
+thermaldynamics:cover:0, Zebrawood Stairs Cover
+thermaldynamics:cover:0, Larch Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Teak Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Desert Acacia Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Lime Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Chestnut Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Wenge Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Baobab Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Sequoia Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Kapok Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Ebony Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Mahogany Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Balsa Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Willow Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Walnut Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Greenheart Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Cherry Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Mahoe Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Poplar Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Palm Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Papaya Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Pine Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Plum Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Maple Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Citrus Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Giant Sequoia Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Ipe Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Padauk Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Cocobolo Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Zebrawood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Oak Wood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Spruce Wood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Birch Wood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Jungle Wood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Acacia Wood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Dark Oak Wood Stairs (Fireproof) Cover
+thermaldynamics:cover:0, Larch Door Cover
+thermaldynamics:cover:0, Teak Door Cover
+thermaldynamics:cover:0, Desert Acacia Door Cover
+thermaldynamics:cover:0, Lime Door Cover
+thermaldynamics:cover:0, Chestnut Door Cover
+thermaldynamics:cover:0, Wenge Door Cover
+thermaldynamics:cover:0, Baobab Door Cover
+thermaldynamics:cover:0, Sequoia Door Cover
+thermaldynamics:cover:0, Kapok Door Cover
+thermaldynamics:cover:0, Ebony Door Cover
+thermaldynamics:cover:0, Mahogany Door Cover
+thermaldynamics:cover:0, Balsa Door Cover
+thermaldynamics:cover:0, Willow Door Cover
+thermaldynamics:cover:0, Walnut Door Cover
+thermaldynamics:cover:0, Greenheart Door Cover
+thermaldynamics:cover:0, Cherry Door Cover
+thermaldynamics:cover:0, Mahoe Door Cover
+thermaldynamics:cover:0, Poplar Door Cover
+thermaldynamics:cover:0, Palm Door Cover
+thermaldynamics:cover:0, Papaya Door Cover
+thermaldynamics:cover:0, Pine Door Cover
+thermaldynamics:cover:0, Plum Door Cover
+thermaldynamics:cover:0, Maple Door Cover
+thermaldynamics:cover:0, Citrus Door Cover
+thermaldynamics:cover:0, Giant Sequoia Door Cover
+thermaldynamics:cover:0, Ipe Door Cover
+thermaldynamics:cover:0, Padauk Door Cover
+thermaldynamics:cover:0, Cocobolo Door Cover
+thermaldynamics:cover:0, Zebrawood Door Cover
+thermaldynamics:cover:0, Apple Oak Leaves Cover
+thermaldynamics:cover:0, Dark Oak Leaves Cover
+thermaldynamics:cover:0, Silver Birch Leaves Cover
+thermaldynamics:cover:0, Silver Lime Leaves Cover
+thermaldynamics:cover:0, Common Walnut Leaves Cover
+thermaldynamics:cover:0, Sweet Chestnut Leaves Cover
+thermaldynamics:cover:0, Hill Cherry Leaves Cover
+thermaldynamics:cover:0, Lemon Leaves Cover
+thermaldynamics:cover:0, Plum Leaves Cover
+thermaldynamics:cover:0, Sugar Maple Leaves Cover
+thermaldynamics:cover:0, Red Spruce Leaves Cover
+thermaldynamics:cover:0, Mundane Larch Leaves Cover
+thermaldynamics:cover:0, Bull Pine Leaves Cover
+thermaldynamics:cover:0, Coast Sequoia Leaves Cover
+thermaldynamics:cover:0, Giant Sequoia Leaves Cover
+thermaldynamics:cover:0, Jungle Leaves Cover
+thermaldynamics:cover:0, Teak Leaves Cover
+thermaldynamics:cover:0, Ipe Leaves Cover
+thermaldynamics:cover:0, Kapok Leaves Cover
+thermaldynamics:cover:0, Myrtle Ebony Leaves Cover
+thermaldynamics:cover:0, Zebrawood Leaves Cover
+thermaldynamics:cover:0, Yellow Meranti Leaves Cover
+thermaldynamics:cover:0, Acacia Leaves Cover
+thermaldynamics:cover:0, Desert Acacia Leaves Cover
+thermaldynamics:cover:0, Padauk Leaves Cover
+thermaldynamics:cover:0, Balsa Leaves Cover
+thermaldynamics:cover:0, Cocobolo Leaves Cover
+thermaldynamics:cover:0, Wenge Leaves Cover
+thermaldynamics:cover:0, Grandidier's Baobab Leaves Cover
+thermaldynamics:cover:0, Blue Mahoe Leaves Cover
+thermaldynamics:cover:0, White Willow Leaves Cover
+thermaldynamics:cover:0, Sipiri Leaves Cover
+thermaldynamics:cover:0, Papaya Leaves Cover
+thermaldynamics:cover:0, Date Palm Leaves Cover
+thermaldynamics:cover:0, White Poplar Leaves Cover
+thermaldynamics:cover:0, Copper Ore Cover
+thermaldynamics:cover:0, Tin Ore Cover
+thermaldynamics:cover:0, Silver Ore Cover
+thermaldynamics:cover:0, Lead Ore Cover
+thermaldynamics:cover:0, Aluminum Ore Cover
+thermaldynamics:cover:0, Nickel Ore Cover
+thermaldynamics:cover:0, Platinum Ore Cover
+thermaldynamics:cover:0, Iridium Ore Cover
+thermaldynamics:cover:0, Mana Infused Ore Cover
+thermaldynamics:cover:0, Oil Sand Cover
+thermaldynamics:cover:0, Oil Shale Cover
+thermaldynamics:cover:0, Destabilized Redstone Ore Cover
+thermaldynamics:cover:0, Energized Netherrack Cover
+thermaldynamics:cover:0, Resonant End Stone Cover
+thermaldynamics:cover:0, Oil Sand Cover
+thermaldynamics:cover:0, Block of Copper Cover
+thermaldynamics:cover:0, Block of Tin Cover
+thermaldynamics:cover:0, Block of Silver Cover
+thermaldynamics:cover:0, Block of Lead Cover
+thermaldynamics:cover:0, Block of Aluminum Cover
+thermaldynamics:cover:0, Block of Nickel Cover
+thermaldynamics:cover:0, Block of Platinum Cover
+thermaldynamics:cover:0, Block of Iridium Cover
+thermaldynamics:cover:0, Block of Mana Infused Metal Cover
+thermaldynamics:cover:0, Block of Steel Cover
+thermaldynamics:cover:0, Block of Electrum Cover
+thermaldynamics:cover:0, Block of Invar Cover
+thermaldynamics:cover:0, Block of Bronze Cover
+thermaldynamics:cover:0, Block of Constantan Cover
+thermaldynamics:cover:0, Block of Signalum Cover
+thermaldynamics:cover:0, Block of Lumium Cover
+thermaldynamics:cover:0, Block of Enderium Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
+thermaldynamics:cover:0, Block of Coal Coke Cover
+thermaldynamics:cover:0, Hardened Copper Glass Cover
+thermaldynamics:cover:0, Hardened Tin Glass Cover
+thermaldynamics:cover:0, Hardened Silver Glass Cover
+thermaldynamics:cover:0, Hardened Glass Cover
+thermaldynamics:cover:0, Hardened Aluminum Glass Cover
+thermaldynamics:cover:0, Hardened Nickel Glass Cover
+thermaldynamics:cover:0, Hardened Platinum Glass Cover
+thermaldynamics:cover:0, Hardened Iridium Glass Cover
+thermaldynamics:cover:0, Hardened Mana Infused Glass Cover
+thermaldynamics:cover:0, Hardened Steel Glass Cover
+thermaldynamics:cover:0, Hardened Electrum Glass Cover
+thermaldynamics:cover:0, Hardened Invar Glass Cover
+thermaldynamics:cover:0, Hardened Bronze Glass Cover
+thermaldynamics:cover:0, Hardened Constantan Glass Cover
+thermaldynamics:cover:0, Hardened Signalum Glass Cover
+thermaldynamics:cover:0, Hardened Lumium Glass Cover
+thermaldynamics:cover:0, Hardened Enderium Glass Cover
+thermaldynamics:cover:0, Black Rockwool Cover
+thermaldynamics:cover:0, Red Rockwool Cover
+thermaldynamics:cover:0, Green Rockwool Cover
+thermaldynamics:cover:0, Brown Rockwool Cover
+thermaldynamics:cover:0, Blue Rockwool Cover
+thermaldynamics:cover:0, Purple Rockwool Cover
+thermaldynamics:cover:0, Cyan Rockwool Cover
+thermaldynamics:cover:0, Light Gray Rockwool Cover
+thermaldynamics:cover:0, Gray Rockwool Cover
+thermaldynamics:cover:0, Pink Rockwool Cover
+thermaldynamics:cover:0, Lime Rockwool Cover
+thermaldynamics:cover:0, Yellow Rockwool Cover
+thermaldynamics:cover:0, Light Blue Rockwool Cover
+thermaldynamics:cover:0, Magenta Rockwool Cover
+thermaldynamics:cover:0, Orange Rockwool Cover
+thermaldynamics:cover:0, White Rockwool Cover
+thermaldynamics:cover:0, Stone Pillar Cover
+thermaldynamics:cover:0, Andesite Pillar Cover
+thermaldynamics:cover:0, Diorite Pillar Cover
+thermaldynamics:cover:0, Granite Pillar Cover
+thermaldynamics:cover:0, Iron Chain Cover
+thermaldynamics:cover:0, Candle Cover
+thermaldynamics:cover:0, Chandelier Ring Cover
+thermaldynamics:cover:0, Beehive Cover
+thermaldynamics:cover:0, Clay Wall Cover
+thermaldynamics:cover:0, Crossed Clay Wall Cover
+thermaldynamics:cover:0, Diagonal Clay Wall Cover
+thermaldynamics:cover:0, Oak Chair Cover
+thermaldynamics:cover:0, Dark Oak Chair Cover
+thermaldynamics:cover:0, Birch Chair Cover
+thermaldynamics:cover:0, Spruce Chair Cover
+thermaldynamics:cover:0, Acacia Chair Cover
+thermaldynamics:cover:0, Jungle Chair Cover
+thermaldynamics:cover:0, Olive Wood Chair Cover
+thermaldynamics:cover:0, Ironwood Chair Cover
+thermaldynamics:cover:0, Oak Table Cover
+thermaldynamics:cover:0, Dark Oak Table Cover
+thermaldynamics:cover:0, Birch Table Cover
+thermaldynamics:cover:0, Spruce Table Cover
+thermaldynamics:cover:0, Acacia Table Cover
+thermaldynamics:cover:0, Jungle Table Cover
+thermaldynamics:cover:0, Olive Wood Table Cover
+thermaldynamics:cover:0, Ironwood Table Cover
+thermaldynamics:cover:0, Iron Lattice Cover
+thermaldynamics:cover:0, Iron Lantern Cover
+thermaldynamics:cover:0, White Painted Wood Cover
+thermaldynamics:cover:0, Orange Painted Wood Cover
+thermaldynamics:cover:0, Magenta Painted Wood Cover
+thermaldynamics:cover:0, Light Blue Painted Wood Cover
+thermaldynamics:cover:0, Yellow Painted Wood Cover
+thermaldynamics:cover:0, Lime Painted Wood Cover
+thermaldynamics:cover:0, Pink Painted Wood Cover
+thermaldynamics:cover:0, Gray Painted Wood Cover
+thermaldynamics:cover:0, Light Gray Painted Wood Cover
+thermaldynamics:cover:0, Cyan Painted Wood Cover
+thermaldynamics:cover:0, Purple Painted Wood Cover
+thermaldynamics:cover:0, Blue Painted Wood Cover
+thermaldynamics:cover:0, Brown Painted Wood Cover
+thermaldynamics:cover:0, Green Painted Wood Cover
+thermaldynamics:cover:0, Red Painted Wood Cover
+thermaldynamics:cover:0, Black Painted Wood Cover
+thermaldynamics:cover:0, Gargoyle Cover
+thermaldynamics:cover:0, Fertile Soil Cover
+thermaldynamics:cover:0, Olive Wood Planks Cover
+thermaldynamics:cover:0, Ironwood Planks Cover
+thermaldynamics:cover:0, Olive Wood Cover
+thermaldynamics:cover:0, Ironwood Cover
+thermaldynamics:cover:0, Olive Leaves Cover
+thermaldynamics:cover:0, Ironwood Leaves Cover
+thermaldynamics:cover:0, Olive Sapling Cover
+thermaldynamics:cover:0, Ironwood Sapling Cover
+thermaldynamics:cover:0, Olive Wood Fence Cover
+thermaldynamics:cover:0, Ironwood Fence Cover
+thermaldynamics:cover:0, Olive Wood Fence Gate Cover
+thermaldynamics:cover:0, Ironwood Fence Gate Cover
+thermaldynamics:cover:0, Olive Wood Slab Cover
+thermaldynamics:cover:0, Ironwood Slab Cover
+thermaldynamics:cover:0, Olive Wood Stairs Cover
+thermaldynamics:cover:0, Ironwood Stairs Cover
+thermaldynamics:cover:0, Alchemic Retort Cover
+thermaldynamics:cover:0, Advanced Alchemic Retort Cover
+thermaldynamics:cover:0, Wooden Stake Cover
+thermaldynamics:cover:0, Wildberry Bush Cover
+thermaldynamics:cover:0, Rope Cover
+thermaldynamics:cover:0, Grape Seeds Cover
+thermaldynamics:cover:0, Apple Seeds Cover
+thermaldynamics:cover:0, Apple Sapling Cover
+thermaldynamics:cover:0, Apple Leaves Cover
+thermaldynamics:cover:0, Aloe Vera Cover
+thermaldynamics:cover:0, Blood Orchid Cover
+thermaldynamics:cover:0, Chamomile Cover
+thermaldynamics:cover:0, Cohosh Cover
+thermaldynamics:cover:0, Deathstalk Mushroom Cover
+thermaldynamics:cover:0, Horsetail Cover
+thermaldynamics:cover:0, Mooncap Mushroom Cover
+thermaldynamics:cover:0, Wind Thistle Cover
+thermaldynamics:cover:0, Mutagen Cover
+thermaldynamics:cover:0, Liquid DNA Cover
+thermaldynamics:cover:0, Protein Cover
+thermaldynamics:cover:0, Hematite Cover
+thermaldynamics:cover:0, Limonite Cover
+thermaldynamics:cover:0, Malachite Cover
+thermaldynamics:cover:0, Azurite Cover
+thermaldynamics:cover:0, Cassiterite Cover
+thermaldynamics:cover:0, Teallite Cover
+thermaldynamics:cover:0, Galena Cover
+thermaldynamics:cover:0, Bauxite Cover
+thermaldynamics:cover:0, Platinum Cover
+thermaldynamics:cover:0, Autunite Cover
+thermaldynamics:cover:0, Sphalerite Cover
+thermaldynamics:cover:0, Coal Cover
+thermaldynamics:cover:0, Cinnabar Cover
+thermaldynamics:cover:0, Gold Cover
+thermaldynamics:cover:0, Lapis Lazuli Cover
+thermaldynamics:cover:0, Assorted Quartz Cover
+thermaldynamics:cover:0, Kimberlite Cover
+thermaldynamics:cover:0, Beryl Cover
+thermaldynamics:cover:0, Hematite Sample Cover
+thermaldynamics:cover:0, Limonite Sample Cover
+thermaldynamics:cover:0, Malachite Sample Cover
+thermaldynamics:cover:0, Azurite Sample Cover
+thermaldynamics:cover:0, Cassiterite Sample Cover
+thermaldynamics:cover:0, Teallite Sample Cover
+thermaldynamics:cover:0, Galena Sample Cover
+thermaldynamics:cover:0, Bauxite Sample Cover
+thermaldynamics:cover:0, Platinum Sample Cover
+thermaldynamics:cover:0, Autunite Sample Cover
+thermaldynamics:cover:0, Sphalerite Sample Cover
+thermaldynamics:cover:0, Coal Sample Cover
+thermaldynamics:cover:0, Cinnabar Sample Cover
+thermaldynamics:cover:0, Gold Sample Cover
+thermaldynamics:cover:0, Lapis Lazuli Sample Cover
+thermaldynamics:cover:0, Assorted Quartz Sample Cover
+thermaldynamics:cover:0, Kimberlite Sample Cover
+thermaldynamics:cover:0, Beryl Sample Cover
+thermaldynamics:cover:0, Fish Tank Cover
+thermaldynamics:cover:0, Sacred Oak Chair Cover
+thermaldynamics:cover:0, Cherry Chair Cover
+thermaldynamics:cover:0, Umbran Chair Cover
+thermaldynamics:cover:0, Fir Chair Cover
+thermaldynamics:cover:0, Ethereal Chair Cover
+thermaldynamics:cover:0, Magic Chair Cover
+thermaldynamics:cover:0, Mangrove Chair Cover
+thermaldynamics:cover:0, Palm Chair Cover
+thermaldynamics:cover:0, Redwood Chair Cover
+thermaldynamics:cover:0, Willow Chair Cover
+thermaldynamics:cover:0, Pine Chair Cover
+thermaldynamics:cover:0, Hellbark Chair Cover
+thermaldynamics:cover:0, Jacaranda Chair Cover
+thermaldynamics:cover:0, Mahogany Chair Cover
+thermaldynamics:cover:0, Ebony Chair Cover
+thermaldynamics:cover:0, Eucalyptus Chair Cover
+thermaldynamics:cover:0, Sacred Oak Table Cover
+thermaldynamics:cover:0, Cherry Table Cover
+thermaldynamics:cover:0, Umbran Table Cover
+thermaldynamics:cover:0, Fir Table Cover
+thermaldynamics:cover:0, Ethereal Table Cover
+thermaldynamics:cover:0, Magic Table Cover
+thermaldynamics:cover:0, Mangrove Table Cover
+thermaldynamics:cover:0, Palm Table Cover
+thermaldynamics:cover:0, Redwood Table Cover
+thermaldynamics:cover:0, Willow Table Cover
+thermaldynamics:cover:0, Pine Table Cover
+thermaldynamics:cover:0, Hellbark Table Cover
+thermaldynamics:cover:0, Jacaranda Table Cover
+thermaldynamics:cover:0, Mahogany Table Cover
+thermaldynamics:cover:0, Ebony Table Cover
+thermaldynamics:cover:0, Eucalyptus Table Cover
 tinkersaddons:modifier_item:0, Amelioration Tome
 tinkersaddons:modifier_item:1, Iron Toolkit
 tinkersaddons:modifier_item:2, Gold Toolkit
@@ -3104,6 +4906,20 @@ appliedenergistics2:facade:0, Cable Facade - Block of Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Tin
 appliedenergistics2:facade:0, Cable Facade - Block of Bronze
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks
+appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
+appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
+appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
+appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block
+appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block
+appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
+appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
+appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
+appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Loam
 appliedenergistics2:facade:0, Cable Facade - Larch Wood
 appliedenergistics2:facade:0, Cable Facade - Teak Wood
 appliedenergistics2:facade:0, Cable Facade - Desert Acacia Wood
@@ -3267,20 +5083,56 @@ appliedenergistics2:facade:0, Cable Facade - Sipiri Leaves
 appliedenergistics2:facade:0, Cable Facade - Papaya Leaves
 appliedenergistics2:facade:0, Cable Facade - Date Palm Leaves
 appliedenergistics2:facade:0, Cable Facade - White Poplar Leaves
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Platinum Ore
+appliedenergistics2:facade:0, Cable Facade - Iridium Ore
+appliedenergistics2:facade:0, Cable Facade - Mana Infused Ore
+appliedenergistics2:facade:0, Cable Facade - Oil Sand
+appliedenergistics2:facade:0, Cable Facade - Oil Shale
+appliedenergistics2:facade:0, Cable Facade - Destabilized Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Energized Netherrack
+appliedenergistics2:facade:0, Cable Facade - Resonant End Stone
+appliedenergistics2:facade:0, Cable Facade - Oil Sand
+appliedenergistics2:facade:0, Cable Facade - Block of Copper
+appliedenergistics2:facade:0, Cable Facade - Block of Tin
+appliedenergistics2:facade:0, Cable Facade - Block of Silver
+appliedenergistics2:facade:0, Cable Facade - Block of Lead
+appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
+appliedenergistics2:facade:0, Cable Facade - Block of Nickel
+appliedenergistics2:facade:0, Cable Facade - Block of Platinum
+appliedenergistics2:facade:0, Cable Facade - Block of Iridium
+appliedenergistics2:facade:0, Cable Facade - Block of Mana Infused Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Steel
+appliedenergistics2:facade:0, Cable Facade - Block of Electrum
+appliedenergistics2:facade:0, Cable Facade - Block of Invar
+appliedenergistics2:facade:0, Cable Facade - Block of Bronze
+appliedenergistics2:facade:0, Cable Facade - Block of Constantan
+appliedenergistics2:facade:0, Cable Facade - Block of Signalum
+appliedenergistics2:facade:0, Cable Facade - Block of Lumium
+appliedenergistics2:facade:0, Cable Facade - Block of Enderium
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Loam
-appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
-appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
-appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
-appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block
-appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block
-appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
-appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
-appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
-appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
+appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
+appliedenergistics2:facade:0, Cable Facade - Black Rockwool
+appliedenergistics2:facade:0, Cable Facade - Red Rockwool
+appliedenergistics2:facade:0, Cable Facade - Green Rockwool
+appliedenergistics2:facade:0, Cable Facade - Brown Rockwool
+appliedenergistics2:facade:0, Cable Facade - Blue Rockwool
+appliedenergistics2:facade:0, Cable Facade - Purple Rockwool
+appliedenergistics2:facade:0, Cable Facade - Cyan Rockwool
+appliedenergistics2:facade:0, Cable Facade - Light Gray Rockwool
+appliedenergistics2:facade:0, Cable Facade - Gray Rockwool
+appliedenergistics2:facade:0, Cable Facade - Pink Rockwool
+appliedenergistics2:facade:0, Cable Facade - Lime Rockwool
+appliedenergistics2:facade:0, Cable Facade - Yellow Rockwool
+appliedenergistics2:facade:0, Cable Facade - Light Blue Rockwool
+appliedenergistics2:facade:0, Cable Facade - Magenta Rockwool
+appliedenergistics2:facade:0, Cable Facade - Orange Rockwool
+appliedenergistics2:facade:0, Cable Facade - White Rockwool
 appliedenergistics2:facade:0, Cable Facade - Stone Pillar
 appliedenergistics2:facade:0, Cable Facade - Andesite Pillar
 appliedenergistics2:facade:0, Cable Facade - Diorite Pillar
@@ -3968,11 +5820,11 @@ appliedenergistics2:facade:0, Cable Facade - Enriched Infused Wood
 appliedenergistics2:facade:0, Cable Facade - Vibrant Infused Wood
 appliedenergistics2:facade:0, Cable Facade - Neromantic Prime
 appliedenergistics2:facade:0, Cable Facade - Fysallidic Prime
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Brimstone
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
@@ -4479,6 +6331,7 @@ enderio:item_material:35, Grains of Vibrancy
 enderio:item_material:36, Grains of Piezallity
 enderio:item_material:37, Grains of the End
 enderio:item_material:38, Photovoltaic Composite
+enderio:item_material:39, Enderium Base
 enderio:item_material:40, Zombie Electrode
 enderio:item_material:41, Z-Logic Controller
 enderio:item_material:42, Frank'N'Zombie
@@ -5295,41 +7148,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Helmet Core Pattern
 tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Leggings Core Pattern
 tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -7769,9 +9622,6 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
-tconstruct:tooltables:1, Stencil Table
-tconstruct:tooltables:1, Stencil Table
-tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -7929,6 +9779,12 @@ tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:pickaxe, Pickaxe
 tconstruct:shovel, Shovel
 tconstruct:hatchet, Hatchet
@@ -7999,80 +9855,80 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Helmet Core Cast
 tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Leggings Core Cast
 tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Helmet Core Clay Cast
 tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -8192,9 +10048,39 @@ ceramics:clay_bucket:0, Crushed Ice Clay Bucket
 ceramics:clay_bucket:0, Fruit Juice Clay Bucket
 ceramics:clay_bucket:0, Seed Oil Clay Bucket
 ceramics:clay_bucket:0, Short Mead Clay Bucket
-ceramics:clay_bucket:0, Glowgas Clay Bucket
-ceramics:clay_bucket:0, Molten Redstone Clay Bucket
-ceramics:clay_bucket:0, Liquefied Ender Pearls Clay Bucket
+ceramics:clay_bucket:0, Steam Clay Bucket
+ceramics:clay_bucket:0, Creosote Oil Clay Bucket
+ceramics:clay_bucket:0, Liquifacted Coal Clay Bucket
+ceramics:clay_bucket:0, Crude Oil Clay Bucket
+ceramics:clay_bucket:0, Naphtha Clay Bucket
+ceramics:clay_bucket:0, Refined Fuel Clay Bucket
+ceramics:clay_bucket:0, Sap Clay Bucket
+ceramics:clay_bucket:0, Syrup Clay Bucket
+ceramics:clay_bucket:0, Resin Clay Bucket
+ceramics:clay_bucket:0, Tree Oil Clay Bucket
+ceramics:clay_bucket:0, Seed Oil Clay Bucket
+ceramics:clay_bucket:0, Biocrude Clay Bucket
+ceramics:clay_bucket:0, Grassoline Clay Bucket
+ceramics:clay_bucket:0, Mushroom Stew Clay Bucket
+ceramics:clay_bucket:0, Essence of Knowledge Clay Bucket
+ceramics:clay_bucket:0, Potion Clay Bucket
+ceramics:clay_bucket:0, Splash Potion Clay Bucket
+ceramics:clay_bucket:0, Lingering Potion Clay Bucket
+ceramics:clay_bucket:0, Destabilized Redstone Clay Bucket
+ceramics:clay_bucket:0, Energized Glowstone Clay Bucket
+ceramics:clay_bucket:0, Resonant Ender Clay Bucket
+ceramics:clay_bucket:0, Blazing Pyrotheum Clay Bucket
+ceramics:clay_bucket:0, Gelid Cryotheum Clay Bucket
+ceramics:clay_bucket:0, Zephyrean Aerotheum Clay Bucket
+ceramics:clay_bucket:0, Tectonic Petrotheum Clay Bucket
+ceramics:clay_bucket:0, Primal Mana Clay Bucket
+ceramics:clay_bucket:0, Molten Platinum Clay Bucket
+ceramics:clay_bucket:0, Molten Iridium Clay Bucket
+ceramics:clay_bucket:0, Molten Invar Clay Bucket
+ceramics:clay_bucket:0, Molten Constantan Clay Bucket
+ceramics:clay_bucket:0, Molten Signalum Clay Bucket
+ceramics:clay_bucket:0, Molten Lumium Clay Bucket
+ceramics:clay_bucket:0, Molten Enderium Clay Bucket
 ceramics:clay_bucket:0, Molten Electrical Steel Clay Bucket
 ceramics:clay_bucket:0, Molten Energetic Alloy Clay Bucket
 ceramics:clay_bucket:0, Molten Vibrant Alloy Clay Bucket
@@ -8213,14 +10099,11 @@ ceramics:clay_bucket:0, Wildberry Juice Clay Bucket
 ceramics:clay_bucket:0, Grape Juice Clay Bucket
 ceramics:clay_bucket:0, Apple Juice Clay Bucket
 ceramics:clay_bucket:0, Ale Wort Clay Bucket
-ceramics:clay_bucket:0, Creosote Oil Clay Bucket
 ceramics:clay_bucket:0, Plant Oil Clay Bucket
 ceramics:clay_bucket:0, Ethanol Clay Bucket
 ceramics:clay_bucket:0, Biodiesel Clay Bucket
 ceramics:clay_bucket:0, Liquid Concrete Clay Bucket
-ceramics:clay_bucket:0, Potion Clay Bucket
 ceramics:clay_bucket:0, Molten Uranium Clay Bucket
-ceramics:clay_bucket:0, Molten Constantan Clay Bucket
 ceramics:clay_bucket:0, Swamp Water Clay Bucket
 ceramics:clay_bucket:0, Stagnant Water Clay Bucket
 ceramics:clay_bucket:0, Tar Clay Bucket
@@ -8247,13 +10130,7 @@ ceramics:clay_bucket:0, Pink Slime Clay Bucket
 ceramics:clay_bucket:0, Protein Clay Bucket
 ceramics:clay_bucket:0, Raw Ore Meat Clay Bucket
 ceramics:clay_bucket:0, Fermented Ore Meat Clay Bucket
-ceramics:clay_bucket:0, Molten Enderium Clay Bucket
-ceramics:clay_bucket:0, Molten Platinum Clay Bucket
-ceramics:clay_bucket:0, Molten Iridium Clay Bucket
 ceramics:clay_bucket:0, Molten Mithril Clay Bucket
-ceramics:clay_bucket:0, Molten Signalum Clay Bucket
-ceramics:clay_bucket:0, Molten Lumium Clay Bucket
-ceramics:clay_bucket:0, Molten Invar Clay Bucket
 ceramics:clay_bucket:0, Molten Refined Obsidian Clay Bucket
 ceramics:clay_bucket:0, Molten Refined Glowstone Clay Bucket
 ceramics:clay_bucket:0, Molten Osmium Clay Bucket
@@ -8273,7 +10150,6 @@ ceramics:clay_bucket:0, Molten Tungsten Clay Bucket
 ceramics:clay_bucket:0, Molten Titanium Clay Bucket
 ceramics:clay_bucket:0, Molten Chrome Clay Bucket
 ceramics:clay_bucket:0, Molten Advanced Alloy Clay Bucket
-ceramics:clay_bucket:0, Steam Clay Bucket
 ceramics:clay_bucket:0, Preservation Liquid Clay Bucket
 ceramics:clay_bucket:0, Molten Ancite Clay Bucket
 ceramics:clay_bucket:0, Molten Steaite Clay Bucket
@@ -9072,6 +10948,12 @@ conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
 conarm:armorstation:0, Armor Station
 traverse:red_autumnal_sapling, Red Autumnal Sapling
 traverse:brown_autumnal_sapling, Brown Autumnal Sapling
@@ -9128,139 +11010,6 @@ elevatorid:elevator_brown, Brown Elevator
 elevatorid:elevator_green, Green Elevator
 elevatorid:elevator_red, Red Elevator
 elevatorid:elevator_black, Black Elevator
-erebus:erebus_food:0, Beetle Larva
-erebus:erebus_food:1, Cooked Beetle Larva
-erebus:erebus_food:2, Grasshopper Leg
-erebus:erebus_food:3, Cooked Grasshopper Leg
-erebus:erebus_food:4, Tarantula Leg
-erebus:erebus_food:5, Crispy Tarantula Leg
-erebus:erebus_food:6, Bamboo Soup
-erebus:erebus_food:7, Melonade
-erebus:erebus_food:8, Sparkly Melonade
-erebus:erebus_food:9, Larvae-on-a-Stick
-erebus:erebus_food:10, Honey Sandwich
-erebus:erebus_food:11, Dark Fruit
-erebus:erebus_food:12, Raw Titan Chop
-erebus:erebus_food:13, Cooked Titan Chop
-erebus:erebus_food:14, Swampberries
-erebus:erebus_food:15, Cabbage
-erebus:erebus_food:16, Cooked Titan Stew
-erebus:erebus_food:17, Raw Prickly Pear
-erebus:erebus_food:18, Cooked Prickly Pear
-erebus:erebus_food:19, Dark Fruit Pie
-erebus:heart_berries, Heartberries
-erebus:life_blood, Life Blood
-erebus:turnip, Turnips
-erebus:cabbage_seeds, Cabbage Seeds
-erebus:mandrake_root, Mandrake Root
-erebus:stag_heart_raw, Heart of the Stag
-erebus:stag_heart_cooked, Roasted Heart of the Stag
-erebus:smoothie:0, Green Tea Grasshopper Smoothie
-erebus:smoothie:1, Money Honey Smoothie
-erebus:smoothie:2, Nothing In The Middle Smoothie
-erebus:smoothie:3, Green Giant Smoothie
-erebus:smoothie:4, Seedy Goodness Smoothie
-erebus:smoothie:5, Givin' Me The Blues Smoothie
-erebus:smoothie:6, Hot Hot Baby Smoothie
-erebus:smoothie:7, Don't Meddle With The Nettle Smoothie
-erebus:smoothie:8, Liquid Gold Smoothie
-erebus:smoothie:9, Bryuf's Brew Smoothie
-erebus:idols:0, Mud Scarab
-erebus:idols:1, Iron Scarab
-erebus:idols:2, Gold Scarab
-erebus:idols:3, Jade Scarab
-erebus:idols:4, Spawn Mud Umbergolem
-erebus:idols:5, Spawn Iron Umbergolem
-erebus:idols:6, Spawn Gold Umbergolem
-erebus:idols:7, Spawn Jade Umbergolem
-erebus:jade_helmet, Jade Helmet
-erebus:jade_chestplate, Jade Chestplate
-erebus:jade_leggings, Jade Leggings
-erebus:jade_boots, Jade Boots
-erebus:jade_sword, Jade Sword
-erebus:jade_pickaxe, Jade Pickaxe
-erebus:jade_axe, Jade Axe
-erebus:jade_shovel, Jade Shovel
-erebus:jade_paxel, Jade Paxel
-erebus:jade_hoe, Jade Hoe
-erebus:exoskeleton_helmet, Exoskeleton Helmet
-erebus:exoskeleton_chestplate, Exoskeleton Chestplate
-erebus:exoskeleton_leggings, Exoskeleton Leggings
-erebus:exoskeleton_boots, Exoskeleton Boots
-erebus:rein_exoskeleton_helmet, Reinforced Exoskeleton Helmet
-erebus:rein_exoskeleton_chestplate, Reinforced Exoskeleton Chestplate
-erebus:rein_exoskeleton_leggings, Reinforced Exoskeleton Leggings
-erebus:rein_exoskeleton_boots, Reinforced Exoskeleton Boots
-erebus:rhino_exoskeleton_helmet, Rhino Plate Helmet
-erebus:rhino_exoskeleton_chestplate, Rhino Plate Chestplate
-erebus:rhino_exoskeleton_leggings, Rhino Plate Leggings
-erebus:rhino_exoskeleton_boots, Rhino Plate Boots
-erebus:bamboo_helmet, Bamboo Helmet
-erebus:bamboo_chestplate, Bamboo Chestplate
-erebus:bamboo_leggings, Bamboo Leggings
-erebus:bamboo_boots, Bamboo Boots
-erebus:bambucket, Bambucket
-erebus:rein_compound_goggles, Reinforced Compound Goggles
-erebus:compound_goggles, Compound Goggles
-erebus:sprint_leggings, Sprint Leggings
-erebus:jump_boots, Jump Boots
-erebus:glider_chestplate, Glider Chestplate
-erebus:glider_chestplate_powered, Powered Glider Chestplate
-erebus:mushroom_helmet, Mush Helm
-erebus:spider_t_shirt, Tarantula Boss Trophy
-erebus:water_striders, Water Striders
-erebus:bamboo_shield, Bamboo Shield
-erebus:exoskeleton_shield, Exoskeleton Shield
-erebus:jade_shield, Jade Shield
-erebus:rein_exoskeleton_shield, Reinforced Exoskeleton Shield
-erebus:rhino_exoskeleton_shield, Rhino Plate Shield
-erebus:rolled_newspaper, Rolled up Newspaper
-erebus:wasp_sword, Wasp Sword
-erebus:wasp_dagger, Wasp Dagger
-erebus:enhanced_scorpion_pincer, Augmented Scorpion Pincer
-erebus:war_hammer, Quake Hammer
-erebus:web_slinger, Web Slinger
-erebus:web_slinger_wither, Wither Web Slinger
-erebus:max_speed_bow, Maximum Speed Bow
-erebus:nectar_collector, Nectar Collector
-erebus:ant_taming_amulet, Ant Taming Amulet
-erebus:bee_taming_amulet, Bee Taming Amulet
-erebus:woodlouse_ball, Woodlouse Ball
-erebus:wand_of_animation, Wand of Animation
-erebus:anti_venom_bottle, Bottle of Anti-Venom
-erebus:flower_seed:0, Black Flower Seeds
-erebus:flower_seed:1, Red Flower Seeds
-erebus:flower_seed:2, Brown Flower Seeds
-erebus:flower_seed:3, Blue Flower Seeds
-erebus:flower_seed:4, Purple Flower Seeds
-erebus:flower_seed:5, Cyan Flower Seeds
-erebus:flower_seed:6, Light Gray Flower Seeds
-erebus:flower_seed:7, Gray Flower Seeds
-erebus:flower_seed:8, Pink Flower Seeds
-erebus:flower_seed:9, Yellow Flower Seeds
-erebus:flower_seed:10, Light Blue Flower Seeds
-erebus:flower_seed:11, Magenta Flower Seeds
-erebus:flower_seed:12, Orange Flower Seeds
-erebus:flower_seed:13, White Flower Seeds
-erebus:flower_seed:14, Rainbow Flower Seeds
-erebus:death_compass, Death Compass
-erebus:spray_can, Insect Repellent
-erebus:whetstone:0, Whetstone
-erebus:whetstone:1, Whetstone
-erebus:whetstone:2, Whetstone
-erebus:whetstone:3, Whetstone
-erebus:whetstone:4, Whetstone
-erebus:whetstone:5, Whetstone
-erebus:portal_activator, Staff of Gaea
-erebus:homing_beecon, Homing Beecon
-erebus:homing_beecon_advanced, Advanced Homing Beecon
-erebus:wand_of_preservation, Wand of Preservation
-erebus:compost, Compost
-erebus:planticide, Planticide
-erebus:smoothie_book, Smoothie-matic 2000
-erebus:horn_of_summoning, Horn of Bee Summoning
-erebus:erebus_map, Empty Papyrus Map (N.Y.I)
-erebus:erebus_map_filled:0, Papyrus Map (N.Y.I)
 erebus:umberstone:0, Umberstone
 erebus:umberstone:1, Umbercobble
 erebus:umberstone:2, Mossy Umbercobble
@@ -9631,6 +11380,139 @@ erebus:stairs_varnished, Varnished Stairs
 erebus:slab_planks_varnished, Varnished Slab
 erebus:fence_varnished, Varnished Fence
 erebus:fence_gate_varnished, Varnished Fence Gate
+erebus:erebus_food:0, Beetle Larva
+erebus:erebus_food:1, Cooked Beetle Larva
+erebus:erebus_food:2, Grasshopper Leg
+erebus:erebus_food:3, Cooked Grasshopper Leg
+erebus:erebus_food:4, Tarantula Leg
+erebus:erebus_food:5, Crispy Tarantula Leg
+erebus:erebus_food:6, Bamboo Soup
+erebus:erebus_food:7, Melonade
+erebus:erebus_food:8, Sparkly Melonade
+erebus:erebus_food:9, Larvae-on-a-Stick
+erebus:erebus_food:10, Honey Sandwich
+erebus:erebus_food:11, Dark Fruit
+erebus:erebus_food:12, Raw Titan Chop
+erebus:erebus_food:13, Cooked Titan Chop
+erebus:erebus_food:14, Swampberries
+erebus:erebus_food:15, Cabbage
+erebus:erebus_food:16, Cooked Titan Stew
+erebus:erebus_food:17, Raw Prickly Pear
+erebus:erebus_food:18, Cooked Prickly Pear
+erebus:erebus_food:19, Dark Fruit Pie
+erebus:heart_berries, Heartberries
+erebus:life_blood, Life Blood
+erebus:turnip, Turnips
+erebus:cabbage_seeds, Cabbage Seeds
+erebus:mandrake_root, Mandrake Root
+erebus:stag_heart_raw, Heart of the Stag
+erebus:stag_heart_cooked, Roasted Heart of the Stag
+erebus:smoothie:0, Green Tea Grasshopper Smoothie
+erebus:smoothie:1, Money Honey Smoothie
+erebus:smoothie:2, Nothing In The Middle Smoothie
+erebus:smoothie:3, Green Giant Smoothie
+erebus:smoothie:4, Seedy Goodness Smoothie
+erebus:smoothie:5, Givin' Me The Blues Smoothie
+erebus:smoothie:6, Hot Hot Baby Smoothie
+erebus:smoothie:7, Don't Meddle With The Nettle Smoothie
+erebus:smoothie:8, Liquid Gold Smoothie
+erebus:smoothie:9, Bryuf's Brew Smoothie
+erebus:idols:0, Mud Scarab
+erebus:idols:1, Iron Scarab
+erebus:idols:2, Gold Scarab
+erebus:idols:3, Jade Scarab
+erebus:idols:4, Spawn Mud Umbergolem
+erebus:idols:5, Spawn Iron Umbergolem
+erebus:idols:6, Spawn Gold Umbergolem
+erebus:idols:7, Spawn Jade Umbergolem
+erebus:jade_helmet, Jade Helmet
+erebus:jade_chestplate, Jade Chestplate
+erebus:jade_leggings, Jade Leggings
+erebus:jade_boots, Jade Boots
+erebus:jade_sword, Jade Sword
+erebus:jade_pickaxe, Jade Pickaxe
+erebus:jade_axe, Jade Axe
+erebus:jade_shovel, Jade Shovel
+erebus:jade_paxel, Jade Paxel
+erebus:jade_hoe, Jade Hoe
+erebus:exoskeleton_helmet, Exoskeleton Helmet
+erebus:exoskeleton_chestplate, Exoskeleton Chestplate
+erebus:exoskeleton_leggings, Exoskeleton Leggings
+erebus:exoskeleton_boots, Exoskeleton Boots
+erebus:rein_exoskeleton_helmet, Reinforced Exoskeleton Helmet
+erebus:rein_exoskeleton_chestplate, Reinforced Exoskeleton Chestplate
+erebus:rein_exoskeleton_leggings, Reinforced Exoskeleton Leggings
+erebus:rein_exoskeleton_boots, Reinforced Exoskeleton Boots
+erebus:rhino_exoskeleton_helmet, Rhino Plate Helmet
+erebus:rhino_exoskeleton_chestplate, Rhino Plate Chestplate
+erebus:rhino_exoskeleton_leggings, Rhino Plate Leggings
+erebus:rhino_exoskeleton_boots, Rhino Plate Boots
+erebus:bamboo_helmet, Bamboo Helmet
+erebus:bamboo_chestplate, Bamboo Chestplate
+erebus:bamboo_leggings, Bamboo Leggings
+erebus:bamboo_boots, Bamboo Boots
+erebus:bambucket, Bambucket
+erebus:rein_compound_goggles, Reinforced Compound Goggles
+erebus:compound_goggles, Compound Goggles
+erebus:sprint_leggings, Sprint Leggings
+erebus:jump_boots, Jump Boots
+erebus:glider_chestplate, Glider Chestplate
+erebus:glider_chestplate_powered, Powered Glider Chestplate
+erebus:mushroom_helmet, Mush Helm
+erebus:spider_t_shirt, Tarantula Boss Trophy
+erebus:water_striders, Water Striders
+erebus:bamboo_shield, Bamboo Shield
+erebus:exoskeleton_shield, Exoskeleton Shield
+erebus:jade_shield, Jade Shield
+erebus:rein_exoskeleton_shield, Reinforced Exoskeleton Shield
+erebus:rhino_exoskeleton_shield, Rhino Plate Shield
+erebus:rolled_newspaper, Rolled up Newspaper
+erebus:wasp_sword, Wasp Sword
+erebus:wasp_dagger, Wasp Dagger
+erebus:enhanced_scorpion_pincer, Augmented Scorpion Pincer
+erebus:war_hammer, Quake Hammer
+erebus:web_slinger, Web Slinger
+erebus:web_slinger_wither, Wither Web Slinger
+erebus:max_speed_bow, Maximum Speed Bow
+erebus:nectar_collector, Nectar Collector
+erebus:ant_taming_amulet, Ant Taming Amulet
+erebus:bee_taming_amulet, Bee Taming Amulet
+erebus:woodlouse_ball, Woodlouse Ball
+erebus:wand_of_animation, Wand of Animation
+erebus:anti_venom_bottle, Bottle of Anti-Venom
+erebus:flower_seed:0, Black Flower Seeds
+erebus:flower_seed:1, Red Flower Seeds
+erebus:flower_seed:2, Brown Flower Seeds
+erebus:flower_seed:3, Blue Flower Seeds
+erebus:flower_seed:4, Purple Flower Seeds
+erebus:flower_seed:5, Cyan Flower Seeds
+erebus:flower_seed:6, Light Gray Flower Seeds
+erebus:flower_seed:7, Gray Flower Seeds
+erebus:flower_seed:8, Pink Flower Seeds
+erebus:flower_seed:9, Yellow Flower Seeds
+erebus:flower_seed:10, Light Blue Flower Seeds
+erebus:flower_seed:11, Magenta Flower Seeds
+erebus:flower_seed:12, Orange Flower Seeds
+erebus:flower_seed:13, White Flower Seeds
+erebus:flower_seed:14, Rainbow Flower Seeds
+erebus:death_compass, Death Compass
+erebus:spray_can, Insect Repellent
+erebus:whetstone:0, Whetstone
+erebus:whetstone:1, Whetstone
+erebus:whetstone:2, Whetstone
+erebus:whetstone:3, Whetstone
+erebus:whetstone:4, Whetstone
+erebus:whetstone:5, Whetstone
+erebus:portal_activator, Staff of Gaea
+erebus:homing_beecon, Homing Beecon
+erebus:homing_beecon_advanced, Advanced Homing Beecon
+erebus:wand_of_preservation, Wand of Preservation
+erebus:compost, Compost
+erebus:planticide, Planticide
+erebus:smoothie_book, Smoothie-matic 2000
+erebus:horn_of_summoning, Horn of Bee Summoning
+erebus:erebus_map, Empty Papyrus Map (N.Y.I)
+erebus:erebus_map_filled:0, Papyrus Map (N.Y.I)
 exoticbirds:bird_book, Bird Encyclopedia
 exoticbirds:peacock_feather, Peacock Feather
 exoticbirds:phoenix_dust, Phoenix Dust
@@ -9675,15 +11557,28 @@ exoticbirds:egg_incubator, Egg Incubator
 faufil:hopperpipe, Hopper Pipe
 faufil:hopperfilter, Filter Hopper
 faufil:faucet, Item Faucet
+ftbquests:screen, Task Screen
+ftbquests:progress_detector, Quest Progress Detector
+ftbquests:progress_screen, Progress Screen
+ftbquests:chest, Quest Chest
+ftbquests:book, Quest Book
+ftbquests:xp_vial, XP Vial
+ftbquests:script, Script
+ftbquests:common_lootcrate, Loot Crate
+ftbquests:uncommon_lootcrate, Loot Crate
+ftbquests:rare_lootcrate, Loot Crate
+ftbquests:epic_lootcrate, Loot Crate
+ftbquests:legendary_lootcrate, Loot Crate
+ftbquests:missing, Missing Item
 gravestone:gravestone, Gravestone
 gravestone:death_info, Death Info
-horsepower:flour, Flour
-horsepower:dough, Dough
 horsepower:hand_grindstone, Grindstone
 horsepower:grindstone, Horse Grindstone
 horsepower:chopping_block, Chopping Block
 horsepower:chopper, Horse Chopping Block
 horsepower:press, Horse Press
+horsepower:flour, Flour
+horsepower:dough, Dough
 iceandfire:lectern, Lectern
 iceandfire:podium:0, Oak Podium
 iceandfire:podium:1, Spruce Podium
@@ -10617,7 +12512,6 @@ primal_tech:bone_sword, Bone Sword
 primal_tech:bone_knife, Bone Knife
 primal_tech:stone_mallet, Stone Mallet
 primal_tech:leaf_bed, Bed of Straw and Leaves
-teslacorelib:gear_iron, Iron Gear
 teslacorelib:gear_stone, Stone Gear
 architecturecraft:sawblade, Circular Saw Blade
 architecturecraft:largepulley, Large Pulley
@@ -10790,6 +12684,64 @@ astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
 astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
 astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
 astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+quark:glowstone_dust_block, tile.glowstone_dust_block.name
+quark:gunpowder_block, tile.gunpowder_block.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
@@ -10885,32 +12837,6 @@ quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:charcoal_block, tile.charcoal_block.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:pirate_hat, item.pirate_hat.name
 quark:crystal:0, White Cave Crystal
 quark:crystal:1, Red Cave Crystal
@@ -11232,38 +13158,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
 base:wrench, Wrench
 betterbuilderswands:wandstone, Stone Wand
 betterbuilderswands:wandiron, Iron Wand
@@ -11894,18 +13788,40 @@ thebetweenlands:bl_bucket:0, Weedwood Bucket (§fCrushed Ice§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fFruit Juice§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSeed Oil§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fShort Mead§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fCreosote Oil§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fLiquifacted Coal§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fCrude Oil§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fNaphtha§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fRefined Fuel§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSap§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSyrup§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fResin§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fTree Oil§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSeed Oil§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fBiocrude§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fGrassoline§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§fMushroom Stew§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§eEssence of Knowledge§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§ePotion§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§eSplash Potion§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§eLingering Potion§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§eDestabilized Redstone§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§eEnergized Glowstone§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§eResonant Ender§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§bGelid Cryotheum§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§bZephyrean Aerotheum§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§bTectonic Petrotheum§f)
+thebetweenlands:bl_bucket:0, Weedwood Bucket (§dPrimal Mana§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fOlive Oil§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fIronberry Juice§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fWildberry Juice§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fGrape Juice§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fApple Juice§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fAle Wort§f)
-thebetweenlands:bl_bucket:0, Weedwood Bucket (§fCreosote Oil§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fPlant Oil§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fEthanol§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fBiodiesel§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fLiquid Concrete§f)
-thebetweenlands:bl_bucket:0, Weedwood Bucket (§fPotion§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSwamp Water§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fStagnant Water§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fTar§f)
@@ -11928,7 +13844,6 @@ thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSewage§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fPink Slime§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fRaw Ore Meat§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fFermented Ore Meat§f)
-thebetweenlands:bl_bucket:0, Weedwood Bucket (§fSteam§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§ePreservation Liquid§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fNutrient Distillation§f)
 thebetweenlands:bl_bucket:0, Weedwood Bucket (§fDew of the Void§f)
@@ -11994,9 +13909,39 @@ thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fCrushed Ice§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fFruit Juice§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSeed Oil§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fShort Mead§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fGlowgas§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Redstone§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fLiquefied Ender Pearls§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSteam§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fCreosote Oil§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fLiquifacted Coal§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fCrude Oil§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fNaphtha§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fRefined Fuel§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSap§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSyrup§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fResin§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fTree Oil§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSeed Oil§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fBiocrude§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fGrassoline§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMushroom Stew§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eEssence of Knowledge§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§ePotion§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eSplash Potion§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eLingering Potion§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eDestabilized Redstone§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eEnergized Glowstone§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eResonant Ender§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§bBlazing Pyrotheum§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§bGelid Cryotheum§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§bZephyrean Aerotheum§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§bTectonic Petrotheum§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§dPrimal Mana§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Platinum§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Iridium§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Invar§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Constantan§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Signalum§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Lumium§f)
+thebetweenlands:bl_bucket:1, Syrmorite Bucket (§bMolten Enderium§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Electrical Steel§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Energetic Alloy§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Vibrant Alloy§f)
@@ -12015,14 +13960,11 @@ thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fWildberry Juice§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fGrape Juice§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fApple Juice§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fAle Wort§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fCreosote Oil§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fPlant Oil§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fEthanol§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fBiodiesel§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fLiquid Concrete§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fPotion§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Uranium§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Constantan§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSwamp Water§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fStagnant Water§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fTar§f)
@@ -12048,13 +13990,7 @@ thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fPink Slime§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fProtein§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fRaw Ore Meat§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fFermented Ore Meat§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Enderium§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Platinum§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Iridium§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Mithril§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Signalum§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Lumium§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Invar§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Refined Obsidian§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Refined Glowstone§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Osmium§f)
@@ -12074,7 +14010,6 @@ thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Tungsten§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Titanium§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Chrome§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§eMolten Advanced Alloy§f)
-thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fSteam§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§ePreservation Liquid§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Ancite§f)
 thebetweenlands:bl_bucket:1, Syrmorite Bucket (§fMolten Steaite§f)
@@ -12588,8 +14523,10 @@ mysticalagriculture:ghast_crop, Ghast Crop
 mysticalagriculture:enderman_crop, Enderman Crop
 mysticalagriculture:wither_skeleton_crop, Wither Skeleton Crop
 mysticalagriculture:silicon_crop, Silicon Crop
+mysticalagriculture:sulfur_crop, Sulfur Crop
 mysticalagriculture:aluminum_crop, Aluminum Crop
 mysticalagriculture:copper_crop, Copper Crop
+mysticalagriculture:saltpeter_crop, Saltpeter Crop
 mysticalagriculture:tin_crop, Tin Crop
 mysticalagriculture:bronze_crop, Bronze Crop
 mysticalagriculture:zinc_crop, Zinc Crop
@@ -12599,6 +14536,8 @@ mysticalagriculture:steel_crop, Steel Crop
 mysticalagriculture:nickel_crop, Nickel Crop
 mysticalagriculture:constantan_crop, Constantan Crop
 mysticalagriculture:electrum_crop, Electrum Crop
+mysticalagriculture:invar_crop, Invar Crop
+mysticalagriculture:mithril_crop, Mithril Crop
 mysticalagriculture:titanium_crop, Titanium Crop
 mysticalagriculture:uranium_crop, Uranium Crop
 mysticalagriculture:platinum_crop, Platinum Crop
@@ -12610,6 +14549,12 @@ mysticalagriculture:amber_crop, Amber Crop
 mysticalagriculture:topaz_crop, Topaz Crop
 mysticalagriculture:malachite_crop, Malachite Crop
 mysticalagriculture:tanzanite_crop, Tanzanite Crop
+mysticalagriculture:blizz_crop, Blizz Crop
+mysticalagriculture:blitz_crop, Blitz Crop
+mysticalagriculture:basalz_crop, Basalz Crop
+mysticalagriculture:signalum_crop, Signalum Crop
+mysticalagriculture:lumium_crop, Lumium Crop
+mysticalagriculture:enderium_crop, Enderium Crop
 mysticalagriculture:hop_graphite_crop, HOP Graphite Crop
 mysticalagriculture:aluminum_brass_crop, Aluminum Brass Crop
 mysticalagriculture:knightslime_crop, Knightslime Crop
@@ -12731,6 +14676,9 @@ mysticalagriculture:chunk:17, Blaze Chunk
 mysticalagriculture:chunk:18, Ghast Chunk
 mysticalagriculture:chunk:19, Enderman Chunk
 mysticalagriculture:chunk:20, Wither Skeleton Chunk
+mysticalagriculture:chunk:21, Blizz Chunk
+mysticalagriculture:chunk:22, Blitz Chunk
+mysticalagriculture:chunk:23, Basalz Chunk
 mysticalagriculture:stone_essence, Stone Essence
 mysticalagriculture:dirt_essence, Dirt Essence
 mysticalagriculture:nature_essence, Nature Essence
@@ -12768,8 +14716,10 @@ mysticalagriculture:ghast_essence, Ghast Essence
 mysticalagriculture:enderman_essence, Enderman Essence
 mysticalagriculture:wither_skeleton_essence, Wither Skeleton Essence
 mysticalagriculture:silicon_essence, Silicon Essence
+mysticalagriculture:sulfur_essence, Sulfur Essence
 mysticalagriculture:aluminum_essence, Aluminum Essence
 mysticalagriculture:copper_essence, Copper Essence
+mysticalagriculture:saltpeter_essence, Saltpeter Essence
 mysticalagriculture:tin_essence, Tin Essence
 mysticalagriculture:bronze_essence, Bronze Essence
 mysticalagriculture:zinc_essence, Zinc Essence
@@ -12779,6 +14729,8 @@ mysticalagriculture:steel_essence, Steel Essence
 mysticalagriculture:nickel_essence, Nickel Essence
 mysticalagriculture:constantan_essence, Constantan Essence
 mysticalagriculture:electrum_essence, Electrum Essence
+mysticalagriculture:invar_essence, Invar Essence
+mysticalagriculture:mithril_essence, Mithril Essence
 mysticalagriculture:titanium_essence, Titanium Essence
 mysticalagriculture:uranium_essence, Uranium Essence
 mysticalagriculture:platinum_essence, Platinum Essence
@@ -12790,6 +14742,12 @@ mysticalagriculture:amber_essence, Amber Essence
 mysticalagriculture:topaz_essence, Topaz Essence
 mysticalagriculture:malachite_essence, Malachite Essence
 mysticalagriculture:tanzanite_essence, Tanzanite Essence
+mysticalagriculture:blizz_essence, Blizz Essence
+mysticalagriculture:blitz_essence, Blitz Essence
+mysticalagriculture:basalz_essence, Basalz Essence
+mysticalagriculture:signalum_essence, Signalum Essence
+mysticalagriculture:lumium_essence, Lumium Essence
+mysticalagriculture:enderium_essence, Enderium Essence
 mysticalagriculture:hop_graphite_essence, HOP Graphite Essence
 mysticalagriculture:aluminum_brass_essence, Aluminum Brass Essence
 mysticalagriculture:knightslime_essence, Knightslime Essence
@@ -12866,8 +14824,10 @@ mysticalagriculture:ghast_seeds, Ghast Seeds
 mysticalagriculture:enderman_seeds, Enderman Seeds
 mysticalagriculture:wither_skeleton_seeds, Wither Skeleton Seeds
 mysticalagriculture:silicon_seeds, Silicon Seeds
+mysticalagriculture:sulfur_seeds, Sulfur Seeds
 mysticalagriculture:aluminum_seeds, Aluminum Seeds
 mysticalagriculture:copper_seeds, Copper Seeds
+mysticalagriculture:saltpeter_seeds, Saltpeter Seeds
 mysticalagriculture:tin_seeds, Tin Seeds
 mysticalagriculture:bronze_seeds, Bronze Seeds
 mysticalagriculture:zinc_seeds, Zinc Seeds
@@ -12877,6 +14837,8 @@ mysticalagriculture:steel_seeds, Steel Seeds
 mysticalagriculture:nickel_seeds, Nickel Seeds
 mysticalagriculture:constantan_seeds, Constantan Seeds
 mysticalagriculture:electrum_seeds, Electrum Seeds
+mysticalagriculture:invar_seeds, Invar Seeds
+mysticalagriculture:mithril_seeds, Mithril Seeds
 mysticalagriculture:titanium_seeds, Titanium Seeds
 mysticalagriculture:uranium_seeds, Uranium Seeds
 mysticalagriculture:platinum_seeds, Platinum Seeds
@@ -12888,6 +14850,12 @@ mysticalagriculture:amber_seeds, Amber Seeds
 mysticalagriculture:topaz_seeds, Topaz Seeds
 mysticalagriculture:malachite_seeds, Malachite Seeds
 mysticalagriculture:tanzanite_seeds, Tanzanite Seeds
+mysticalagriculture:blizz_seeds, Blizz Seeds
+mysticalagriculture:blitz_seeds, Blitz Seeds
+mysticalagriculture:basalz_seeds, Basalz Seeds
+mysticalagriculture:signalum_seeds, Signalum Seeds
+mysticalagriculture:lumium_seeds, Lumium Seeds
+mysticalagriculture:enderium_seeds, Enderium Seeds
 mysticalagriculture:hop_graphite_seeds, HOP Graphite Seeds
 mysticalagriculture:aluminum_brass_seeds, Aluminum Brass Seeds
 mysticalagriculture:knightslime_seeds, Knightslime Seeds
@@ -13322,13 +15290,6 @@ forestry:crated.minecraft.sapling.2, item.crated.minecraft.sapling.2.name
 forestry:crated.minecraft.sapling.3, item.crated.minecraft.sapling.3.name
 forestry:crated.minecraft.sapling.4, item.crated.minecraft.sapling.4.name
 forestry:crated.minecraft.sapling.5, item.crated.minecraft.sapling.5.name
-forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name
-forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name
-forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name
-forestry:crated.forestry.fruits.3, item.crated.forestry.fruits.3.name
-forestry:crated.forestry.fruits.4, item.crated.forestry.fruits.4.name
-forestry:crated.forestry.fruits.6, item.crated.forestry.fruits.6.name
-forestry:crated.forestry.fruits.5, item.crated.forestry.fruits.5.name
 forestry:crated.forestry.beeswax.0, item.crated.forestry.beeswax.0.name
 forestry:crated.forestry.pollen.0, item.crated.forestry.pollen.0.name
 forestry:crated.forestry.pollen.1, item.crated.forestry.pollen.1.name
@@ -13349,6 +15310,13 @@ forestry:crated.forestry.bee_combs.14, item.crated.forestry.bee_combs.14.name
 forestry:crated.forestry.bee_combs.15, item.crated.forestry.bee_combs.15.name
 forestry:crated.forestry.bee_combs.16, item.crated.forestry.bee_combs.16.name
 forestry:crated.forestry.refractory_wax.0, item.crated.forestry.refractory_wax.0.name
+forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name
+forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name
+forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name
+forestry:crated.forestry.fruits.3, item.crated.forestry.fruits.3.name
+forestry:crated.forestry.fruits.4, item.crated.forestry.fruits.4.name
+forestry:crated.forestry.fruits.6, item.crated.forestry.fruits.6.name
+forestry:crated.forestry.fruits.5, item.crated.forestry.fruits.5.name
 morebees:hive, Rock Hive
 morebees:framesweet, Sweet Frame
 morebees:framecooled, Super Cooled Frame
@@ -13374,4 +15342,5 @@ morebees:dustlead, Lead Dust
 morebees:dustsilver, Silver Dust
 morebees:dustaluminium, Aluminium Dust
 morebees:dustnickel, Nickel Dust
+morebees:dustplatinum, Platinum Dust
 morebees:dustiridium, Iridium Dust
