@@ -46,7 +46,7 @@ recipes.addShaped(<advancedrocketry:ic:3>,
 recipes.remove(<libvulpes:structuremachine>);
 recipes.addShaped(<libvulpes:structuremachine>,
   [[<ore:stickSteel>,<ore:plateIron>,<ore:stickSteel>],
-   [<ore:plateIron>,<ore:gearDarkSteel>,<ore:plateIron>],
+   [<ore:plateIron>,<ore:gearDark>,<ore:plateIron>],
    [<ore:stickSteel>,<ore:plateIron>,<ore:stickSteel>]]);
 
 // Precision Assemblerlibvulpes

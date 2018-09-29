@@ -1,21 +1,30 @@
+// ======================================================================
 // Cases, Casings, Frames, Chassis progression
-// Forestry -> Industrial Foregoing -> Thermal Foundation -> EnderIO Chassis
+// Forestry -> Industrial Foregoing -> Thermal Foundation -> EnderIO Chassis -> AdvancedRocketryplateDark
+// ======================================================================
 
-// Forestry
+// ======================================================================
+// // Forestry
+// ======================================================================
 recipes.remove(<forestry:sturdy_machine>);
 recipes.addShaped(<forestry:sturdy_machine>, 
   [[ <ore:plateBronze>, <ore:gearBronze>, <ore:plateBronze>],
    [ <ore:gearBronze>, null, <ore:gearBronze>],
    [ <ore:plateBronze>, <ore:gearBronze>, <ore:plateBronze>]]);
 
-// Industrial Foregoing (teslacorelib)
+// ======================================================================
+// // Industrial Foregoing (teslacorelib)
+// ======================================================================
+
 recipes.remove(<teslacorelib:machine_case>);
 recipes.addShaped(<teslacorelib:machine_case>, 
   [[ <ore:plateSteaite>, <ore:plateIron>, <ore:plateSteaite>],
    [ <ore:plateIron>, <forestry:sturdy_machine>, <ore:plateIron>],
    [ <ore:plateSteaite>, <ore:plateIron>, <ore:plateSteaite>]]);
 
-// Thermal Foundation
+// ======================================================================
+// // Thermal Foundation
+// ======================================================================
 recipes.remove(<thermalexpansion:frame>);
 recipes.addShaped(<thermalexpansion:frame>, 
   [[ <ore:itemRubber>, <ore:plateSteel>, <ore:itemRubber>],
@@ -34,10 +43,22 @@ recipes.addShaped(<thermalexpansion:frame:128>,
    [ <ore:blockGlass>, <teslacorelib:machine_case>, <ore:blockGlass>],
    [ <ore:plateLead>, <ore:blockGlass>, <ore:plateLead>]]);
 
-// EnderIO
+// ======================================================================
+// // EnderIO
+// ======================================================================
 recipes.remove(<enderio:item_material>);
 recipes.addShaped(<enderio:item_material>, 
   [[ <ore:dustBedrock>, <ore:plateSteel>, <ore:dustBedrock>],
    [ <ore:plateSteel>, <thermalexpansion:frame>, <ore:plateSteel>],
    [ <ore:dustBedrock>, <ore:plateSteel>, <ore:dustBedrock>]]);
+
+// ======================================================================
+// AdvancedRocketry (libvulpes)
+// ======================================================================
+// Machine Structure
+recipes.remove(<libvulpes:structuremachine>);
+recipes.addShaped(<libvulpes:structuremachine>,
+  [[<ore:stickSteel>,<ore:gearDark>,<ore:stickSteel>],
+   [<ore:plateDarkSteel>,<enderio:item_material>,<ore:plateDarkSteel>],
+   [<ore:stickSteel>,<ore:gearDark>,<ore:stickSteel>]]);
 

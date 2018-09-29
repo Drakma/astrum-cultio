@@ -1,7 +1,7 @@
-[16:10:45] [main/INFO] [JMLogger] JourneyMap log initialized.
-[16:10:45] [main/INFO] [JourneymapClient] initialize ENTER
-[16:10:45] [main/ERROR] [JMLogger] Default theme not found in C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
-[16:10:46] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.2, built with Forge 14.23.0.2491
+[17:58:05] [main/INFO] [JMLogger] JourneyMap log initialized.
+[17:58:05] [main/INFO] [JourneymapClient] initialize ENTER
+[17:58:05] [main/ERROR] [JMLogger] Default theme not found in C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[17:58:05] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.2, built with Forge 14.23.0.2491
 Forge: 14.23.4.2760
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -12,34 +12,34 @@ Features:
 	MapTopo : singleplayer = true , multiplayer = true
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
-MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=0, compassFontScale=1, terrainAlpha=59, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Location, sizePercent=24, showDayNight=true, info3Label=FPS, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Icons, showReticle=true, orientation=North, shape=Square, showSelf=true, info4Label=Blank, locationFormat=xzy, playerDisplay=Small Icons, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Biome, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=0, compassFontScale=1, terrainAlpha=59, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Location, sizePercent=24, showDayNight=true, info3Label=FPS, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Small Icons, showReticle=true, orientation=North, shape=Square, showSelf=true, info4Label=Blank, locationFormat=xzy, playerDisplay=Small Icons, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Biome, fontScale=2}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.2, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.2, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.2, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[16:10:46] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[16:10:46] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[16:10:46] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
-[16:10:46] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.oitsjustjose.geolosys.compat.journeymap.GeolosysPlugin
-[16:10:46] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
-[16:10:46] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[16:11:12] [main/DEBUG] [JourneymapClient] postInitialize ENTER
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
-[16:11:13] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
-[16:11:13] [main/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum%20Cultio%20(2)%20(1)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\icon\entity
-[16:11:13] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[16:11:13] [main/TRACE] [ThemeLoader] Initializing themes ...
-[16:11:13] [main/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum%20Cultio%20(2)%20(1)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\theme\flat
-[16:11:13] [main/INFO] [ThemeLoader] Preloaded theme textures: 0
-[16:11:13] [main/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r821.55§8ms§r
-[16:11:13] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[17:58:05] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[17:58:05] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[17:58:05] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[17:58:05] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.oitsjustjose.geolosys.compat.journeymap.GeolosysPlugin
+[17:58:05] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
+[17:58:05] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[17:58:23] [main/DEBUG] [JourneymapClient] postInitialize ENTER
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[17:58:23] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[17:58:23] [main/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum%20Cultio%20(2)%20(1)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\icon\entity
+[17:58:23] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[17:58:23] [main/TRACE] [ThemeLoader] Initializing themes ...
+[17:58:23] [main/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum%20Cultio%20(2)%20(1)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\theme\flat
+[17:58:23] [main/INFO] [ThemeLoader] Preloaded theme textures: 0
+[17:58:24] [main/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r424.75§8ms§r
+[17:58:24] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -56,7 +56,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[16:20:11] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[18:00:30] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -88,7 +88,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[16:20:11] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[18:00:30] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2090_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -100,7 +100,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[16:20:11] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[18:00:30] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -132,7 +132,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[16:20:11] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[18:00:30] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2090_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -144,7 +144,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[16:20:11] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[18:00:30] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -176,7 +176,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[16:20:11] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[18:00:30] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2090_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -188,7 +188,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[16:20:11] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[18:00:30] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -220,7 +220,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[16:20:11] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[18:00:30] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2090_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -232,7 +232,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[16:20:11] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[18:00:30] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -264,7 +264,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[16:20:11] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[18:00:30] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2090_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -276,7 +276,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[16:20:11] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[18:00:30] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -308,7 +308,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[16:20:11] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[18:00:30] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2090_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -320,46 +320,20 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[16:20:22] [main/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[16:20:23] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
-[16:20:23] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\data\sp\New Test Flat\waypoints
-[16:20:23] [main/INFO] [JourneymapClient] Mapping started in C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\data\sp\New Test Flat\DIM0. Memory: 5760MB total, 3095MB free 
-[16:20:23] [main/INFO] [ChatLog] JourneyMap: Press [J]
-[16:20:25] [main/WARN] [TextureCache] Image not found: journeymap:ui/img/marker-icon-arrow-16.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/cardinal.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/hummingbird/hummingbird1.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/magpie/magpie.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/hummingbird/hummingbird5.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/hummingbird/hummingbird4.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/sheep/sheep_merino_white_ewe.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/goats/buck_angora.png
-[16:20:25] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/robin.png
-[16:22:50] [JM-task-4/WARN] [SurfaceRenderer] java.lang.NullPointerException
-	at journeymap.client.cartography.render.SurfaceRenderer.paintStrata(SurfaceRenderer.java:368)
-	at journeymap.client.cartography.render.SurfaceRenderer.renderSurface(SurfaceRenderer.java:190)
-	at journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:113)
-	at journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:86)
-	at journeymap.client.cartography.ChunkRenderController.renderChunk(ChunkRenderController.java:143)
-	at journeymap.client.task.multi.BaseMapTask.performTask(BaseMapTask.java:125)
-	at journeymap.client.task.multi.TaskBatch.performTask(TaskBatch.java:75)
-	at journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch.performTask(MapPlayerTask.java:416)
-	at journeymap.client.thread.RunnableTask$Inner.run(RunnableTask.java:81)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-
-[16:32:23] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/sheep/sheep_merino_white_ewe_blink.png
-[17:04:04] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/pigeon/dove.png
-[17:04:39] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/bluejay.png
-[17:23:18] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/sheep/sheep_merino_brown_ewe.png
-[17:23:59] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/owl/owl_longeared.png
-[17:24:02] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/owl/owl_snowy.png
-[17:24:15] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/pigs/sow_yorkshire.png
-[17:24:21] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/pigs/sow_yorkshire_blink.png
-[17:49:03] [main/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[17:49:03] [main/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[17:54:27] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\data\sp\New Test Flat\DIM0
+[18:00:37] [main/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[18:00:38] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[18:00:38] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\data\sp\New Test Flat\waypoints
+[18:00:38] [main/INFO] [JourneymapClient] Mapping started in C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\data\sp\New Test Flat\DIM0. Memory: 5760MB total, 2973MB free 
+[18:00:38] [main/INFO] [ChatLog] JourneyMap: Press [J]
+[18:00:40] [main/WARN] [TextureCache] Image not found: journeymap:ui/img/marker-icon-arrow-16.png
+[18:00:40] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/cardinal.png
+[18:00:40] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/hummingbird/hummingbird1.png
+[18:00:40] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/magpie/magpie.png
+[18:00:40] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/hummingbird/hummingbird5.png
+[18:00:40] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/hummingbird/hummingbird4.png
+[18:00:40] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/robin.png
+[18:03:46] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/sheep/sheep_merino_white_ram.png
+[18:29:41] [main/WARN] [TextureCache] Image not found: animania:textures/entity_icon/sheep/sheep_merino_white_ram_blink.png
+[18:32:24] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/pigeon/dove.png
+[18:32:30] [main/WARN] [TextureCache] Image not found: exoticbirds:textures/entity_icon/bluejay.png
+[18:32:50] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\Debra\Documents\Curse\Minecraft\Instances\Astrum Cultio (2) (1)\journeymap\data\sp\New Test Flat\DIM0

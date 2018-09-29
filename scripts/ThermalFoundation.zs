@@ -29,14 +29,14 @@ recipes.remove(<thermalfoundation:material:288>);
 // ====================================================================
 
 // Energized bimetal gear
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:12>, <enderio:block_alloy:1>, <thermalfoundation:material:288>, 25000);
+mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:12>, <enderio:block_alloy:1>, <thermalfoundation:material:288>, 10000);
 
 // Energized bimetal gear
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:13>, <enderio:block_alloy:2>, <thermalfoundation:material:288>, 50000);
+mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:13>, <enderio:block_alloy:2>, <thermalfoundation:material:288>, 20000);
 
 // Dark bimetal gear
 recipes.remove(<enderio:item_material:73>);
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:73>, <enderio:block_alloy:6>, <thermalfoundation:material:288>, 100000);
+mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:73>, <enderio:block_alloy:6>, <thermalfoundation:material:288>, 50000);
 
 // ======================================================================
 // Magma Crucible
@@ -44,7 +44,7 @@ mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:73>, <en
 // =====================================================================
 
 // Rubber
-mods.thermalexpansion.Crucible.addRecipe(<liquid:rubber> * 100, <thebetweenlands:log_rubber>, 25000);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:rubber> * 100, <thebetweenlands:log_rubber>, 10000);
 
 // ======================================================================
 // Fluid Transposer
@@ -52,4 +52,4 @@ mods.thermalexpansion.Crucible.addRecipe(<liquid:rubber> * 100, <thebetweenlands
 // ======================================================================
 
 // Plastic
-mods.thermalexpansion.Transposer.addFillRecipe(<industrialforegoing:plastic> * 4, <minecraft:paper>, <liquid:rubber> * 1000, 25000);
+mods.thermalexpansion.Transposer.addFillRecipe(<industrialforegoing:plastic> * 4, <minecraft:paper>, <liquid:rubber> * 1000, 10000);
