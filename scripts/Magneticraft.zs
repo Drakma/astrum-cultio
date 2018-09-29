@@ -24,21 +24,17 @@ mods.magneticraft.CrushingTable.removeRecipe(<magneticraft:ingots:3>);
 mods.magneticraft.CrushingTable.removeRecipe(<magneticraft:ingots:5>);
 mods.magneticraft.CrushingTable.removeRecipe(<magneticraft:ingots:6>);
 
-mods.magneticraft.CrushingTable.addRecipe(<minecraft:iron_ingot>, <immersiveengineering:metal:39> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:0>, <immersiveengineering:metal:30> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:1>, <immersiveengineering:metal:31> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:2>, <immersiveengineering:metal:32> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:3>, <immersiveengineering:metal:33> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:4>, <immersiveengineering:metal:34> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:5>, <immersiveengineering:metal:35> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<minecraft:gold_ingot>, <immersiveengineering:metal:40> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:6>, <immersiveengineering:metal:36> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:7>, <immersiveengineering:metal:37> * 1, true);
-//mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:8>, <immersiveengineering:metal:38> * 1, true);
-//mods.magneticraft.CrushingTable.addRecipe(<libvulpes:productingot:3>, <moreplates:silicon_plate> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<steamworld:ingot_steaite>, <contenttweaker:material_part:42> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<contenttweaker:material_part:42>, <contenttweaker:material_part:44> * 1, true);
-mods.magneticraft.CrushingTable.addRecipe(<forestry:ingot_tin>, <libvulpes:productplate:5> * 1, true);
+mods.magneticraft.CrushingTable.addRecipe(<minecraft:iron_ingot>,            <thermalfoundation:material:32> * 1, true); // Iron
+mods.magneticraft.CrushingTable.addRecipe(<minecraft:gold_ingot>,            <thermalfoundation:material:33> * 1, true); // Gold
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:0>,    <thermalfoundation:material:320> * 1, true); //Copper
+mods.magneticraft.CrushingTable.addRecipe(<forestry:ingot_tin>,              <thermalfoundation:material:321> * 1, true); //Tin
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:1>,    <thermalfoundation:material:322> * 1, true); //Aluminum
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:3>,    <thermalfoundation:material:323> * 1, true); //Silver
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:2>,    <thermalfoundation:material:324> * 1, true); //Lead
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:4>,    <thermalfoundation:material:325> * 1, true); //Nickel
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:metal:5>,    <immersiveengineering:metal:35> * 1, true); //Uranium
+mods.magneticraft.CrushingTable.addRecipe(<steamworld:ingot_steaite>,        <contenttweaker:material_part:42> * 1, true); //Steaite
+mods.magneticraft.CrushingTable.addRecipe(<contenttweaker:material_part:42>, <contenttweaker:material_part:44> * 1, true); // Steaite Rod
 
 // Tungsten
 recipes.remove(<magneticraft:electric_heater>);
@@ -235,11 +231,11 @@ mods.magneticraft.HydraulicPress.removeRecipe(<magneticraft:ingots:5>, 1);
 mods.magneticraft.HydraulicPress.removeRecipe(<magneticraft:ingots:6>, 1);
 
 // Light Plate Fixes
-recipes.replaceAllOccurences(<magneticraft:light_plates>, <immersiveengineering:metal:39>);
-recipes.replaceAllOccurences(<magneticraft:light_plates:1>, <immersiveengineering:metal:40>);
-recipes.replaceAllOccurences(<magneticraft:light_plates:2>, <immersiveengineering:metal:30>);
-recipes.replaceAllOccurences(<magneticraft:light_plates:3>, <immersiveengineering:metal:32>);
-recipes.replaceAllOccurences(<magneticraft:light_plates:6>, <immersiveengineering:metal:38>);
+recipes.replaceAllOccurences(<magneticraft:light_plates>, <thermalfoundation:material:32>); // Iron
+recipes.replaceAllOccurences(<magneticraft:light_plates:1>, <thermalfoundation:material:33>); // Gold
+recipes.replaceAllOccurences(<magneticraft:light_plates:2>, <thermalfoundation:material:320>); // Copper
+recipes.replaceAllOccurences(<magneticraft:light_plates:3>, <thermalfoundation:material:323>); // Lead
+recipes.replaceAllOccurences(<magneticraft:light_plates:6>, <thermalfoundation:material:352>); // Steel
 
 
 logger.logInfo("** Magneticraft loaded");

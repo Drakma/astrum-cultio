@@ -4,12 +4,6 @@ import mods.industrialforegoing.LaserDrill;
 recipes.remove(<moreplates:diamond_gear>);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:diamond_gear>, <minecraft:diamond_block>, <immersiveengineering:mold:1>, 500);
 
-// Gold Gears
-recipes.remove(<moreplates:gold_gear>);
-
-// Iron Gears
-// recipes.remove(<moreplates:iron_gear>);
-
 // stone Gears
 recipes.remove(<teslacorelib:gear_stone>);
 recipes.addShaped(<teslacorelib:gear_stone>,
@@ -35,7 +29,6 @@ LaserDrill.remove(<libvulpes:ore0:0>);
 LaserDrill.remove(<libvulpes:ore0:8>);
 LaserDrill.remove(<libvulpes:ore0:10>);
 
-
 // Plant fertilizer
 recipes.addShaped(<industrialforegoing:crop_enrich_material_injector>,
   [[<ore:itemRubber>,<minecraft:glass_bottle>,<ore:itemRubber>],
@@ -43,4 +36,4 @@ recipes.addShaped(<industrialforegoing:crop_enrich_material_injector>,
    [<ore:gearIron>,<ore:dustRedston>,<ore:gearIron>]]);
 
 // TeslaCore Machine Case
-recipes.remove(<teslacorelib:machine_case>);
+// recipes.remove(<teslacorelib:machine_case>);

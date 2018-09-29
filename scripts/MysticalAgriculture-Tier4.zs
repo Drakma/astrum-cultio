@@ -147,7 +147,7 @@ mods.astralsorcery.Altar.addConstellationAltarRecipe(<mysticalagriculture:nickel
   <ore:ingotNickel>, <ore:essenceSuperium>, <ore:ingotNickel>,
   <ore:essenceSuperium>, <mysticalagriculture:crafting:20>, <ore:essenceSuperium>,
   <ore:ingotNickel>, <ore:essenceSuperium>, <ore:ingotNickel>,
-  <immersiveengineering:metal:13>, <immersiveengineering:metal:13>, <immersiveengineering:metal:13>, <immersiveengineering:metal:13>,
+  <ore:dustNickel>, <ore:dustNickel>, <ore:dustNickel>, <ore:dustNickel>,
   <morebees:combmetallic>, <morebees:combmetallic>,
   <ore:anyIronberryJuice>, <rustic:ironwoodseed>,
   <rustic:ironwoodseed>, <ore:anyIronberryJuice>,

@@ -8,7 +8,7 @@
 <ore:stickIron>.add(<tconstruct:tool_rod>.withTag({Material: "iron"}));
 
 //remove
-<ore:gearIronInfinity>.add(<teslacorelib:gear_iron>);
+<ore:gearIronInfinity>.add(<thermalfoundation:material:24>);
 <ore:gearIronInfinity>.remove(<enderio:item_material:11>);
 
 <ore:plateIron>.remove(<libvulpes:productplate:1>);

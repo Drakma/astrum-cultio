@@ -1,0 +1,1 @@
+furnace.remove(<steamworld:ingot_steaite>, <steamworld:ore_steaite>);

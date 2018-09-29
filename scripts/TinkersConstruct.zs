@@ -2,7 +2,7 @@
 mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:39>);
 //mods.tconstruct.Casting.removeTableRecipe(<moreplates:iron_gear>);
 //mods.tconstruct.Casting.addTableRecipe(IItemStack output, IItemStack cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);
-mods.tconstruct.Casting.addTableRecipe(<teslacorelib:gear_iron>, <teslacorelib:gear_stone>, <liquid:iron>, 576, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:24>, <teslacorelib:gear_stone>, <liquid:iron>, 576, true, 200);
 
 //Gold
 mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:40>);
@@ -34,8 +34,8 @@ mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:35>);
 
 //Gears
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:4>);
-mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <teslacorelib:gear_iron>, <liquid:gold>, 288, true, 200);
-mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <teslacorelib:gear_iron>, <liquid:alubrass>, 288, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:gold>, 288, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:alubrass>, 288, true, 200);
 
 //Crafting Station
 recipes.remove(<tconstruct:tooltables:0>);
@@ -45,7 +45,7 @@ recipes.addShaped(<tconstruct:tooltables:0>,
        [<ore:blockSeared>,null,<ore:blockSeared>]]);
 
 //Steel Press Molds
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:0>, <immersiveengineering:metal:38>, <liquid:steel>, 1296, true, 12000);
+mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:0>, <ore:plateSteel>, <liquid:steel>, 1296, true, 12000);
 mods.tconstruct.Casting.addTableRecipe(<teslacorelib:gear_stone>, <appliedenergistics2:material:40>, <liquid:stone>, 576, true, 200);
 mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:metal:38>, <immersiveengineering:metal:39>, <liquid:steel>, 1296, true, 200);
 
