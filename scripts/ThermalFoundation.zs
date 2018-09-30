@@ -36,7 +36,7 @@ mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:13>, <en
 
 // Dark bimetal gear
 recipes.remove(<enderio:item_material:73>);
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:73>, <enderio:block_alloy:6>, <thermalfoundation:material:288>, 50000);
+mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_material:73>, <enderio:block_alloy:6>, <thermalfoundation:material:288>, 5000);
 
 // ======================================================================
 // Magma Crucible

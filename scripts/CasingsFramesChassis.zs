@@ -56,9 +56,9 @@ recipes.addShaped(<enderio:item_material>,
 // AdvancedRocketry (libvulpes)
 // ======================================================================
 // Machine Structure
-recipes.remove(<libvulpes:structuremachine>);
-recipes.addShaped(<libvulpes:structuremachine>,
+recipes.remove(<libvulpes:structuremachine:0>);
+/* recipes.addShaped(<libvulpes:structuremachine>,
   [[<ore:stickSteel>,<ore:gearDark>,<ore:stickSteel>],
    [<ore:plateDarkSteel>,<enderio:item_material>,<ore:plateDarkSteel>],
-   [<ore:stickSteel>,<ore:gearDark>,<ore:stickSteel>]]);
+   [<ore:stickSteel>,<ore:gearDark>,<ore:stickSteel>]]); */
 

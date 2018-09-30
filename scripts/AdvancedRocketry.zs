@@ -42,13 +42,6 @@ recipes.addShaped(<advancedrocketry:ic:3>,
    [<ore:plateCopper>,<ore:plateSilicon>,<ore:plateCopper>],
    [<ore:plateCopper>,<ore:plateGold>,<ore:plateCopper>]]);
 
-// Machine Structure
-recipes.remove(<libvulpes:structuremachine>);
-recipes.addShaped(<libvulpes:structuremachine>,
-  [[<ore:stickSteel>,<ore:plateIron>,<ore:stickSteel>],
-   [<ore:plateIron>,<ore:gearDark>,<ore:plateIron>],
-   [<ore:stickSteel>,<ore:plateIron>,<ore:stickSteel>]]);
-
 // Precision Assemblerlibvulpes
 recipes.remove(<advancedrocketry:precisionassemblingmachine>);
 recipes.addShaped(<advancedrocketry:precisionassemblingmachine>,

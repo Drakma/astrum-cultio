@@ -96,3 +96,16 @@ mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:0>, <enderio:item
 mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <moreplates:redstone_alloy_gear>, <liquid:redstone_alloy>, 720, false, 400);
 mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:3>, <moreplates:redstone_alloy_plate>, <liquid:redstone_alloy>, 144, false, 400);
 mods.tconstruct.Casting.addBasinRecipe(<enderio:block_alloy:3>, <enderio:block_alloy:3>, <liquid:redstone_alloy>, 1296, false, 1000);
+
+// Enderio Gears
+//mods.tconstruct.Casting.addTableRecipe(IItemStack output, IItemStack cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);
+
+mods.tconstruct.Casting.removeTableRecipe(<enderio:item_material:12>); // Energetic Gear
+mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:12>, <thermalfoundation:material:24>, <liquid:energetic_alloy>, 1296, true, 800);
+
+mods.tconstruct.Casting.removeTableRecipe(<enderio:item_material:13>); // Vibrant Gear
+mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:13>, <thermalfoundation:material:24>, <liquid:vibrant_alloy>, 1296, true, 800);
+
+mods.tconstruct.Casting.removeTableRecipe(<enderio:item_material:73>); // Dark Bimetal Gear
+mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:73>, <thermalfoundation:material:24>, <liquid:dark_steel>, 1296, true, 800);
+
