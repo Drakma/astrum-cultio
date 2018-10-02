@@ -73,3 +73,7 @@ recipes.addShaped(<minecraft:piston>,
 
 //Stone slabStone
 recipes.remove(<minecraft:stone_slab>);
+
+//Bone Meal
+recipes.remove(<minecraft:dye:15>, <minecraft:bone>);
+recipes.remove(<minecraft:dye:15>, <thebetweenlands:items_misc:14>);

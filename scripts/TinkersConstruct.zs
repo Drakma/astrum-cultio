@@ -44,6 +44,13 @@ recipes.addShaped(<tconstruct:tooltables:0>,
        [<ore:blockSeared>,<minecraft:crafting_table>,<ore:blockSeared>],
        [<ore:blockSeared>,null,<ore:blockSeared>]]);
 
+// Grout
+recipes.remove(<tconstruct:soil>);
+recipes.addShaped(<tconstruct:soil> * 2, 
+  [[ <ore:itemClay>, <ore:gravel>, null],
+   [ <ore:sand>, <minecraft:dye:15>, null]]);
+
+
 //Steel Press Molds
 mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:0>, <ore:plateSteel>, <liquid:steel>, 1296, true, 12000);
 mods.tconstruct.Casting.addTableRecipe(<teslacorelib:gear_stone>, <appliedenergistics2:material:40>, <liquid:stone>, 576, true, 200);

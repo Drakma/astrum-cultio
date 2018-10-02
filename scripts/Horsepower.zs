@@ -53,4 +53,4 @@ mods.horsepower.ChoppingBlock.add(<thebetweenlands:log_rubber>, 	<thebetweenland
 mods.horsepower.ChoppingBlock.add(<thebetweenlands:giant_root>, 	<thebetweenlands:giant_root_planks>, 	3,	false);
 
 //Sticks
-mods.horsepower.ChoppingBlock.add(<ore:woodPlank>, <minecraft:stick>, 3, false);
+mods.horsepower.ChoppingBlock.add(<ore:plankWood>, <minecraft:stick>, 3, false);

@@ -1,6 +1,6 @@
 recipes.remove(<prospectors:prospector_lowest>);
 recipes.addShaped(<prospectors:prospector_lowest>,
-    [[null,<ore:stickWood>,<ore:stone>],
+    [[null,<ore:stickWood>,<ore:slabStone>],
      [null,<tconstruct:stone_stick>,<ore:stickWood>],
      [<tconstruct:stone_stick>,null,null]]);
 
