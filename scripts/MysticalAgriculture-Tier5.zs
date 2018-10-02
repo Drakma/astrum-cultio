@@ -26,7 +26,7 @@ recipes.remove(<mysticalagriculture:manyullyn_seeds>);
 recipes.remove(<mysticalagriculture:vibrant_alloy_seeds>);
 recipes.remove(<mysticalagriculture:starmetal_seeds>);
 recipes.remove(<mysticalagriculture:rock_crystal_seeds>);
-recipes.remove(<mysticalagriculture:ender_amethyst_seeds>);
+recipes.remove(<mysticalagriculture:valonite_seed>);
 recipes.remove(<mysticalagriculture:wither_skeleton_seeds>);
 
 //mods.astralsorcery.Altar.addTraitAltarRecipe();
@@ -189,7 +189,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:rock_crystal_s
   <astralsorcery:blockmarble:1>, <astralsorcery:blockmarble:3>,
   <ore:anyStarlightLiquid>, <ore:anyStarlightLiquid>, <ore:anyStarlightLiquid>, <ore:anyStarlightLiquid>]);
 
-mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:ender_amethyst_seeds>, 5000, 600, [
+mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:valonite_seed>, 5000, 600, [
   <morebees:propoliscrystal>, <ore:essenceSupremium>, <morebees:propoliscrystal>,
   <ore:essenceSupremium>, <mysticalagriculture:crafting:21>, <ore:essenceSupremium>,
   <morebees:propoliscrystal>, <ore:essenceSupremium>, <morebees:propoliscrystal>,
@@ -200,7 +200,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:ender_amethyst
   <mysticalagriculture:emerald_essence>, <mysticalagriculture:emerald_essence>,
   <mysticalagriculture:platinum_essence>, <mysticalagriculture:platinum_essence>,
   <mysticalagriculture:starmetal_essence>, <mysticalagriculture:starmetal_essence>,
-  <advancedrocketry:buckethydrogen>.withTag({Fluid: {FluidName: "hydrogen", Amount: 1000}}), <advancedrocketry:buckethydrogen>.withTag({Fluid: {FluidName: "hydrogen", Amount: 1000}}), <advancedrocketry:buckethydrogen>.withTag({Fluid: {FluidName: "hydrogen", Amount: 1000}}), <advancedrocketry:buckethydrogen>.withTag({Fluid: {FluidName: "hydrogen", Amount: 1000}})]);
+  <thebetweenlands:items_misc:19>, <thebetweenlands:items_misc:19>, <thebetweenlands:items_misc:19>, <thebetweenlands:items_misc:19>]);
 
 val bee_queen_wither = <forestry:bee_queen_ge>.withTag({MaxH: 60, Mate: {Chromosomes: [{UID1: "morebees.species.wither", UID0: "morebees.species.wither", Slot: 0 as byte}, {UID1: "forestry.speedSlower", UID0: "forestry.speedSlower", Slot: 1 as byte}, {UID1: "forestry.lifespanLonger", UID0: "forestry.lifespanLonger", Slot: 2 as byte}, {UID1: "forestry.fertilityLow", UID0: "forestry.fertilityLow", Slot: 3 as byte}, {UID1: "forestry.toleranceUp3", UID0: "forestry.toleranceUp3", Slot: 4 as byte}, {UID1: "forestry.boolTrue", UID0: "forestry.boolTrue", Slot: 5 as byte}, {UID1: "forestry.toleranceUp1", UID0: "forestry.toleranceUp1", Slot: 6 as byte}, {UID1: "forestry.boolFalse", UID0: "forestry.boolFalse", Slot: 7 as byte}, {UID1: "forestry.boolTrue", UID0: "forestry.boolTrue", Slot: 8 as byte}, {UID1: "forestry.flowersNether", UID0: "forestry.flowersNether", Slot: 9 as byte}, {UID1: "forestry.floweringSlowest", UID0: "forestry.floweringSlowest", Slot: 10 as byte}, {UID1: "forestry.territoryLargest", UID0: "forestry.territoryLargest", Slot: 11 as byte}, {UID1: "forestry.effectWither", UID0: "forestry.effectWither", Slot: 12 as byte}]}, Health: 60, IsAnalyzed: 0 as byte, Genome: {Chromosomes: [{UID1: "morebees.species.wither", UID0: "morebees.species.wither", Slot: 0 as byte}, {UID1: "forestry.speedSlower", UID0: "forestry.speedSlower", Slot: 1 as byte}, {UID1: "forestry.lifespanLonger", UID0: "forestry.lifespanLonger", Slot: 2 as byte}, {UID1: "forestry.fertilityLow", UID0: "forestry.fertilityLow", Slot: 3 as byte}, {UID1: "forestry.toleranceUp3", UID0: "forestry.toleranceUp3", Slot: 4 as byte}, {UID1: "forestry.boolTrue", UID0: "forestry.boolTrue", Slot: 5 as byte}, {UID1: "forestry.toleranceUp1", UID0: "forestry.toleranceUp1", Slot: 6 as byte}, {UID1: "forestry.boolFalse", UID0: "forestry.boolFalse", Slot: 7 as byte}, {UID1: "forestry.boolTrue", UID0: "forestry.boolTrue", Slot: 8 as byte}, {UID1: "forestry.flowersNether", UID0: "forestry.flowersNether", Slot: 9 as byte}, {UID1: "forestry.floweringSlowest", UID0: "forestry.floweringSlowest", Slot: 10 as byte}, {UID1: "forestry.territoryLargest", UID0: "forestry.territoryLargest", Slot: 11 as byte}, {UID1: "forestry.effectWither", UID0: "forestry.effectWither", Slot: 12 as byte}]}});
 

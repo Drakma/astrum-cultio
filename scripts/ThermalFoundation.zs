@@ -23,6 +23,12 @@ recipes.remove(<thermalfoundation:material:263>);
 recipes.remove(<thermalfoundation:material:264>);
 recipes.remove(<thermalfoundation:material:288>);
 
+// ======================================================================
+// Pulverizer
+// mods.thermalexpansion.Pulverizer.addRecipe(IItemStack output, IItemStack input, int energy, @Optional IItemStack secondaryOutput, @Optional int secondaryChance);
+// ======================================================================
+mods.thermalexpansion.Pulverizer.addRecipe(<enderio:block_infinity_fog>, <enderio:item_material:20>, 1000);
+
 // ====================================================================
 // Induction Smelter
 // mods.thermalexpansion.InductionSmelter.addRecipe(IItemStack primaryOutput, IItemStack primaryInput, IItemStack secondaryInput, int energy, @Optional IItemStack secondaryOutput, @Optional int secondaryChance);

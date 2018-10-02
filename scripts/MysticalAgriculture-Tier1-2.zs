@@ -155,7 +155,7 @@ mods.astralsorcery.Altar.addDiscoveryAltarRecipe(<mysticalagriculture:aquamarine
   <astralsorcery:itemcraftingcomponent:0>, <mysticalagriculture:crafting:1>, <astralsorcery:itemcraftingcomponent:0>,
   <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>,
   <astralsorcery:itemcraftingcomponent:0>, <mysticalagriculture:crafting:1>, <astralsorcery:itemcraftingcomponent:0>]);
-mods.astralsorcery.Altar.addDiscoveryAltarRecipe(<mysticalagriculture:slate_seeds>, 400, 600, [
+mods.astralsorcery.Altar.addDiscoveryAltarRecipe(<mysticalagriculture:grains_of_infinity_seed>, 400, 600, [
   <enderio:block_infinity_fog>, <mysticalagriculture:crafting:1>, <enderio:block_infinity_fog>,
   <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>,
   <enderio:block_infinity_fog>, <mysticalagriculture:crafting:1>, <enderio:block_infinity_fog>]);
