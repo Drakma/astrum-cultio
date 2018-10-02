@@ -1,8 +1,6 @@
 //Iron
 mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:39>);
-//mods.tconstruct.Casting.removeTableRecipe(<moreplates:iron_gear>);
-//mods.tconstruct.Casting.addTableRecipe(IItemStack output, IItemStack cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);
-mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:24>, <teslacorelib:gear_stone>, <liquid:iron>, 576, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:24>, <thermalfoundation:material:23>, <liquid:iron>, 576, true, 200);
 
 //Gold
 mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:40>);
@@ -32,6 +30,29 @@ mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:36>);
 //Uranium
 mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:35>);
 
+// Thermal Gears
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:24>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:25>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:26>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:27>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:256>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:257>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:258>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:259>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:260>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:295>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:294>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:293>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:292>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:291>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:290>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:289>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:288>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:264>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:263>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:262>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:261>);
+
 //Gears
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:4>);
 mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <thermalfoundation:material:24>, <liquid:gold>, 288, true, 200);
@@ -53,8 +74,8 @@ recipes.addShaped(<tconstruct:soil> * 2,
 
 //Steel Press Molds
 mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:0>, <ore:plateSteel>, <liquid:steel>, 1296, true, 12000);
-mods.tconstruct.Casting.addTableRecipe(<teslacorelib:gear_stone>, <appliedenergistics2:material:40>, <liquid:stone>, 576, true, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:metal:38>, <immersiveengineering:metal:39>, <liquid:steel>, 1296, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:23>, <appliedenergistics2:material:40>, <liquid:stone>, 576, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:352>, <ore:plateIron>, <liquid:steel>, 1296, true, 200);
 
 // Steel Rod Molds
 val iron_rod = <tconstruct:tool_rod>.withTag({Material: "iron"});
@@ -62,8 +83,8 @@ mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:material:2>, iron_r
 mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:2>, <immersiveengineering:material:2>, <liquid:steel>, 1296, true, 12000);
 
 // Steel Gear Molds
-mods.tconstruct.Casting.addTableRecipe(<libvulpes:productgear:6>, <ore:gearIron>, <liquid:steel>, 576, true, 200);
-mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:1>, <libvulpes:productgear:6>, <liquid:steel>, 1296, true, 12000);
+mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:288>, <ore:gearIron>, <liquid:steel>, 576, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<immersiveengineering:mold:1>, <thermalfoundation:material:288>, <liquid:steel>, 1296, true, 12000);
 
 // Copper Wire
 val cast_string = <tconstruct:cast>.withTag({PartType: "tconstruct:bow_string"});
@@ -116,3 +137,14 @@ mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:13>, <thermalfound
 mods.tconstruct.Casting.removeTableRecipe(<enderio:item_material:73>); // Dark Bimetal Gear
 mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:73>, <thermalfoundation:material:24>, <liquid:dark_steel>, 1296, true, 800);
 
+// Thermal Plates
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:359>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:358>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:357>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:356>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:355>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:354>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:353>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:328>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:327>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:326>);

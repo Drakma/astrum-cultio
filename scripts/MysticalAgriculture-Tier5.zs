@@ -26,7 +26,7 @@ recipes.remove(<mysticalagriculture:manyullyn_seeds>);
 recipes.remove(<mysticalagriculture:vibrant_alloy_seeds>);
 recipes.remove(<mysticalagriculture:starmetal_seeds>);
 recipes.remove(<mysticalagriculture:rock_crystal_seeds>);
-recipes.remove(<mysticalagriculture:valonite_seed>);
+recipes.remove(<mysticalagriculture:valonite_seeds>);
 recipes.remove(<mysticalagriculture:wither_skeleton_seeds>);
 
 //mods.astralsorcery.Altar.addTraitAltarRecipe();
@@ -189,7 +189,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:rock_crystal_s
   <astralsorcery:blockmarble:1>, <astralsorcery:blockmarble:3>,
   <ore:anyStarlightLiquid>, <ore:anyStarlightLiquid>, <ore:anyStarlightLiquid>, <ore:anyStarlightLiquid>]);
 
-mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:valonite_seed>, 5000, 600, [
+mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:valonite_seeds>, 5000, 600, [
   <morebees:propoliscrystal>, <ore:essenceSupremium>, <morebees:propoliscrystal>,
   <ore:essenceSupremium>, <mysticalagriculture:crafting:21>, <ore:essenceSupremium>,
   <morebees:propoliscrystal>, <ore:essenceSupremium>, <morebees:propoliscrystal>,
@@ -211,7 +211,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe(<mysticalagriculture:wither_skeleto
   <minecraft:skull:1>, <minecraft:skull:1>, <minecraft:skull:1>, <minecraft:skull:1>,
   <morebees:combwither>, <morebees:combwither>,
   <quark:black_ash>, <quark:black_ash>,
-  <quark:black_ash>, <quark:black_ash>,
+  <quark:black_ash>, <quark:black_ash>,                                                                                             
   bee_queen_wither, bee_queen_wither,
   <mysticalagriculture:soulstone>, <enderio:item_soul_vial:1>.withTag({entityId: "minecraft:wither_skeleton"}),
   <enderio:item_soul_vial:1>.withTag({entityId: "minecraft:wither_skeleton"}), <mysticalagriculture:soulstone>,

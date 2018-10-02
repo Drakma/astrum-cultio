@@ -12,6 +12,7 @@ recipes.remove(<thermalfoundation:material:290>);
 recipes.remove(<thermalfoundation:material:289>);
 recipes.remove(<thermalfoundation:material:24>);
 recipes.remove(<thermalfoundation:material:25>);
+recipes.remove(<thermalfoundation:material:27>);
 recipes.remove(<thermalfoundation:material:256>);
 recipes.remove(<thermalfoundation:material:257>);
 recipes.remove(<thermalfoundation:material:258>);

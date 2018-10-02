@@ -1,6 +1,6 @@
 recipes.remove(<appliedenergistics2:sky_compass>);
 recipes.addShaped(<appliedenergistics2:sky_compass>,
-    [[null,<immersiveengineering:metal:31>,null],
+    [[null,<ore:plateAluminum>,null],
      [<ore:plateSteel>,<appliedenergistics2:material:1>,<ore:plateSteel>],
      [null,<ore:plateRedstoneAlloy>,null]]);
 

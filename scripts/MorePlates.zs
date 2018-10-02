@@ -1,3 +1,14 @@
+// Rods
+recipes.remove(<moreplates:gold_stick>);
+recipes.remove(<moreplates:bronze_stick>);
+recipes.remove(<moreplates:constantan_stick>);
+recipes.remove(<moreplates:electrum_stick>);
+recipes.remove(<moreplates:lead_stick>);
+recipes.remove(<moreplates:nickel_stick>);
+recipes.remove(<moreplates:platinum_stick>);
+recipes.remove(<moreplates:silver_stick>);
+recipes.remove(<moreplates:tin_stick>);
+
 // Plates
 recipes.remove(<moreplates:certus_quartz_plate>);
 recipes.remove(<moreplates:fluix_plate>);
@@ -113,7 +124,6 @@ recipes.remove(<moreplates:manyullyn_gear>);
 recipes.remove(<moreplates:pig_iron_gear>);
 recipes.remove(<moreplates:ironwood_gear>);
 recipes.remove(<moreplates:coal_gear>);
-recipes.remove(<moreplates:emerald_gear>);
 recipes.remove(<moreplates:glowstone_gear>);
 recipes.remove(<moreplates:lapis_lazuli_gear>);
 recipes.remove(<moreplates:nether_quartz_gear>);
@@ -170,22 +180,11 @@ mods.immersiveengineering.MetalPress.addRecipe(<moreplates:cobalt_gear>,<ore:ing
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:knightslime_gear>,<ore:ingotKnightslime> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:manyullyn_gear>,<ore:ingotManyullyn> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:pig_iron_gear>,<ore:ingotPigiron> * 4,<immersiveengineering:mold:1>, 500);
-mods.immersiveengineering.MetalPress.addRecipe(<moreplates:emerald_gear>,<ore:blockEmerald> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:glowstone_gear>,<ore:dustGlowstone> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:lapis_lazuli_gear>,<ore:gemLapis> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:nether_quartz_gear>,<ore:gemQuartz> * 4,<immersiveengineering:mold:1>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:redstone_gear>,<ore:dustRedstone> * 4,<immersiveengineering:mold:1>, 500);
 
-//Sticks
-recipes.remove(<moreplates:gold_stick>);
-recipes.remove(<moreplates:bronze_stick>);
-recipes.remove(<moreplates:constantan_stick>);
-recipes.remove(<moreplates:electrum_stick>);
-recipes.remove(<moreplates:lead_stick>);
-recipes.remove(<moreplates:nickel_stick>);
-recipes.remove(<moreplates:platinum_stick>);
-recipes.remove(<moreplates:silver_stick>);
-recipes.remove(<moreplates:tin_stick>);
 
 /* mods.immersiveengineering.MetalPress.addRecipe(<moreplates:gold_stick>,<ore:ingotGold>,<immersiveengineering:mold:2>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<moreplates:bronze_stick>,<ore:ingotBronze>,<immersiveengineering:mold:2>, 500);

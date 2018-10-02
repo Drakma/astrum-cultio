@@ -1,19 +1,24 @@
 import mods.industrialforegoing.LaserDrill;
 
 // Diamond Gears
-recipes.remove(<moreplates:diamond_gear>);
-mods.immersiveengineering.MetalPress.addRecipe(<moreplates:diamond_gear>, <minecraft:diamond_block>, <immersiveengineering:mold:1>, 500);
+recipes.remove(<thermalfoundation:material:26>);
+mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:26>, <minecraft:diamond_block>, <immersiveengineering:mold:1>, 500);
 
 // stone Gears
-recipes.remove(<teslacorelib:gear_stone>);
-recipes.addShaped(<teslacorelib:gear_stone>,
+recipes.remove(<thermalfoundation:material:23>);
+recipes.addShaped(<thermalfoundation:material:23>,
     [[null,<ore:stone>,null],
-     [<ore:stone>,<appliedenergistics2:material:40>,<ore:stone>],
+     [<ore:stone>,<ore:gearWood>,<ore:stone>],
      [null,<ore:stone>,null]]);
 
-// wood Gears
+// Wood Gears
 recipes.remove(<appliedenergistics2:material:40>);
 recipes.addShaped(<appliedenergistics2:material:40>,
+    [[<ore:stickWood>,<ore:plankWood>,<ore:stickWood>],
+     [<ore:plankWood>,null,<ore:plankWood>],
+     [<ore:stickWood>,<ore:plankWood>,<ore:stickWood>]]);
+
+recipes.addShaped(<thermalfoundation:material:22>,
     [[<ore:stickWood>,<ore:plankWood>,<ore:stickWood>],
      [<ore:plankWood>,null,<ore:plankWood>],
      [<ore:stickWood>,<ore:plankWood>,<ore:stickWood>]]);
